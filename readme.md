@@ -17,19 +17,31 @@
 - [All WDI Exercises](http://repotagger.github.io?name=ga-wdi-exercises)
 - [All WDI Lessons](http://repotagger.github.io?name=ga-wdi-lessons)
 - [Installfest](https://github.com/ga-dc/installfest)
-- [Outcomes Roadmap](https://docs.google.com/document/d/1uxq2Z_UPrlUJSlSGXgOWfC-A-3F6tWdzd1uqMxcaktA/edit)
+- [Outcomes Roadmap](https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit)
 
 ## Communication
 
 - [Asking for Help](asking-for-help.md)
 - Slack
   - You have been invited to three different slack teams:
-    - [WDI DC 11](https://wdi12dc.slack.com) - Our primary slack team
+    - [WDI DC 12](https://wdi12dc.slack.com) - Our primary slack team
       - [#announcements](https://wdi12dc.slack.com/archives/announcements)
       - [#discussion](https://wdi12dc.slack.com/archives/discussion)
     - [GA DC Campus](https://gadc-campus.slack.com) - The DC alumni team
     - [GA Immersive Students](https://ga-students.slack.com) - Every Immersive student ever at any campus
       - [#wdi-fundamentals](https://ga-students.slack.com/messages/wdi-fundamentals/)
+
+## FAQs
+
+> How do I give feedback on my experience?
+
+Submit an anonymous response to our [feedback form here](https://docs.google.com/forms/u/1/d/10uz4L2kuKBrnIeGQmabJtihytdhHseKPksIhv-ItnwQ)
+
+> When are instructors available outside of in-class instruction?
+
+We have [office hours](office-hours.md) during 1:30 - 2:30pm M-W and 6-8pm M-W
+
+
 
 - Tips
   - <code>&grave;hello&grave;</code>: Backtics (the top-left of the keyboard on a Mac) makes text show up in a monospace font. Great for code.
