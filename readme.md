@@ -1,9 +1,8 @@
-
-# ![](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) WDI 11 Syllabus
+# ![](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) WDI 12 Syllabus
 
 ## Administrative
 
-- [Calendar](http://ga-dc.github.io/wdi11/)
+- [Calendar](http://ga-dc.github.io/wdi12/)
   - **Includes all lessons and homework assignments with due dates**
 - [Attendance](attendance.md)
 - [Homework Policy](homework-policy.md)
@@ -25,9 +24,9 @@
 - [Asking for Help](asking-for-help.md)
 - Slack
   - You have been invited to three different slack teams:
-    - [WDI DC 11](https://wdidc11.slack.com) - Our primary slack team
-      - [#announcements](https://wdidc11.slack.com/archives/announcements)
-      - [#discussion](https://wdidc11.slack.com/archives/discussion)
+    - [WDI DC 11](https://wdi12dc.slack.com) - Our primary slack team
+      - [#announcements](https://wdi12dc.slack.com/archives/announcements)
+      - [#discussion](https://wdi12dc.slack.com/archives/discussion)
     - [GA DC Campus](https://gadc-campus.slack.com) - The DC alumni team
     - [GA Immersive Students](https://ga-students.slack.com) - Every Immersive student ever at any campus
       - [#wdi-fundamentals](https://ga-students.slack.com/messages/wdi-fundamentals/)
