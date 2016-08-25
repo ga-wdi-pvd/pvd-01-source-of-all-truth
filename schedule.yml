@@ -131,7 +131,7 @@
        url: ""
        lead: ""
        support: ""
-    - "2:30PM - 5:00PM":
+    - "10:00AM - 12:30PM":
        title: "Events and Callbacks"
        url: "https://github.com/ga-wdi-lessons/js-events-callbacks"
        lead: ""
