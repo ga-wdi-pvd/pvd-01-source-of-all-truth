@@ -35,7 +35,7 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "Homework Due"
+       title: "Due At 9: Homework"
        url:
          - To Oz: https://github.com/ga-wdi-exercises/to_oz
          - Haiku: https://github.com/ga-wdi-exercises/haiku
@@ -79,13 +79,13 @@
        lead: ""
        support: ""
     - "05:00PM":
-       title: "DUE AT 9: Lab"
+       title: "Due At 9: Lab"
        url: "https://github.com/ga-wdi-exercises/portfolio_pages"
        lead: ""
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Checkpoint 01"
+       title: "Due At 9: Checkpoint 01"
        url: "http://vvdi.ga/01"
        lead: ""
        support: ""
@@ -106,7 +106,7 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Outcomes Prework"
+       title: "Due At 9: Outcomes Prework"
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wxvonjnvki5q"
        lead: ""
        support: ""
@@ -144,7 +144,7 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Homework"
+       title: "Due At 9: Homework"
        url:
           - JS Calculator: https://github.com/ga-wdi-exercises/js-calculator
           - Choose Your Own Adventure: https://github.com/ga-wdi-exercises/choose_your_own_adventure_js
@@ -188,13 +188,13 @@
        lead: ""
        support: ""
     - "5:00PM":
-       title: "DUE AT 5: Lab"
+       title: "Due At 5: Lab"
        url: "https://github.com/ga-wdi-exercises/atm"
        lead: ""
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Checkpoint 02"
+       title: "Due At 9: Checkpoint 02"
        url: ""
        lead: ""
        support: ""
@@ -210,7 +210,7 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Outcomes Homework"
+       title: "Due At 9: Outcomes Homework"
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.2u132dzacx0m"
        lead: ""
        support: ""
@@ -280,7 +280,7 @@
 
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Checkpoint 03"
+       title: "Due At 9: Checkpoint 03"
        url: ""
        lead: ""
        support: ""
@@ -301,7 +301,7 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Outcomes Homework"
+       title: "Due At 9: Outcomes Homework"
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.u6qsl4p95n0l"
        lead: ""
        support: ""
@@ -338,8 +338,9 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Homework"
+       title: "Due At 9: Homework"
        url:
+         - ES6/OOJS:
          - High Card: https://github.com/ga-wdi-exercises/high_card
          - Landlord: https://github.com/ga-wdi-exercises/landlord_ruby_no_AR
        lead: ""
@@ -377,7 +378,7 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Checkpoint 04"
+       title: "Due At 9: Checkpoint 04"
        url: ""
        lead: ""
        support: ""
@@ -398,7 +399,7 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Outcomes Homework"
+       title: "Due At 9: Outcomes Homework"
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wk3hi0h158tc"
        lead: ""
        support: ""
@@ -434,13 +435,13 @@
        lead: ""
        support: ""
     - "5:00PM":
-       title: "DUE AT 5: Lab"
+       title: "Due At 5: Lab"
        url: "https://github.com/ga-wdi-exercises/pokenatra"
        lead: ""
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Homework"
+       title: "Due At 9: Homework"
        url:
          - Library SQL: https://github.com/ga-wdi-exercises/library_sql
          - Landlord (AR): https://github.com/ga-wdi-exercises/landlord
@@ -480,7 +481,7 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Getting Started with Rails, Chapters 1-5"
+       title: "Due At 9: Getting Started with Rails, Chapters 1-5"
        url: "https://github.com/ga-wdi-exercises/rails_getting_started"
        lead: ""
        support: ""
@@ -501,7 +502,7 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Outcomes Homework"
+       title: "Due At 9: Outcomes Homework"
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.cg9dz5vnoxyv"
        lead: ""
        support: ""
@@ -538,7 +539,7 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Homework"
+       title: "Due At 9: Homework"
        url: ""
        lead: ""
        support: ""
@@ -571,7 +572,7 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Outcomes Homework"
+       title: "Due At 9: Outcomes Homework"
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.x30z89dj1tpp"
        lead: ""
        support: ""
@@ -603,7 +604,7 @@
        lead: ""
        support: ""
     - "12:00PM":
-       title: "DUE AT NOON: Project & Video"
+       title: "Due At Noon: Project & Video"
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
@@ -638,6 +639,11 @@
        url: "https://ga-wdi-exercises.github.io/angular-starter-wdi/"
        lead: ""
        support: ""
+    - "5:00PM":
+       title: "Due At 5: Lab"
+       url: "https://ga-wdi-exercises.github.io/angular-starter-wdi/"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Slips"
@@ -656,7 +662,7 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Outcomes Homework"
+       title: "Due At 9: Outcomes Homework"
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wi2bmbfz822i"
        lead: ""
        support: ""
@@ -693,7 +699,7 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Homework Due"
+       title: "Due At 9: Homework Due"
        url:
          - Movie Browser: https://github.com/ga-wdi-exercises/movie-browser
          - WDInstagram: https://github.com/ga-wdi-exercises/wdinstagram_rails_api
@@ -711,7 +717,7 @@
        lead: ""
        support: ""
     - "5:00PM":
-       title: "DUE AT 5: WDI Radio Lab"
+       title: "Due At 5: WDI Radio Lab"
        url: "https://github.com/ga-wdi-exercises/wdi_radio_lab"
        lead: ""
        support: ""
@@ -734,7 +740,7 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Outcomes Homework"
+       title: "Due At 9: Outcomes Homework"
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.y4efrm9isxqq"
        lead: ""
        support: ""
@@ -766,7 +772,7 @@
        lead: ""
        support: ""
     - "12:00PM":
-       title: "DUE AT NOON: Project 3"
+       title: "Due At Noon: Project 3"
        url: "https://github.com/ga-wdi-exercises/project3"
        lead: ""
        support: ""
@@ -782,7 +788,7 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Read Mongo Lesson"
+       title: "Due At 9: Read Mongo Lesson"
        url:
          - Mongo Reading: http://github.com/ga-wdi-lessons/mongo-intro
        lead: ""
@@ -820,7 +826,7 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Outcomes Homework"
+       title: "Due At 9: Outcomes Homework"
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.ean1416jej6g"
        lead: ""
        support: ""
@@ -905,7 +911,7 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Outcomes Homework"
+       title: "Due At 9: Outcomes Homework"
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.ocqgm28l81uu"
        lead: ""
        support: ""
@@ -970,7 +976,7 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Outcomes Homework"
+       title: "Due At 9: Outcomes Homework"
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.xjrafuz8joi"
        lead: ""
        support: ""
