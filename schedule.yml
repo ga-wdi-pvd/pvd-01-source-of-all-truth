@@ -859,30 +859,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00 PM":
-       title: "React Router"
+       title: "Lab: Component Extravaganza"
        url: ""
-       lead: ""
-       support: ""
-  - day:
-    - "10:00AM - 12:30PM":
-       title: "React Axios"
-       url: ""
-       lead: ""
-       support: ""
-    - "2:30PM - 5:00 PM":
-       title: "React Extravaganza"
-       url: ""
-       lead: ""
-       support: ""
-  - day:
-    - "10:00AM - 12:30PM":
-       title: "React Lab"
-       url: "https://github.com/ga-wdi-exercises/todo-app-react"
-       lead: ""
-       support: ""
-    - "2:30PM - 5:00 PM":
-       title: "React Lab"
-       url: "https://github.com/ga-wdi-exercises/todo-app-react"
        lead: ""
        support: ""
   - day:
@@ -892,14 +870,36 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00 PM":
-       title: "Computer Science"
-       url: "https://github.com/ga-wdi-lessons/cs-algorithms"
+       title: "React Continued"
+       url: "https://github.com/ga-wdi-lessons/react-continued"
        lead: ""
        support: ""
   - day:
     - "10:00AM - 12:30PM":
-       title: "TBA"
+       title: "React Lab"
+       url: "https://github.com/ga-wdi-exercises/todo-app-react"
+       lead: ""
+       support: ""
+    - "2:30PM - 5:00 PM":
+       title: "React Lab"
+       url: "https://github.com/ga-wdi-exercises/todo-app-react"
+       lead: ""
+       support: ""
+  - day:
+    - "10:00AM - 12:30PM":
+       title: "React Router"
        url: ""
+       lead: ""
+       support: ""
+    - "2:30PM - 5:00 PM":
+       title: "React with Axios"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "10:00AM - 12:30PM":
+       title: "Computer Science"
+       url: "https://github.com/ga-wdi-lessons/cs-algorithms"
        lead: ""
        support: ""
     - "2:30PM - 5:00 PM":
