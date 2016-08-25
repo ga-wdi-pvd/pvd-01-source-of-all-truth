@@ -900,10 +900,15 @@
        support: ""
     - "2:30PM - 5:00 PM":
        title: "Lab: Component Extravaganza"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.ocqgm28l81uu"
+       url: ""
        lead: ""
        support: ""
   - day:
+    - "9:00AM":
+       title: "DUE AT 9: Outcomes Homework"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.ocqgm28l81uu"
+       lead: ""
+       support: ""
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
        url: ""
