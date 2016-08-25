@@ -262,7 +262,7 @@
         lead: ""
         support: ""
   - day:
-    - "9:00AM":
+    - "9:00AM - 10:00AM":
        title: "Review/Code Challenge"
        url: ""
        lead: ""
@@ -370,7 +370,7 @@
        url: "https://github.com/ga-wdi-lessons/sql-erd"
        lead: ""
        support: ""
-    - "3:30PM - 5:00PM":
+    - "2:30PM - 5:00PM":
        title: "Active Record"
        url: "https://github.com/ga-wdi-lessons/activerecord-intro"
        lead: ""
@@ -597,7 +597,7 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 12:30PM":
+    - "9:00AM - 12:00PM":
        title: "Project 2"
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
@@ -787,7 +787,7 @@
          - Mongo Reading: http://github.com/ga-wdi-lessons/mongo-intro
        lead: ""
        support: ""
-    - "9:00AM - 12:00PM":
+    - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
        url: ""
        lead: ""
@@ -803,7 +803,7 @@
        lead: ""
        support: ""
   - day:
-    - "09:00AM - 10:00PM":
+    - "9:00AM - 10:00PM":
        title: "Slips"
        url: "https://ga-dc.github.io/slips"
        lead: ""
@@ -845,13 +845,8 @@
        url: "https://github.com/ga-wdi-lessons/building-a-mean-app"
        lead: ""
        support: ""
-    - "10:00AM - 12:30PM":
+    - "10:00AM - 4:30PM":
        title: "MEAN Lab"
-       url: "https://github.com/ga-wdi-exercises/websocket-arcade"
-       lead: ""
-       support: ""
-    - "2:30PM - 4:30 PM":
-       title: "Mean Lab pt. II"
        url: "https://github.com/ga-wdi-exercises/websocket-arcade"
        lead: ""
        support: ""
@@ -893,6 +888,11 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM - 10:00AM":
+       title: "Slips"
+       url: "http://ga-dc.github.io/slips/"
+       lead: ""
+       support: ""
     - "10:00AM - 12:30PM":
        title: "React Intro"
        url: "https://github.com/ga-wdi-lessons/react-intro"
@@ -925,17 +925,17 @@
        lead: ""
        support: ""
   - day:
-    - "10:00AM - 12:30PM":
-       title: "React Lab"
-       url: "https://github.com/ga-wdi-exercises/todo-app-react"
-       lead: ""
-       support: ""
-    - "2:30PM - 5:00 PM":
-       title: "React Lab"
+    - "9:00AM - 4:30PM":
+       title: "Lab: React"
        url: "https://github.com/ga-wdi-exercises/todo-app-react"
        lead: ""
        support: ""
   - day:
+    - "9:00AM - 10:00AM":
+       title: "Review/Code Challenge"
+       url: ""
+       lead: ""
+       support: ""
     - "10:00AM - 12:30PM":
        title: "React Router"
        url: ""
@@ -947,6 +947,11 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM - 10:00AM":
+       title: "Review/Code Challenge"
+       url: ""
+       lead: ""
+       support: ""
     - "10:00AM - 12:30PM":
        title: "Computer Science"
        url: "https://github.com/ga-wdi-lessons/cs-algorithms"
@@ -974,6 +979,11 @@
        url: ""
        lead: ""
        support: ""
+    - "10:00AM - 12:30PM":
+       title: "Outcomes"
+       url: ""
+       lead: ""
+       support: ""
     - "9:00AM - 5:00PM":
        title: "Project 4"
        url: "https://github.com/ga-wdi-exercises/project4"
@@ -1022,18 +1032,23 @@
        lead: ""
        support: ""
   - day:
-    - "12:00PM":
+    - "9:00AM - 12:00PM":
+       title: "Project 4"
+       url: "https://github.com/ga-wdi-exercises/project4"
+       lead: ""
+       support: ""
+    - "2:00PM - 4:00PM":
        title: "Project 4 Presentations"
        url: "https://github.com/ga-wdi-exercises/project4#presentations"
        lead: ""
        support: ""
-    - "2:30PM-4:00PM":
-       title: "Life After WDI"
-       url: "https://github.com/ga-dc/after-wdi"
-       lead: ""
-       support: ""
-    - "4:00PM-5:00PM":
+    - "4:00PM - 4:30PM":
        title: "Final Scrum, Feedback & Envelopes"
        url: ""
+       lead: ""
+       support: ""
+    - "4:30PM - 5:00PM":
+       title: "Life After WDI"
+       url: "https://github.com/ga-dc/after-wdi"
        lead: ""
        support: ""
