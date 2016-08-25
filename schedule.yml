@@ -105,7 +105,12 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 10:00AM":
+    - "9:00AM":
+       title: "DUE AT 9: Outcomes Prework"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wxvonjnvki5q"
+       lead: ""
+       support: ""
+    - "9:00AM":
        title: "Outcomes Prep"
        url: ""
        lead: ""
@@ -204,6 +209,11 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM":
+       title: "DUE AT 9: Outcomes Homework"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.2u132dzacx0m"
+       lead: ""
+       support: ""
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
        url: ""
@@ -290,6 +300,11 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM":
+       title: "DUE AT 9: Outcomes Homework"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.u6qsl4p95n0l"
+       lead: ""
+       support: ""
     - "9:00AM - 10:00PM":
        title: "Outcomes Prep"
        url: ""
@@ -382,6 +397,11 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM":
+       title: "DUE AT 9: Outcomes Homework"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wk3hi0h158tc"
+       lead: ""
+       support: ""
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
        url: ""
@@ -481,13 +501,13 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "Homework Due: Hogwarts"
-       url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
+       title: "DUE AT 9: Outcomes Homework"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.cg9dz5vnoxyv"
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
-       url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -551,6 +571,11 @@
        support: ""
   - day:
     - "9:00AM":
+       title: "DUE AT 9: Outcomes Homework"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.x30z89dj1tpp"
+       lead: ""
+       support: ""
+    - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
        url: ""
        lead: ""
@@ -630,6 +655,11 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM":
+       title: "DUE AT 9: Outcomes Homework"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wi2bmbfz822i"
+       lead: ""
+       support: ""
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
        url: ""
@@ -703,6 +733,11 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM":
+       title: "DUE AT 9: Outcomes Homework"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.y4efrm9isxqq"
+       lead: ""
+       support: ""
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
        url: ""
@@ -784,6 +819,11 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM":
+       title: "DUE AT 9: Outcomes Homework"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.ean1416jej6g"
+       lead: ""
+       support: ""
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
        url: ""
@@ -860,10 +900,15 @@
        support: ""
     - "2:30PM - 5:00 PM":
        title: "Lab: Component Extravaganza"
-       url: ""
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.ocqgm28l81uu"
        lead: ""
        support: ""
   - day:
+    - "9:00AM - 10:00AM":
+       title: "Outcomes Prep"
+       url: ""
+       lead: ""
+       support: ""
     - "10:00AM - 12:30PM":
        title: "Outcomes"
        url: ""
@@ -914,6 +959,16 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM":
+       title: "DUE AT 9: Outcomes Homework"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.xjrafuz8joi"
+       lead: ""
+       support: ""
+    - "9:00AM - 10:00AM":
+       title: "Outcomes Prep"
+       url: ""
+       lead: ""
+       support: ""
     - "9:00AM - 5:00PM":
        title: "Project 4"
        url: "https://github.com/ga-wdi-exercises/project4"
