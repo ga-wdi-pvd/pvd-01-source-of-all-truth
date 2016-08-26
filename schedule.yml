@@ -81,7 +81,6 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Checkpoint 01"
-       url: ""
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
@@ -566,7 +565,6 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Checkpoint 06"
-       url: ""
        lead: ""
        support: ""
     - "9:00AM - 5:00PM":
@@ -739,7 +737,6 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Checkpoint 07"
-       url: ""
        lead: ""
        support: ""
     - "9:00AM - 5:00PM":
@@ -828,12 +825,10 @@
        support: ""
     - "2:30PM - 5:00 PM":
        title: "MEN Lab: URL Shortner"
-       url: ""
        lead: ""
        support: ""
     - "5:00 PM":
        title: "Due At 5: MEN Lab"
-       url: ""
        lead: ""
        support: ""
   - day:
@@ -926,7 +921,6 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Checkpoint 08"
-       url: ""
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
@@ -941,12 +935,10 @@
        support: ""
     - "2:30PM - 5:00 PM":
        title: "Lab: Component Extravaganza"
-       url: ""
        lead: ""
        support: ""
     - "5:00 PM":
        title: "Due At 5: Lab"
-       url: ""
        lead: ""
        support: ""
   - day:
@@ -978,7 +970,6 @@
        support: ""
     - "5:00 PM":
        title: "Due At 5: Lab"
-       url: ""
        lead: ""
        support: ""
   - day:
@@ -988,12 +979,10 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "React Router"
-       url: ""
        lead: ""
        support: ""
     - "2:30PM - 5:00 PM":
        title: "React with Axios"
-       url: ""
        lead: ""
        support: ""
   - day:
@@ -1015,7 +1004,6 @@
        support: ""
     - "2:30PM - 5:00 PM":
        title: "TBA"
-       url: ""
        lead: ""
        support: ""
   - day:
