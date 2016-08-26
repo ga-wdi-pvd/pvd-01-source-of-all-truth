@@ -6,7 +6,6 @@
 
 2. **Update your GitHub profile with your full name and profile picture.** The latter is very important - we need to know what you look like! The clearer the picture, the better.
 
-
 Once you're done, we encourage you to take a look through [this readme](https://github.com/ga-dc/wdi12/blob/master/readme.md) if you would like to learn more about what you can expect out of WDI.
 
 See you all at orientation!
