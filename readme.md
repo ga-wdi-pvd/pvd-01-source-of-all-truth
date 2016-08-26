@@ -31,23 +31,22 @@
 
 ## FAQs
 
-> How do I give feedback on my experience?
+How do I give feedback on my experience?
 
-Submit an anonymous response to our [feedback form here](https://docs.google.com/forms/u/1/d/10uz4L2kuKBrnIeGQmabJtihytdhHseKPksIhv-ItnwQ)
+> Submit an anonymous response to our [feedback form here](https://docs.google.com/forms/u/1/d/10uz4L2kuKBrnIeGQmabJtihytdhHseKPksIhv-ItnwQ)
 
-> When are instructors available outside of in-class instruction?
+When are instructors available outside of in-class instruction?
 
-We have [office hours](office-hours.md) during 1:30 - 2:30pm M-W and 6-8pm M-W
+> Instructors are available for [One on Ones](one-on-ones.md) and during [office hours](office-hours.md).
 
+## Tips
 
-
-- Tips
-  - <code>&grave;hello&grave;</code>: Backtics (the top-left of the keyboard on a Mac) makes text show up in a monospace font. Great for code.
-  - Code blocks are made with three backtics:
-    <pre>
-    &grave;&grave;&grave;
-    The backtics MUST be on a line by themselves!
-    &grave;&grave;&grave;
-    </pre>
-  - These same backtick tricks also work on **Github**.
-  - `@here`: Sends a message to everyone currently online in a Slack room
+- <code>&grave;hello&grave;</code>: Backtics (the top-left of the keyboard on a Mac) makes text show up in a monospace font. Great for code.
+- Code blocks are made with three backtics:
+  <pre>
+  &grave;&grave;&grave;
+  The backtics MUST be on a line by themselves!
+  &grave;&grave;&grave;
+  </pre>
+- These same backtick tricks also work on **Github** and **Slack**.
+- `@here`: Sends a message to everyone currently online in a Slack room
