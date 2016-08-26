@@ -18,8 +18,8 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Review/Code Challenge"
-       url: "https://github.com/ga-wdi-lessons/atom-intro"
+       title: "Review / Code Challenge"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -42,8 +42,8 @@
        lead: ""
        support: ""
     - "9:00 AM - 10:00 AM":
-       title: "Review/Code Challenge"
-       url: "#"
+       title: "Review / Code Challenge"
+       url: ""
        lead: ""
        support: ""
     - "10:00 AM - 12:30PM":
@@ -58,8 +58,8 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Review/Code Challenge"
-       url: "https://github.com/ga-wdi-lessons/git-branching-mini-lesson"
+       title: "Review / Code Challenge"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -77,14 +77,14 @@
        lead: ""
        support: ""
     - "05:00PM":
-       title: "Due At 9: Lab"
+       title: "Due At 5: Lab"
        url: "https://github.com/ga-wdi-exercises/portfolio_pages"
        lead: ""
        support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Checkpoint 01"
-       url: "http://vvdi.ga/01"
+       url: ""
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
@@ -149,8 +149,8 @@
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Review/Code Challenge"
-       url: "https://github.com/ga-wdi-exercises/ttmar"
+       title: "Review / Code Challenge"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -190,6 +190,8 @@
   - day:
     - "9:00AM":
        title: "DUE AT 9: Checkpoint 02"
+       url:
+         -
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -270,7 +272,10 @@
 
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Checkpoint 03"
+       title: "Due At 9: Homework"
+       url:
+         - Checkpoint 03: ""
+         - TryRuby Levels 1-3: http://tryruby.org/levels/1/challenges/0
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
@@ -309,10 +314,15 @@
        url: "https://github.com/ga-wdi-exercises/state_capitals"
        lead: ""
        support: ""
+    - "5:00PM":
+       title: "Due At 5: Lab"
+       url: "https://github.com/ga-wdi-exercises/state_capitals"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 10:00PM":
        title: "Review / Code Challenge"
-       url: "https://github.com/ga-wdi-exercises/luhn_algorithm"
+       url: ""
        lead: ""
        support: ""
     - "10:00 - 12:30PM":
@@ -329,14 +339,16 @@
     - "9:00AM":
        title: "Due At 9: Homework"
        url:
-         - ES6/OOJS:
+         - ES6 HW: ""
+         - Geometry: https://github.com/ga-wdi-exercises/js_geometry
+         - FP HW: ""
          - High Card: https://github.com/ga-wdi-exercises/high_card
          - Landlord: https://github.com/ga-wdi-exercises/landlord_ruby_no_AR
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Review/Code Challenge"
-       url: "https://github.com/ga-wdi-lessons/bootstrap-mini-lesson"
+       title: "Review / Code Challenge"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 4:30PM":
@@ -346,6 +358,11 @@
        support: ""
     - "4:30PM - 5:00PM":
        title: "Squad Scrum"
+       lead: ""
+       support: ""
+    - "5:00PM":
+       title: "Due At 5: Lab"
+       url: "https://github.com/ga-wdi-exercises/gladiator"
        lead: ""
        support: ""
   - day:
@@ -433,7 +450,7 @@
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Review/Code Challenge"
+       title: "Review / Code Challenge"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -448,7 +465,7 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Review/Code Challenge"
+       title: "Review / Code Challenge"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -463,13 +480,15 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "Due At 9: Getting Started with Rails, Chapters 1-5"
-       url: "https://github.com/ga-wdi-exercises/rails_getting_started"
+       title: "Due At 9: Homework"
+       url:
+        - Checkpoint 05: ""
+        - Getting Started w/ Rails, Chapters 1-5: https://github.com/ga-wdi-exercises/rails_getting_started
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Review/Code Challenge"
-       url: "https://github.com/ga-wdi-exercises/romanize"
+       title: "Slips"
+       url: "https://ga-dc.github.io/slips"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -504,8 +523,8 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Review/Code Challenge"
-       url: "https://github.com/ga-wdi-exercises/caesar_cipher_rb"
+       title: "Review / Code Challenge"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -520,7 +539,10 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Homework"
+       title: "Due At 9: Homework"
+       url:
+         - Scribble: https://github.com/ga-wdi-exercises/scribble
+         - Hogwarts: https://github.com/ga-wdi-exercises/hogwarts_rails
        lead: ""
        support: ""
     - "9:00AM - 4:30PM":
@@ -530,6 +552,11 @@
        support: ""
     - "4:30PM - 05:00PM":
        title: "Squad Scrum"
+       lead: ""
+       support: ""
+    - "5:00PM":
+       title: "Due At 5: Lab"
+       url: "https://github.com/ga-wdi-exercises/game_of_thrones"
        lead: ""
        support: ""
   - day:
@@ -544,6 +571,11 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM":
+       title: "Due At 9: Checkpoint 06"
+       url: ""
+       lead: ""
+       support: ""
     - "9:00AM - 5:00PM":
        title: "Project 2"
        url: "https://github.com/ga-wdi-exercises/project2"
@@ -601,8 +633,13 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM":
+       title: "Due At 9: Homework"
+       url: "https://www.codeschool.com/courses/shaping-up-with-angular-js"
+       lead: ""
+       support: ""
     - "9:00AM - 10:00AM":
-       title: "Review/Code Challenge"
+       title: "Review / Code Challenge"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -659,7 +696,7 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Review/Code Challenge"
+       title: "Review / Code Challenge"
        lead: ""
        support: ""
     - "10:00AM - 12:00PM":
@@ -674,7 +711,7 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "Due At 9: Homework Due"
+       title: "Due At 9: Homework"
        url:
          - Movie Browser: https://github.com/ga-wdi-exercises/movie-browser
          - WDInstagram: https://github.com/ga-wdi-exercises/wdinstagram_rails_api
@@ -707,6 +744,11 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM":
+       title: "Due At 9: Checkpoint 07"
+       url: ""
+       lead: ""
+       support: ""
     - "9:00AM - 5:00PM":
        title: "Project 3"
        url: "https://github.com/ga-wdi-exercises/project3"
@@ -796,6 +838,11 @@
        url: ""
        lead: ""
        support: ""
+    - "5:00 PM":
+       title: "Due At 5: MEN Lab"
+       url: ""
+       lead: ""
+       support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
@@ -820,7 +867,7 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
-       url: "https://github.com/ga-wdi-lessons/building-a-mean-app"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 4:30PM":
@@ -832,10 +879,22 @@
        title: "Squad Scrum"
        lead: ""
        support: ""
+    - "5:00PM":
+       title: "Due At 5: MEAN Lab"
+       url: "https://github.com/ga-wdi-exercises/websocket-arcade"
+       lead: ""
+       support: ""
   - day:
+    - "9:00AM":
+       title: "Due At 9: Homework"
+       url:
+         - YUM: https://github.com/ga-wdi-exercises/yum
+         - Emergency Compliment Express: https://github.com/ga-wdi-exercises/compliment-express
+       lead: ""
+       support: ""
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
-       url: "https://github.com/ga-wdi-lessons/building-a-mean-app"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -848,10 +907,15 @@
        url: "https://github.com/ga-wdi-exercises/websocket-arcade"
        lead: ""
        support: ""
+    - "5:00 PM":
+       title: "Due At 5: Web Sockets Lab"
+       url: "https://github.com/ga-wdi-exercises/websocket-arcade"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
-       url: "https://github.com/ga-wdi-lessons/building-a-mean-app"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -864,7 +928,17 @@
        url: "https://github.com/ga-wdi-exercises/sweet-libs"
        lead: ""
        support: ""
+    - "5:00 PM":
+       title: "Due At 5: Sweet Libs Lab"
+       url: "https://github.com/ga-wdi-exercises/sweet-libs"
+       lead: ""
+       support: ""
   - day:
+    - "9:00AM":
+       title: "Due At 9: Checkpoint 08"
+       url: ""
+       lead: ""
+       support: ""
     - "9:00AM - 10:00AM":
        title: "Slips"
        url: "http://ga-dc.github.io/slips/"
@@ -877,6 +951,11 @@
        support: ""
     - "2:30PM - 5:00 PM":
        title: "Lab: Component Extravaganza"
+       url: ""
+       lead: ""
+       support: ""
+    - "5:00 PM":
+       title: "Due At 5: Lab"
        url: ""
        lead: ""
        support: ""
@@ -907,9 +986,14 @@
        url: "https://github.com/ga-wdi-exercises/todo-app-react"
        lead: ""
        support: ""
+    - "5:00 PM":
+       title: "Due At 5: Lab"
+       url: ""
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Review/Code Challenge"
+       title: "Review / Code Challenge"
        url: ""
        lead: ""
        support: ""
@@ -924,8 +1008,15 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM":
+       title: "Due At 9: Homework"
+       url:
+         - React SPA Part 1: ""
+         - React SPA Part 2: ""
+       lead: ""
+       support: ""
     - "9:00AM - 10:00AM":
-       title: "Review/Code Challenge"
+       title: "Review / Code Challenge"
        url: ""
        lead: ""
        support: ""
