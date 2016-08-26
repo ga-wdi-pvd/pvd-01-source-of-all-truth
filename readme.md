@@ -2,12 +2,10 @@
 
 ## Administrative
 
-- [Calendar](http://ga-dc.github.io/wdi12/)
-  - **Includes all lessons and homework assignments with due dates**
+- **[Graduation Requirements](graduation-requirements.md)**
+- **[Calendar](http://ga-dc.github.io/wdi12/)**
 - [Attendance](attendance.md)
 - [Homework Policy](homework-policy.md)
-- [Incentives](incentives.md)
-  - Includes attendance and homework policies
 - [One-on-Ones](one-on-ones.md)
 - [Squads](squads.md)
 - [Office Hours](office-hours.md)
