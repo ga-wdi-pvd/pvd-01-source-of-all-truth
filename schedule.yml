@@ -1,9 +1,8 @@
 - "start-date": "2016-09-05"
 - days:
   - day:
-    - "No Class":
-       title: ""
-       url: ""
+    - "9:00AM - 5:00PM":
+       title: "No Class"
        lead: ""
        support: ""
   - day:
@@ -75,7 +74,6 @@
        support: ""
     - "4:30PM - 05:00PM":
        title: "Squad Scrum"
-       url: ""
        lead: ""
        support: ""
     - "05:00PM":
@@ -107,7 +105,6 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
-       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -123,7 +120,6 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Review/Code Challenge"
-       url: ""
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
@@ -164,7 +160,6 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Review/Code Challenge"
-       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -179,7 +174,6 @@
        support: ""
     - "4:30PM - 5:00PM":
        title: "Squad Scrum"
-       url: ""
        lead: ""
        support: ""
     - "5:00PM":
@@ -190,7 +184,6 @@
   - day:
     - "9:00AM":
        title: "DUE AT 9: Checkpoint 02"
-       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -206,12 +199,10 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
-       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
        title: "Outcomes"
-       url: ""
        lead: ""
        support: ""
     - "2:30AM - 5:00PM":
@@ -232,13 +223,11 @@
        support: ""
     - "4:30PM - 5:00PM":
        title: "Squad Scrum"
-       url: ""
        lead: ""
        support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Review/Code Challenge"
-       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -254,7 +243,6 @@
   - day:
     - "9:00AM":
        title: "Review/Code Challenge"
-       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -264,14 +252,12 @@
        support: ""
     - "2:30 - 5:00PM":
        title: "Functional Programming"
-       url: ""
        lead: ""
        support: ""
 
   - day:
     - "9:00AM":
        title: "DUE AT 9: Checkpoint 03"
-       url: ""
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
@@ -292,12 +278,10 @@
   - day:
     - "9:00AM - 10:00PM":
        title: "Outcomes Prep"
-       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
        title: "Outcomes"
-       url: ""
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
@@ -341,13 +325,11 @@
        support: ""
     - "4:30PM - 5:00PM":
        title: "Squad Scrum"
-       url: ""
        lead: ""
        support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Review/Code Challenge"
-       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -363,7 +345,6 @@
   - day:
     - "9:00AM":
        title: "DUE AT 9: Checkpoint 04"
-       url: ""
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
@@ -384,12 +365,10 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
-       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
        title: "Outcomes"
-       url: ""
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
@@ -400,7 +379,6 @@
   - day:
     - "9:00AM - 10:00PM":
        title: "Review/Code Challenge"
-       url: ""
        lead: ""
        support: ""
     - "10:00AM - 4:30PM":
@@ -410,7 +388,6 @@
        support: ""
     - "4:30PM - 5:00PM":
        title: "Squad Scrum"
-       url: ""
        lead: ""
        support: ""
     - "5:00PM":
@@ -429,7 +406,6 @@
        support: ""
     - "9:00AM - 10:00AM":
        title: "Review/Code Challenge"
-       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -445,7 +421,6 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Review/Code Challenge"
-       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -476,7 +451,6 @@
        support: ""
     - "2:30PM - 5:00PM":
        title: "TBA"
-       url: ""
        lead: ""
        support: ""
   - day:
@@ -487,7 +461,6 @@
        support: ""
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
-       url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -519,7 +492,6 @@
   - day:
     - "9:00AM":
        title: "DUE AT 9: Homework"
-       url: ""
        lead: ""
        support: ""
     - "9:00AM - 4:30PM":
@@ -529,7 +501,6 @@
        support: ""
     - "4:30PM - 05:00PM":
        title: "Squad Scrum"
-       url: ""
        lead: ""
        support: ""
   - day:
@@ -552,7 +523,6 @@
   - day:
     - "9:00AM":
        title: "Outcomes Prep"
-       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -589,18 +559,15 @@
        support: ""
     - "4:00PM - 4:30PM":
        title: "Squad Scrum"
-       url: ""
        lead: ""
        support: ""
     - "4:30PM - 5:00PM":
        title: "Midcourse Feedback"
-       url: ""
        lead: ""
        support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Review/Code Challenge"
-       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -632,7 +599,6 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
-       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -648,7 +614,6 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Review/Code Challenge"
-       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:00PM":
@@ -677,7 +642,6 @@
        support: ""
     - "4:30PM - 5:00PM":
        title: "Squad Scrum"
-       url: ""
        lead: ""
        support: ""
     - "5:00PM":
@@ -705,7 +669,6 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
-       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -742,7 +705,6 @@
        support: ""
     - "4:30PM - 5:00PM":
        title: "Squad Scrum"
-       url: ""
        lead: ""
        support: ""
   - day:
@@ -754,7 +716,6 @@
        support: ""
     - "9:00AM - 12:00PM":
        title: "Review / Code Challenge"
-       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -786,7 +747,6 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
-       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -817,7 +777,6 @@
        support: ""
     - "4:30PM - 5:00 PM":
        title: "Squad Scrum"
-       url: ""
        lead: ""
        support: ""
   - day:
@@ -922,19 +881,16 @@
   - day:
     - "9:00AM - 5:00PM":
        title: "No Class"
-       url: ""
        lead: ""
        support: ""
   - day:
     - "9:00AM - 5:00PM":
        title: "No Class"
-       url: ""
        lead: ""
        support: ""
   - day:
     - "9:00AM - 5:00PM":
        title: "No Class"
-       url: ""
        lead: ""
        support: ""
   - day:
@@ -974,6 +930,5 @@
        support: ""
     - "4:00PM-5:00PM":
        title: "Final Scrum, Feedback & Envelopes"
-       url: ""
        lead: ""
        support: ""
