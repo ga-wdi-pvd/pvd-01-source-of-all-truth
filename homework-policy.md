@@ -8,6 +8,8 @@
 
 - You can track your homework completion rate in [Garnet](http://garnet.wdidc.org).
 
+- Each assignment will ask you to learn or research something that has explicitly not been covered in class. Learning how to learn is fundamental to becoming a successful developer.
+
 ## Due Dates and Grading
 
 - You will generally be assigned homework every day. Due dates can be found in the [class schedule](https://ga-dc.github.io/wdi12).
