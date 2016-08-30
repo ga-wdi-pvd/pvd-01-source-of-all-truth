@@ -11,9 +11,14 @@
        url: "https://github.com/ga-wdi-lessons/wdi-intro"
        lead: ""
        support: ""
-    - "2:30PM - 5:00PM":
+    - "1:30PM - 3:20PM":
        title: "CLI"
        url: "https://github.com/ga-wdi-lessons/cli-intro"
+       lead: ""
+       support: ""
+    - "3:30PM - 3:15PM":
+       title: "Intro to Outcomes"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wxvonjnvki5q"
        lead: ""
        support: ""
   - day:
