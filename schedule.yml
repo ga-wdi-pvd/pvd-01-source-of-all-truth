@@ -476,18 +476,21 @@
     - "9:00AM":
        title: "Due At 9: Homework"
        url:
-        - Checkpoint 05: ""
         - Getting Started w/ Rails, Chapters 1-5: https://github.com/ga-wdi-exercises/rails_getting_started
        lead: ""
+       support: ""
+    - "9:00AM":
+       title: "Checkpoint 05"
+       lead: "Jesse"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Rails: Forms & Helpers"
        url: "https://github.com/ga-wdi-lessons/rails-helpers"
-       lead: ""
-       support: ""
+       lead: "Adrian"
+       support: "Nick"
     - "2:30PM - 5:00PM":
-       title: "TBA"
-       lead: ""
+       title: "Lab: Hogwarts"
+       lead: "Nick"
        support: ""
   - day:
     - "9:00AM":
@@ -506,25 +509,25 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Rails: Many-to-Many"
-       url: "https://github.com/ga-wdi-lessons/rails-many-to-many"
-       lead: ""
-       support: ""
+       title: "TDD on Rails"
+       url: "https://github.com/ga-wdi-lessons/rspec"
+       lead: "Jesse"
+       support: "Adrian"
   - day:
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
-       lead: ""
+       lead: "Adrian"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Rails: Users, Session & Flash"
        url: "https://github.com/ga-wdi-lessons/rails-users-sessions-flash-cookies"
-       lead: ""
-       support: ""
+       lead: "Jesse"
+       support: "Adrian"
     - "2:30PM - 5:00PM":
-       title: "TDD on Rails"
-       url: "https://github.com/ga-wdi-lessons/rspec"
-       lead: ""
-       support: ""
+       title: "Rails: Many-to-Many"
+       url: "https://github.com/ga-wdi-lessons/rails-many-to-many"
+       lead: "Nick"
+       support: "Jesse"
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
@@ -533,10 +536,19 @@
          - Hogwarts: https://github.com/ga-wdi-exercises/hogwarts_rails
        lead: ""
        support: ""
-    - "9:00AM - 4:30PM":
+    - "9:00AM - 10:00AM":
+       title: "Review / Code Challenge"
+       lead: "Nick"
+       support: ""
+    - "10:00AM - 12:30PM":
        title: "Lab: Game of Thrones"
        url: "https://github.com/ga-wdi-exercises/game_of_thrones"
-       lead: ""
+       lead: "Adrian"
+       support: ""
+    - "2:30PM - 4:30PM":
+       title: "Lab: Game of Thrones"
+       url: "https://github.com/ga-wdi-exercises/game_of_thrones"
+       lead: "Nick"
        support: ""
     - "4:30PM - 05:00PM":
        title: "Squad Scrum"
@@ -551,7 +563,7 @@
     - "9:00AM - 10:00AM":
        title: "Project 2 Intro"
        url: "https://github.com/ga-wdi-exercises/project2"
-       lead: ""
+       lead: "Jesse"
        support: ""
     - "10:00AM - 5:00PM":
        title: "Project 2"
@@ -561,7 +573,7 @@
   - day:
     - "9:00AM":
        title: "Checkpoint 06"
-       lead: ""
+       lead: "Nick"
        support: ""
     - "9:00AM - 5:00PM":
        title: "Project 2"
@@ -628,17 +640,17 @@
     - "9:00AM - 10:00AM":
        title: "Slips"
        url: "https://ga-dc.github.io/slips/"
-       lead: ""
+       lead: "Jesse"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Intro to Angular"
        url: "https://github.com/ga-wdi-lessons/angular-intro"
-       lead: ""
+       lead: "Nick"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Lab: Superheroes"
        url: "https://ga-wdi-exercises.github.io/angular-starter-wdi/"
-       lead: ""
+       lead: "Adrian"
        support: ""
     - "5:00PM":
        title: "Due At 5: Lab"
@@ -648,18 +660,18 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Review/Code Challenge"
-       lead: ""
+       lead: "Nick"
        support: ""
     - "10:00AM - 12:30PM":
        title: "UI Router"
        url: "https://github.com/ga-wdi-lessons/angular-routing"
-       lead: ""
-       support: ""
+       lead: "Jesse"
+       support: "Nick"
     - "2:30PM - 5:00PM":
        title: "API's & AJAX"
        url: "https://github.com/ga-wdi-lessons/js-ajax"
-       lead: ""
-       support: ""
+       lead: "Adrian"
+       support: "Jesse"
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
@@ -679,23 +691,23 @@
     - "2:30PM - 5:00PM":
        title: "Angular Resources"
        url: "https://github.com/ga-wdi-lessons/angular-resources"
-       lead: ""
-       support: ""
+       lead: "Jesse"
+       support: "Adrian"
   - day:
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
-       lead: ""
+       lead: "Nick"
        support: ""
-    - "10:00AM - 12:00PM":
+    - "10:00AM - 12:30PM":
        title: "Rails API (feat. Angular Front-End)"
        url: "https://github.com/ga-wdi-lessons/angular-on-rails"
-       lead: ""
-       support: ""
+       lead: "Adrian"
+       support: "Jesse"
     - "2:30PM - 5:00PM":
        title: "Firebase"
        url: "https://github.com/ga-wdi-lessons/angular-firebase"
-       lead: ""
-       support: ""
+       lead: "Nick"
+       support: "Adrian"
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
@@ -705,10 +717,19 @@
          - Submit Project 3 Idea: https://github.com/ga-wdi-exercises/project3/issues/new
        lead: ""
        support: ""
-    - "9:00AM - 4:30PM":
+    - "9:00AM - 10:00AM":
+       title: "Review / Code Challenge"
+       lead: "Adrian"
+       support: ""
+    - "10:00AM - 12:30PM":
        title: "Lab: WDI Radio"
        url: "https://github.com/ga-wdi-exercises/wdi_radio_lab"
-       lead: ""
+       lead: "Nick"
+       support: ""
+    - "2:30PM - 4:30PM":
+       title: "Lab: WDI Radio"
+       url: "https://github.com/ga-wdi-exercises/wdi_radio_lab"
+       lead: "Jesse"
        support: ""
     - "4:30PM - 5:00PM":
        title: "Squad Scrum"
@@ -723,7 +744,7 @@
     - "9:00AM - 10:00AM":
        title: "Project 3 Intro & Git Teams"
        url: "https://ga-dc.github.io/slips/"
-       lead: ""
+       lead: "Adrian"
        support: ""
     - "10:00AM - 5:00PM":
        title: "Project 3"
@@ -733,7 +754,7 @@
   - day:
     - "9:00AM":
        title: "Checkpoint 07"
-       lead: ""
+       lead: "Adrian"
        support: ""
     - "9:00AM - 5:00PM":
        title: "Project 3"
@@ -797,31 +818,31 @@
     - "9:00AM - 10:00PM":
        title: "Slips"
        url: "https://ga-dc.github.io/slips"
-       lead: ""
+       lead: "Nick"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Express Intro"
        url: "https://github.com/ga-wdi-lessons/express-intro"
-       lead: ""
-       support: ""
+       lead: "Jesse"
+       support: "Nick"
     - "2:30PM - 5:00 PM":
        title: "Mongo / Mongoose Intro"
        url: "https://github.com/ga-wdi-lessons/mongo-intro"
-       lead: ""
-       support: ""
+       lead: "Adrian"
+       support: "Jesse"
   - day:
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
-       lead: ""
+       lead: "Jesse"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Mongoose with Express"
        url: "https://github.com/ga-wdi-lessons/express-mongoose"
-       lead: ""
-       support: ""
+       lead: "Nick"
+       support: "Adrian"
     - "2:30PM - 5:00 PM":
        title: "MEN Lab: URL Shortner"
-       lead: ""
+       lead: "Jesse"
        support: ""
     - "5:00 PM":
        title: "Due At 5: MEN Lab"
@@ -846,17 +867,22 @@
     - "2:30PM - 5:00 PM":
        title: "Building a MEAN app"
        url: "https://github.com/ga-wdi-lessons/building-a-mean-app"
-       lead: ""
-       support: ""
+       lead: "Nick"
+       support: "Adrian"
   - day:
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
-       lead: ""
+       lead: "Adrian"
        support: ""
-    - "10:00AM - 4:30PM":
+    - "10:00AM - 12:30PM":
        title: "MEAN Lab"
-       url: "https://github.com/ga-wdi-exercises/websocket-arcade"
-       lead: ""
+       lead: "Nick"
+       url: "https://github.com/ga-wdi-exercises/mean-lab"
+       support: ""
+    - "2:30PM - 4:30PM":
+       title: "MEAN Lab"
+       lead: "Jesse"
+       url: "https://github.com/ga-wdi-exercises/mean-lab"
        support: ""
     - "4:30PM - 5:00 PM":
        title: "Squad Scrum"
@@ -864,8 +890,8 @@
        support: ""
     - "5:00PM":
        title: "Due At 5: MEAN Lab"
-       url: "https://github.com/ga-wdi-exercises/websocket-arcade"
        lead: ""
+       url: "https://github.com/ga-wdi-exercises/mean-lab"
        support: ""
   - day:
     - "9:00AM":
@@ -877,17 +903,17 @@
        support: ""
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
-       lead: ""
+       lead: "Nick"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Web Sockets in Node"
        url: "https://github.com/ga-wdi-lessons/websockets-node"
-       lead: ""
-       support: ""
+       lead: "Adrian"
+       support: "Jesse"
     - "2:30PM - 5:00 PM":
        title: "Web Sockets Lab"
        url: "https://github.com/ga-wdi-exercises/websocket-arcade"
-       lead: ""
+       lead: "Adrian"
        support: ""
     - "5:00 PM":
        title: "Due At 5: Web Sockets Lab"
@@ -898,17 +924,17 @@
     - "9:00AM - 10:00PM":
        title: "Slips"
        url: "https://ga-dc.github.io/slips"
-       lead: ""
+       lead: "Jesse"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Sweet Libs Lab"
        url: "https://github.com/ga-wdi-exercises/sweet-libs"
-       lead: ""
+       lead: "Nick"
        support: ""
     - "2:30PM - 5:00 PM":
        title: "Sweet Libs Lab"
        url: "https://github.com/ga-wdi-exercises/sweet-libs"
-       lead: ""
+       lead: "Jesse"
        support: ""
     - "5:00 PM":
        title: "Due At 5: Sweet Libs Lab"
@@ -923,7 +949,7 @@
     - "10:00AM - 12:30PM":
        title: "React Intro"
        url: "https://github.com/ga-wdi-lessons/react-intro"
-       lead: ""
+       lead: "Adrian"
        support: ""
     - "2:30PM - 5:00 PM":
        title: "Lab: Component Extravaganza"
@@ -952,7 +978,7 @@
     - "2:30PM - 5:00 PM":
        title: "React Continued"
        url: "https://github.com/ga-wdi-lessons/react-continued"
-       lead: ""
+       lead: "Nick"
        support: ""
   - day:
     - "9:00AM - 4:30PM":
@@ -975,7 +1001,7 @@
        support: ""
     - "2:30PM - 5:00 PM":
        title: "React with Axios"
-       lead: ""
+       lead: "Nick"
        support: ""
   - day:
     - "9:00AM":
