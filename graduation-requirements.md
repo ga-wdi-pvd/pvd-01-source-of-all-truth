@@ -2,7 +2,7 @@
 
 ## You Must...
 - Complete at least 80% of your homework over the whole course
-- Complete and present each project over the course
+- Complete and present each of WDI's four projects
 - Be absent no more than 2 days over the whole course
 - Be tardy no more than 5 days over the whole course
 
