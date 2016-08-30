@@ -61,7 +61,8 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Review / Code Challenge"
+       title: "Slips"
+       url: "https://github.com/ga-dc/slips"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -84,13 +85,8 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM":
-       title: "Due At 9: Checkpoint 01"
-       lead: ""
-       support: ""
     - "9:00AM - 10:00AM":
-       title: "Slips"
-       url: "https://github.com/ga-dc/slips"
+       title: "Checkpoint 01"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -165,9 +161,9 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Review/Code Challenge"
+       title: "Slips"
+       url: "https://ga-dc.github.io/slips/"
        lead: ""
-       support: ""
     - "10:00AM - 12:30PM":
        title: "Lab: ATM"
        url: "https://github.com/ga-wdi-exercises/atm"
@@ -255,9 +251,9 @@
         support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Review/Code Challenge"
+       title: "Slips"
+       url: "https://ga-dc.github.io/slips/"
        lead: ""
-       support: ""
     - "10:00AM - 12:30PM":
        title: "OOJS 2"
        url: "https://github.com/ga-wdi-lessons/js-view-constructors"
@@ -274,11 +270,6 @@
        url:
          - TryRuby Levels 1-3: http://tryruby.org/levels/1/challenges/0
          - Checkpoint 03: ""
-       lead: ""
-       support: ""
-    - "9:00AM - 10:00AM":
-       title: "Slips"
-       url: "https://ga-dc.github.io/slips/"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -363,9 +354,9 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Review/Code Challenge"
+       title: "Slips"
+       url: "https://ga-dc.github.io/slips/"
        lead: ""
-       support: ""
     - "10:00AM - 12:30PM":
        title: "Domain Modeling & SQL"
        url: "https://github.com/ga-wdi-lessons/sql-erd"
@@ -379,11 +370,6 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Checkpoint 04"
-       lead: ""
-       support: ""
-    - "9:00AM - 10:00AM":
-       title: "Slips"
-       url: "https://ga-dc.github.io/slips/"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -461,9 +447,9 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Review / Code Challenge"
+       title: "Slips"
+       url: "https://ga-dc.github.io/slips/"
        lead: ""
-       support: ""
     - "10:00AM - 12:30PM":
        title: "Rails: Views & Controllers"
        url: "https://github.com/ga-wdi-lessons/rails-views"
@@ -480,11 +466,6 @@
        url:
         - Checkpoint 05: ""
         - Getting Started w/ Rails, Chapters 1-5: https://github.com/ga-wdi-exercises/rails_getting_started
-       lead: ""
-       support: ""
-    - "9:00AM - 10:00AM":
-       title: "Slips"
-       url: "https://ga-dc.github.io/slips"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -633,7 +614,8 @@
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Review / Code Challenge"
+       title: "Slips"
+       url: "https://ga-dc.github.io/slips/"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -653,8 +635,7 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Slips"
-       url: "https://ga-dc.github.io/slips/"
+       title: "Review/Code Challenge"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -801,8 +782,9 @@
          - Mongo Reading: http://github.com/ga-wdi-lessons/mongo-intro
        lead: ""
        support: ""
-    - "9:00AM - 10:00AM":
-       title: "Review / Code Challenge"
+    - "9:00AM - 10:00PM":
+       title: "Slips"
+       url: "https://ga-dc.github.io/slips"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -816,9 +798,8 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 10:00PM":
-       title: "Slips"
-       url: "https://ga-dc.github.io/slips"
+    - "9:00AM - 10:00AM":
+       title: "Review / Code Challenge"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -902,8 +883,9 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 10:00AM":
-       title: "Review / Code Challenge"
+    - "9:00AM - 10:00PM":
+       title: "Slips"
+       url: "https://ga-dc.github.io/slips"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -924,11 +906,6 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Checkpoint 08"
-       lead: ""
-       support: ""
-    - "9:00AM - 10:00AM":
-       title: "Slips"
-       url: "http://ga-dc.github.io/slips/"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -997,7 +974,8 @@
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Review / Code Challenge"
+       title: "Slips"
+       url: "http://ga-dc.github.io/slips/"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
