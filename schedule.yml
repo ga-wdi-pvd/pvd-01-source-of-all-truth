@@ -31,6 +31,11 @@
        url: "https://github.com/ga-wdi-lessons/git-intro"
        lead: "Jesse"
        support: "Nick"
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
+       lead: "Jesse"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "CSS 1"
        url: "https://github.com/ga-wdi-lessons/css-review"
@@ -94,6 +99,11 @@
        url: "https://github.com/ga-wdi-lessons/js-intro"
        lead: "Jesse"
        support: "Adrian"
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
+       lead: "Nick"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "Objects and Functions"
        url: "https://github.com/ga-wdi-lessons/js-objects-functions"
@@ -115,6 +125,11 @@
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wxvonjnvki5q"
        lead: ""
        support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
+       lead: "Adrian"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "DOM with jQuery"
        url: "https://github.com/ga-wdi-lessons/jquery-dom"
@@ -130,7 +145,11 @@
        url: "https://github.com/ga-wdi-lessons/js-events-callbacks"
        lead: "Adrian"
        support: "Jesse"
-
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
+       lead: "Jesse"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "DOM Debugging"
        url: "https://github.com/ga-wdi-lessons/JS-review-misc"
@@ -193,6 +212,11 @@
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
        support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
+       lead: "Nick"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
@@ -214,6 +238,11 @@
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.2u132dzacx0m"
        lead: ""
        support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
+       lead: "Adrian"
+       support: ""
     - "2:30AM - 5:00PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
@@ -224,6 +253,11 @@
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
+       support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
+       lead: "Jesse"
        support: ""
     - "2:30PM - 4:30PM":
        title: "Project 1 Presentations"
@@ -279,6 +313,11 @@
        url: "https://github.com/ga-wdi-lessons/ruby-intro"
        lead: "Jesse"
        support: "Adrian"
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
+       lead: "Nick"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "Ruby Enums"
        url: "https://github.com/ga-wdi-lessons/ruby-enumerables"
@@ -300,6 +339,11 @@
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.u6qsl4p95n0l"
        lead: ""
        support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
+       lead: "Adrian"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "Lab: Ruby Enums"
        url: "https://github.com/ga-wdi-exercises/state_capitals"
@@ -320,6 +364,11 @@
        url: "https://github.com/ga-wdi-lessons/ruby-oop"
        lead: "Adrian"
        support: "Nick"
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
+       lead: "Jesse"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "Ruby OOP 2"
        url: "https://github.com/ga-wdi-lessons/ruby-oop-inheritance"
@@ -384,6 +433,11 @@
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
        lead: "Jesse"
        support: "Nick"
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
+       lead: "Nick"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "Sinatra 2"
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
@@ -405,6 +459,11 @@
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wk3hi0h158tc"
        lead: ""
        support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
+       lead: "Adrian"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "Sinatra & ActiveRecord"
        url: "https://github.com/ga-wdi-lessons/sinatra-and-activerecord"
@@ -419,6 +478,11 @@
        title: "Lab: Sinatra"
        url: "https://github.com/ga-wdi-exercises/pokenatra"
        lead: "Adrian"
+       support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
+       lead: "Jesse"
        support: ""
     - "2:30PM - 4:30PM":
        title: "Lab: Sinatra"
@@ -488,6 +552,11 @@
        url: "https://github.com/ga-wdi-lessons/rails-helpers"
        lead: "Adrian"
        support: "Nick"
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
+       lead: "Nick"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "Lab: Hogwarts"
        lead: "Nick"
@@ -508,6 +577,11 @@
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.cg9dz5vnoxyv"
        lead: ""
        support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
+       lead: "Adrian"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "TDD on Rails"
        url: "https://github.com/ga-wdi-lessons/rspec"
@@ -523,6 +597,11 @@
        url: "https://github.com/ga-wdi-lessons/rails-users-sessions-flash-cookies"
        lead: "Jesse"
        support: "Adrian"
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
+       lead: "Jesse"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "Rails: Many-to-Many"
        url: "https://github.com/ga-wdi-lessons/rails-many-to-many"
@@ -580,6 +659,16 @@
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
+       lead: "Nick"
+       support: ""
+    - "2:30PM - 5:00PM":
+       title: "Project 2"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
@@ -596,13 +685,28 @@
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.x30z89dj1tpp"
        lead: ""
        support: ""
-    - "12:30PM - 5:00PM":
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
+       lead: "Adrian"
+       support: ""
+    - "2:30PM - 5:00PM":
        title: "Project 2"
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
+    - "9:00AM - 12:30PM":
+       title: "Project 2"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: ""
+       support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
+       lead: "Jesse"
+       support: ""
+    - "2:30PM - 5:00PM":
        title: "Project 2"
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
@@ -667,6 +771,11 @@
        url: "https://github.com/ga-wdi-lessons/angular-routing"
        lead: "Jesse"
        support: "Nick"
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
+       lead: "Nick"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "API's & AJAX"
        url: "https://github.com/ga-wdi-lessons/js-ajax"
@@ -688,6 +797,11 @@
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wi2bmbfz822i"
        lead: ""
        support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
+       lead: "Adrian"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "Angular Resources"
        url: "https://github.com/ga-wdi-lessons/angular-resources"
@@ -703,6 +817,11 @@
        url: "https://github.com/ga-wdi-lessons/angular-on-rails"
        lead: "Adrian"
        support: "Jesse"
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
+       lead: "Jesse"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "Firebase"
        url: "https://github.com/ga-wdi-lessons/angular-firebase"
@@ -756,7 +875,17 @@
        title: "Checkpoint 07"
        lead: "Adrian"
        support: ""
-    - "9:00AM - 5:00PM":
+    - "9:00AM - 12:30PM":
+       title: "Project 3"
+       url: "https://github.com/ga-wdi-exercises/project3"
+       lead: ""
+       support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
+       lead: "Nick"
+       support: ""
+    - "2:30PM - 5:00PM":
        title: "Project 3"
        url: "https://github.com/ga-wdi-exercises/project3"
        lead: ""
@@ -777,13 +906,28 @@
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.y4efrm9isxqq"
        lead: ""
        support: ""
-    - "12:30PM - 5:00PM":
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
+       lead: "Adrian"
+       support: ""
+    - "2:30PM - 5:00PM":
        title: "Project 3"
        url: "https://github.com/ga-wdi-exercises/project3"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
+    - "9:00AM - 12:30PM":
+       title: "Project 3"
+       url: "https://github.com/ga-wdi-exercises/project3"
+       lead: ""
+       support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
+       lead: "Jesse"
+       support: ""
+    - "2:30PM - 5:00PM":
        title: "Project 3"
        url: "https://github.com/ga-wdi-exercises/project3"
        lead: ""
@@ -840,6 +984,11 @@
        url: "https://github.com/ga-wdi-lessons/express-mongoose"
        lead: "Nick"
        support: "Adrian"
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
+       lead: "Nick"
+       support: ""
     - "2:30PM - 5:00 PM":
        title: "MEN Lab: URL Shortner"
        lead: "Jesse"
@@ -864,6 +1013,11 @@
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.ean1416jej6g"
        lead: ""
        support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
+       lead: "Adrian"
+       support: ""
     - "2:30PM - 5:00 PM":
        title: "Building a MEAN app"
        url: "https://github.com/ga-wdi-lessons/building-a-mean-app"
@@ -878,6 +1032,11 @@
        title: "MEAN Lab"
        lead: "Nick"
        url: "https://github.com/ga-wdi-exercises/mean-lab"
+       support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
+       lead: "Jesse"
        support: ""
     - "2:30PM - 4:30PM":
        title: "MEAN Lab"
@@ -951,6 +1110,11 @@
        url: "https://github.com/ga-wdi-lessons/react-intro"
        lead: "Adrian"
        support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
+       lead: "Nick"
+       support: ""
     - "2:30PM - 5:00 PM":
        title: "Lab: Component Extravaganza"
        lead: ""
@@ -975,15 +1139,35 @@
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.ocqgm28l81uu"
        lead: ""
        support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
+       lead: "Adrian"
+       support: ""
     - "2:30PM - 5:00 PM":
        title: "React Continued"
        url: "https://github.com/ga-wdi-lessons/react-continued"
        lead: "Nick"
        support: ""
   - day:
-    - "9:00AM - 4:30PM":
+    - "9:00AM - 12:30PM":
        title: "Lab: React"
        url: "https://github.com/ga-wdi-exercises/todo-app-react"
+       lead: ""
+       support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
+       lead: "Jesse"
+       support: ""
+    - "2:30PM - 4:30PM":
+       title: "Lab: React"
+       url: "https://github.com/ga-wdi-exercises/todo-app-react"
+       lead: ""
+       support: ""
+    - "4:30PM - 5:00PM":
+       title: "Squad Scrum"
+       url: ""
        lead: ""
        support: ""
     - "5:00 PM":
@@ -1026,8 +1210,23 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
+    - "9:00AM - 10:00AM":
        title: "Project 4 Intro"
+       url: "https://github.com/ga-wdi-exercises/project4"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Project 4"
+       url: "https://github.com/ga-wdi-exercises/project4"
+       lead: ""
+       support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
+       lead: "Nick"
+       support: ""
+    - "2:30PM - 5:00PM":
+       title: "Project 4"
        url: "https://github.com/ga-wdi-exercises/project4"
        lead: ""
        support: ""
@@ -1047,6 +1246,11 @@
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.xjrafuz8joi"
        lead: ""
        support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
+       lead: "Adrian"
+       support: ""
     - "9:00AM - 5:00PM":
        title: "Project 4"
        url: "https://github.com/ga-wdi-exercises/project4"
@@ -1073,14 +1277,44 @@
        url: "https://github.com/ga-wdi-exercises/project4"
        lead: ""
        support: ""
-  - day:
-    - "9:00AM - 5:00PM":
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
+       lead: "Nick"
+       support: ""
+    - "2:30PM - 5:00PM":
        title: "Project 4"
        url: "https://github.com/ga-wdi-exercises/project4"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
+    - "9:00AM - 12:30PM":
+       title: "Project 4"
+       url: "https://github.com/ga-wdi-exercises/project4"
+       lead: ""
+       support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
+       lead: "Adrian"
+       support: ""
+    - "2:30PM - 5:00PM":
+       title: "Project 4"
+       url: "https://github.com/ga-wdi-exercises/project4"
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 12:30PM":
+       title: "Project 4"
+       url: "https://github.com/ga-wdi-exercises/project4"
+       lead: ""
+       support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
+       lead: "Jesse"
+       support: ""
+    - "2:30PM - 5:00PM":
        title: "Project 4"
        url: "https://github.com/ga-wdi-exercises/project4"
        lead: ""
