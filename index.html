@@ -6,10 +6,11 @@
 </head>
 
 <body>
+<input type='date' id='today'>
 <script type='text/x-handlebars-template' id='app'>
   {{#each weeks}}
-    <div class='week'>
-      <h1>Week {{this._index}}</h1>
+    <div class='week' id='{{this._index}}'>
+      <h1><a href='#{{this._index}}'>Week {{this._index}}</a></h1>
       {{#each this}}
 	<div class='day' id={{this.yyyymmdd}}>
 	  <h2 class='day-header'><a href='#{{this.yyyymmdd}}'>{{this.date}}</a></h2>
@@ -110,9 +111,16 @@ onhashchange = function(e){
 function goTo(hash){
   var id = hash.substr(1)
   var target = document.getElementById(id)
-  try{ document.querySelector(".target").classList.remove("target") } catch(e) {}
+  try{
+    document.querySelector(".target").classList.remove("target") 
+  } catch(e) {}
+  if(!target) return
   target.classList.add("target")
   target.scrollIntoView()
+}
+
+today.onchange = function(event){
+  window.location.hash = today.value
 }
 </script>
 </body>

@@ -28,6 +28,7 @@ h1{
   color:#ccc;
   font-weight:normal;
 }
+h1 a,
 .day-header a {
   color: inherit;
   text-decoration:none;
