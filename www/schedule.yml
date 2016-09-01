@@ -44,6 +44,7 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
+       color: red
        url:
          - To Oz: https://github.com/ga-wdi-exercises/to_oz
          - Haiku: https://github.com/ga-wdi-exercises/haiku
@@ -86,6 +87,7 @@
        support: ""
     - "05:00PM":
        title: "Due At 5: Lab"
+       color: red
        url: "https://github.com/ga-wdi-exercises/portfolio_pages"
        lead: ""
        support: ""
@@ -112,6 +114,7 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Prework"
+       color: red
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wxvonjnvki5q"
        lead: ""
        support: ""
@@ -158,6 +161,7 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
+       color: red
        url:
           - JS Calculator: https://github.com/ga-wdi-exercises/js-calculator
           - Choose Your Own Adventure: https://github.com/ga-wdi-exercises/choose_your_own_adventure_js
@@ -199,6 +203,7 @@
        support: ""
     - "5:00PM":
        title: "Due At 5: Lab"
+       color: red
        url: "https://github.com/ga-wdi-exercises/atm"
        lead: ""
        support: ""
@@ -225,6 +230,7 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
+       color: red
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.2u132dzacx0m"
        lead: ""
        support: ""
@@ -300,6 +306,7 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
+       color: red
        url:
          - TryRuby Levels 1-3: http://tryruby.org/levels/1/challenges/0
        lead: ""
@@ -326,6 +333,7 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
+       color: red
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.u6qsl4p95n0l"
        lead: ""
        support: ""
@@ -351,6 +359,7 @@
        support: ""
     - "5:00PM":
        title: "Due At 5: Lab"
+       color: red
        url: "https://github.com/ga-wdi-exercises/state_capitals"
        lead: ""
        support: ""
@@ -377,6 +386,7 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
+       color: red
        url:
          - ES6 HW: ""
          - Geometry: https://github.com/ga-wdi-exercises/js_geometry
@@ -405,6 +415,7 @@
        support: ""
     - "5:00PM":
        title: "Due At 5: Lab"
+       color: red
        url: "https://github.com/ga-wdi-exercises/gladiator"
        lead: ""
        support: ""
@@ -446,6 +457,7 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
+       color: red
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wk3hi0h158tc"
        lead: ""
        support: ""
@@ -495,12 +507,14 @@
        support: ""
     - "5:00PM":
        title: "Due At 5: Lab"
+       color: red
        url: "https://github.com/ga-wdi-exercises/pokenatra"
        lead: ""
        support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
+       color: red
        url:
          - Library SQL: https://github.com/ga-wdi-exercises/library_sql
          - Landlord (AR): https://github.com/ga-wdi-exercises/landlord
@@ -539,6 +553,7 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
+       color: red
        url:
         - Getting Started w/ Rails, Chapters 1-5: https://github.com/ga-wdi-exercises/rails_getting_started
        lead: ""
@@ -564,6 +579,7 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
+       color: red
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.cg9dz5vnoxyv"
        lead: ""
        support: ""
@@ -610,6 +626,7 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
+       color: red
        url:
          - Scribble: https://github.com/ga-wdi-exercises/scribble
          - Hogwarts: https://github.com/ga-wdi-exercises/hogwarts_rails
@@ -635,6 +652,7 @@
        support: ""
     - "5:00PM":
        title: "Due At 5: Lab"
+       color: red
        url: "https://github.com/ga-wdi-exercises/game_of_thrones"
        lead: ""
        support: ""
@@ -672,6 +690,7 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
+       color: red
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.x30z89dj1tpp"
        lead: ""
        support: ""
@@ -719,6 +738,7 @@
        support: ""
     - "12:00PM":
        title: "Due At Noon: Project & Video"
+       color: red
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
@@ -738,6 +758,7 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
+       color: red
        url: "https://www.codeschool.com/courses/shaping-up-with-angular-js"
        lead: ""
        support: ""
@@ -758,6 +779,7 @@
        support: ""
     - "5:00PM":
        title: "Due At 5: Lab"
+       color: red
        url: "https://ga-wdi-exercises.github.io/angular-starter-wdi/"
        lead: ""
        support: ""
@@ -784,6 +806,7 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
+       color: red
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wi2bmbfz822i"
        lead: ""
        support: ""
@@ -830,6 +853,7 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
+       color: red
        url:
          - Movie Browser: https://github.com/ga-wdi-exercises/movie-browser
          - WDInstagram: https://github.com/ga-wdi-exercises/wdinstagram_rails_api
@@ -856,6 +880,7 @@
        support: ""
     - "5:00PM":
        title: "Due At 5: WDI Radio Lab"
+       color: red
        url: "https://github.com/ga-wdi-exercises/wdi_radio_lab"
        lead: ""
        support: ""
@@ -893,6 +918,7 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
+       color: red
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.y4efrm9isxqq"
        lead: ""
        support: ""
@@ -940,6 +966,7 @@
        support: ""
     - "12:00PM":
        title: "Due At Noon: Project 3"
+       color: red
        url: "https://github.com/ga-wdi-exercises/project3"
        lead: ""
        support: ""
@@ -955,6 +982,7 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Read Mongo Lesson"
+       color: red
        url:
          - Mongo Reading: http://github.com/ga-wdi-lessons/mongo-intro
        lead: ""
@@ -995,11 +1023,13 @@
        support: ""
     - "5:00 PM":
        title: "Due At 5: MEN Lab"
+       color: red
        lead: ""
        support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
+       color: red
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.ean1416jej6g"
        lead: ""
        support: ""
@@ -1049,12 +1079,14 @@
        support: ""
     - "5:00PM":
        title: "Due At 5: MEAN Lab"
+       color: red
        lead: ""
        url: "https://github.com/ga-wdi-exercises/mean-lab"
        support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
+       color: red
        url:
          - YUM: https://github.com/ga-wdi-exercises/yum
          - Emergency Compliment Express: https://github.com/ga-wdi-exercises/compliment-express
@@ -1076,6 +1108,7 @@
        support: ""
     - "5:00 PM":
        title: "Due At 5: Web Sockets Lab"
+       color: red
        url: "https://github.com/ga-wdi-exercises/websocket-arcade"
        lead: ""
        support: ""
@@ -1097,6 +1130,7 @@
        support: ""
     - "5:00 PM":
        title: "Due At 5: Sweet Libs Lab"
+       color: red
        url: "https://github.com/ga-wdi-exercises/sweet-libs"
        lead: ""
        support: ""
@@ -1121,11 +1155,13 @@
        support: ""
     - "5:00 PM":
        title: "Due At 5: Lab"
+       color: red
        lead: ""
        support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
+       color: red
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.ocqgm28l81uu"
        lead: ""
        support: ""
@@ -1172,6 +1208,7 @@
        support: ""
     - "5:00 PM":
        title: "Due At 5: Lab"
+       color: red
        lead: ""
        support: ""
   - day:
@@ -1190,6 +1227,7 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
+       color: red
        url:
          - React SPA Part 1: ""
          - React SPA Part 2: ""
@@ -1233,6 +1271,7 @@
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
+       color: red
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.xjrafuz8joi"
        lead: ""
        support: ""

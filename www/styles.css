@@ -1,0 +1,63 @@
+body{
+  font-family:'Helvetica Neue', Helvetica;
+}
+.target{
+  animation: fade-in 2s ease;
+  border: 2px solid orange;
+  border-top:none;
+}
+@keyframes fade-in {
+  0% {
+    background: orange;
+  }
+  100% {
+    background: white;
+  }
+}
+h1{
+  margin-left:.5em;
+  margin-bottom:0;
+  padding-bottom:.5em;
+  border-bottom:1px solid #ccc;
+}
+.day{
+  margin-bottom:1em;
+  padding:1em;
+}
+.day-header {
+  color:#ccc;
+  font-weight:normal;
+}
+h1 a,
+.day-header a {
+  color: inherit;
+  text-decoration:none;
+}
+.day div {
+  border-bottom:1px solid #ccc;
+  padding-bottom:1em;
+}
+.day div:last-of-type{
+  border:none;
+}
+.day h2{
+  margin-bottom:0;
+}
+.day time{
+  font-size:.8em;
+}
+*{
+  box-sizing:border-box;
+}
+h2{
+  font-size:1em;
+}
+.day{
+  width: 20%;
+  float:left;
+}
+.week:after{
+  content:'';
+  display:block;
+  clear:both;
+}
