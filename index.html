@@ -1,0 +1,106 @@
+<!doctype html>
+<html>
+<head>
+  <style>
+    .day{
+      margin-bottom:1em;
+      padding:1em;
+      font-family:'Helvetica Neue', Helvetica;
+    }
+    .day-header {
+      color:#ccc;
+      font-weight:normal;
+    }
+    .day div {
+      border-bottom:1px solid #ccc;
+      padding-bottom:1em;
+    }
+    .day div:last-of-type{
+      border:none;
+    }
+    .day h2{
+      margin-bottom:0;
+    }
+    .day time{
+      font-size:.8em;
+    }
+    *{
+      box-sizing:border-box;
+    }
+    h2{
+      font-size:1em;
+    }
+    .day{
+      width: 20%;
+      float:left;
+    }
+    .week:after{
+      content:'';
+      display:block;
+      clear:both;
+    }
+  </style>
+</head>
+
+<body>
+<div class='events' />
+<script src='js-yaml.min.js'></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.14.1/moment.min.js"></script>
+<script type='text/javascript'>
+var request = new XMLHttpRequest();
+request.open('GET', '/wdi12/schedule.yml', true);
+
+request.onload = function() {
+  if (this.status >= 200 && this.status < 400) {
+    var doc = jsyaml.load(this.response)
+    var oi = 0
+    var $week = el("div")
+    $week.className = 'week'
+    $events.appendChild($week)
+    for(var i = 0; i < doc[1].days.length; i++){
+      if( i % 5 === 0 && i !== 0 ){
+        $week = el("div")
+	$week.className = 'week'
+	$events.appendChild($week)
+        oi += 2
+      }
+      $week.appendChild($day(doc[1].days[i],oi,doc[0]["start-date"]))
+      oi++
+    }
+  }
+};
+request.send();
+var $events = document.querySelector(".events")
+function $day(day, i, startDate){
+  var events = day.day
+  var $day = el("div")
+  $day.className = 'day'
+  var h2 = el("h2", moment(startDate).add(i,"days").format("ddd, MMM Do 'YY"))
+  h2.className = 'day-header'
+  $day.appendChild(h2)
+  events.forEach(function(event){
+    for(var time in event){
+      var urls = event[time].url || []
+      if(urls && urls.length) debugger
+      var $title = el("h2", event[time].title).outerHTML
+      if(typeof urls === "string"){
+        var $a = el("a", $title.innerHTML)
+        $title.innerHTML = $a
+      }
+      var $event = el("div", $title)
+      $event.appendChild(
+        el("time", time)
+      )
+      $day.appendChild($event)
+    }
+  })
+  return $day
+}
+function el(type, innerHTML){
+  var d = document.createElement(type)
+  d.innerHTML = innerHTML || ''
+  return d
+}
+</script>
+</body>
+</html>
