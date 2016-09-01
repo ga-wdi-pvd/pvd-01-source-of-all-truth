@@ -23,9 +23,8 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Review / Code Challenge"
-       lead: ""
-       support: ""
+       title: "Checkpoint 00"
+       lead: "Jesse"
     - "10:00AM - 12:30PM":
        title: "Git 1"
        url: "https://github.com/ga-wdi-lessons/git-intro"
