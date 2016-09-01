@@ -3,7 +3,7 @@
 <head>
   <link rel="stylesheet" type="text/css" href="styles.css">
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.min.js"></script>
-  <meta name='viewport' content='width=device-width'>
+  <meta name='viewport' content='width=device-width, initial-scale=1, max-scale=1'>
 </head>
 
 <body>
@@ -72,13 +72,13 @@ request.onload = function() {
       var day = doc[1].days[i]
       day.date = moment(doc[0]["start-date"]).add(oi,"days").format("ddd, MMM Do 'YY")
       day.yyyymmdd = moment(doc[0]["start-date"]).add(oi,"days").format("YYYY-MM-DD")
-      day.day = day.day.map( event => {
+      day.day = day.day.map(function(event){
         var time = Object.keys(event)[0]
 	if(typeof event[time].url === "string"){
 	  var url = event[time].url
 	}
 	if(typeof event[time].url === "object"){
-	  var urls = event[time].url.map( e => {
+	  var urls = event[time].url.map(function(e){
 	    var title = Object.keys(e)[0]
 	    return {
 	      title: title,
