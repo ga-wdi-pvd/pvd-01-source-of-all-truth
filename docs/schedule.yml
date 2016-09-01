@@ -1383,3 +1383,77 @@
        url: "https://github.com/ga-dc/after-wdi"
        lead: ""
        support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "Project 4"
+       url: "https://github.com/ga-wdi-exercises/project4"
+       lead: ""
+       support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
+       lead: "Nick"
+       support: ""
+    - "2:30PM - 5:00PM":
+       title: "Project 4"
+       url: "https://github.com/ga-wdi-exercises/project4"
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 12:30PM":
+       title: "Project 4"
+       url: "https://github.com/ga-wdi-exercises/project4"
+       lead: ""
+       support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
+       lead: "Adrian"
+       support: ""
+    - "2:30PM - 5:00PM":
+       title: "Project 4"
+       url: "https://github.com/ga-wdi-exercises/project4"
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 12:30PM":
+       title: "Project 4"
+       url: "https://github.com/ga-wdi-exercises/project4"
+       lead: ""
+       support: ""
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
+       lead: "Jesse"
+       support: ""
+    - "2:30PM - 5:00PM":
+       title: "Project 4"
+       url: "https://github.com/ga-wdi-exercises/project4"
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "Project 4"
+       url: "https://github.com/ga-wdi-exercises/project4"
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 12:00PM":
+       title: "Project 4"
+       url: "https://github.com/ga-wdi-exercises/project4"
+       lead: ""
+       support: ""
+    - "2:00PM - 4:00PM":
+       title: "Project 4 Presentations"
+       url: "https://github.com/ga-wdi-exercises/project4#presentations"
+       lead: ""
+       support: ""
+    - "4:00PM - 4:30PM":
+       title: "Final Scrum, Feedback & Envelopes"
+       lead: ""
+       support: ""
+    - "4:30PM - 5:00PM":
+       title: "Life After WDI"
+       url: "https://github.com/ga-dc/after-wdi"
+       lead: ""
+       support: ""
