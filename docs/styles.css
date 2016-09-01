@@ -3,7 +3,14 @@ body{
   padding:1em;
 }
 ul{
+  margin:0;
   font-size:.8em;
+}
+ul li:first-child{
+  margin-top:.5em;
+}
+ul li:last-child{
+  margin-bottom:.5em;
 }
 .target{
   animation: fade-in 2s ease;
@@ -78,7 +85,7 @@ h2{
     width:100%;
     margin-bottom:0;
     border-bottom: 1px solid #ccc;
-    padding:0;
+    padding: 1em 0;
   }
   h1{
     padding:0;
