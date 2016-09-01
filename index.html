@@ -1,48 +1,48 @@
 <!doctype html>
 <html>
 <head>
-  <style>
-    .day{
-      margin-bottom:1em;
-      padding:1em;
-      font-family:'Helvetica Neue', Helvetica;
-    }
-    .day-header {
-      color:#ccc;
-      font-weight:normal;
-    }
-    .day div {
-      border-bottom:1px solid #ccc;
-      padding-bottom:1em;
-    }
-    .day div:last-of-type{
-      border:none;
-    }
-    .day h2{
-      margin-bottom:0;
-    }
-    .day time{
-      font-size:.8em;
-    }
-    *{
-      box-sizing:border-box;
-    }
-    h2{
-      font-size:1em;
-    }
-    .day{
-      width: 20%;
-      float:left;
-    }
-    .week:after{
-      content:'';
-      display:block;
-      clear:both;
-    }
-  </style>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.min.js"></script>
 </head>
 
 <body>
+<script type='text/x-handlebars-template' id='app'>
+  {{#each weeks}}
+    <div class='week'>
+      <h1>Week {{this._index}}</h1>
+      {{#each this}}
+	<div class='day' id={{this.yyyymmdd}}>
+	  <h2 class='day-header'><a href='#{{this.yyyymmdd}}'>{{this.date}}</a></h2>
+	  {{#each this.day}}
+	    <div>
+	      {{#if this.url}}
+		<h2 ><a style='color:{{this.color}}' href='{{this.url}}'>{{this.title}}</a></h2>
+	      {{else}}
+		<h2 style='color:{{this.color}}'>{{this.title}}</h2>
+	      {{/if}}
+	      <time>{{this.time}}</time>
+	      <ul>
+	        {{#if this.urls}}
+		  {{#each this.urls}}
+		    <li><a href='{{this.href}}'>{{this.title}}</a></li>
+		  {{/each}}
+		{{/if}}
+	      </ul>
+	      <ul>
+	        {{#if this.lead}}
+		  <li>{{this.lead}}</li>
+		{{/if}}
+	        {{#if this.support}}
+		  <li>{{this.support}}</li>
+		{{/if}}
+	      </ul>
+	    </div>
+	  {{/each}}
+	</div> 
+      {{/each}}
+    </div>
+  {{/each}}
+</script>
 <div class='events' />
 <script src='js-yaml.min.js'></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.14.1/moment.min.js"></script>
@@ -50,56 +50,69 @@
 var request = new XMLHttpRequest();
 request.open('GET', '/wdi12/schedule.yml', true);
 
+var context = []
 request.onload = function() {
   if (this.status >= 200 && this.status < 400) {
     var doc = jsyaml.load(this.response)
     var oi = 0
-    var $week = el("div")
-    $week.className = 'week'
-    $events.appendChild($week)
+    var week = []
     for(var i = 0; i < doc[1].days.length; i++){
       if( i % 5 === 0 && i !== 0 ){
-        $week = el("div")
-	$week.className = 'week'
-	$events.appendChild($week)
+	week._index = context.length + 1
+	context.push(week)
+        week = []
         oi += 2
       }
-      $week.appendChild($day(doc[1].days[i],oi,doc[0]["start-date"]))
+      var day = doc[1].days[i]
+      day.date = moment(doc[0]["start-date"]).add(oi,"days").format("ddd, MMM Do 'YY")
+      day.yyyymmdd = moment(doc[0]["start-date"]).add(oi,"days").format("YYYY-MM-DD")
+      day.day = day.day.map( event => {
+        var time = Object.keys(event)[0]
+	if(typeof event[time].url === "string"){
+	  var url = event[time].url
+	}
+	if(typeof event[time].url === "object"){
+	  var urls = event[time].url.map( e => {
+	    var title = Object.keys(e)[0]
+	    return {
+	      title: title,
+	      href: e[title]
+	    }
+	  })
+	}
+	var newDay = {
+	  time: time,
+	  url: url,
+	  urls: urls
+	}
+	delete event[time].url
+	for(var k in event[time]){
+	  newDay[k] = event[time][k]
+	}
+	return newDay
+      })
+      week.push(day)
       oi++
+    }
+    var tpl = app.innerHTML
+    var template = Handlebars.compile(tpl)
+    var html = template({weeks:context})
+    document.querySelector(".events").innerHTML = html
+    if(window.location.hash){
+      goTo(window.location.hash)
     }
   }
 };
 request.send();
-var $events = document.querySelector(".events")
-function $day(day, i, startDate){
-  var events = day.day
-  var $day = el("div")
-  $day.className = 'day'
-  var h2 = el("h2", moment(startDate).add(i,"days").format("ddd, MMM Do 'YY"))
-  h2.className = 'day-header'
-  $day.appendChild(h2)
-  events.forEach(function(event){
-    for(var time in event){
-      var urls = event[time].url || []
-      if(urls && urls.length) debugger
-      var $title = el("h2", event[time].title).outerHTML
-      if(typeof urls === "string"){
-        var $a = el("a", $title.innerHTML)
-        $title.innerHTML = $a
-      }
-      var $event = el("div", $title)
-      $event.appendChild(
-        el("time", time)
-      )
-      $day.appendChild($event)
-    }
-  })
-  return $day
+onhashchange = function(e){
+  goTo(location.hash)
 }
-function el(type, innerHTML){
-  var d = document.createElement(type)
-  d.innerHTML = innerHTML || ''
-  return d
+function goTo(hash){
+  var id = hash.substr(1)
+  var target = document.getElementById(id)
+  try{ document.querySelector(".target").classList.remove("target") } catch(e) {}
+  target.classList.add("target")
+  target.scrollIntoView()
 }
 </script>
 </body>
