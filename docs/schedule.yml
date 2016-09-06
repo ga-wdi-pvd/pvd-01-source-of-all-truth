@@ -21,6 +21,10 @@
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wxvonjnvki5q"
        lead: ""
        support: ""
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: "Jesse"
+       support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Checkpoint 00"
@@ -40,6 +44,10 @@
        url: "https://github.com/ga-wdi-lessons/css-review"
        lead: "Adrian"
        support: "Jesse"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: "Adrian"
+       support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
@@ -64,6 +72,10 @@
        url: "https://github.com/ga-wdi-lessons/git-branching"
        lead: "Nick"
        support: "Adrian"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: "Nick"
+       support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Slips"
@@ -110,6 +122,10 @@
        url: "https://github.com/ga-wdi-lessons/js-objects-functions"
        lead: "Nick"
        support: "Jesse"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Prework"
@@ -137,6 +153,10 @@
        url: "https://github.com/ga-wdi-lessons/jquery-dom"
        lead: "Jesse"
        support: "Nick"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
@@ -157,6 +177,10 @@
        url: "https://github.com/ga-wdi-lessons/JS-review-misc"
        lead: "Nick"
        support: "Adrian"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
@@ -226,6 +250,10 @@
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
        support: ""
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
@@ -253,6 +281,10 @@
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
        support: ""
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 12:30PM":
        title: "Project 1"
@@ -271,6 +303,10 @@
        support: ""
     - "4:30PM - 5:00PM":
        title: "Squad Scrum"
+       lead: ""
+       support: ""
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
        lead: ""
        support: ""
   - day:
@@ -329,6 +365,10 @@
        url: "https://github.com/ga-wdi-lessons/ruby-enumerables"
        lead: "Nick"
        support: "Jesse"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
@@ -362,6 +402,10 @@
        url: "https://github.com/ga-wdi-exercises/state_capitals"
        lead: ""
        support: ""
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 10:00PM":
        title: "Review / Code Challenge"
@@ -382,6 +426,10 @@
        url: "https://github.com/ga-wdi-lessons/ruby-oop-inheritance"
        lead: "Jesse"
        support: "Adrian"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
@@ -453,6 +501,10 @@
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
        lead: "Jesse"
        support: "Adrian"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
@@ -480,6 +532,10 @@
        url: "https://github.com/ga-wdi-lessons/sinatra-and-activerecord"
        lead: "Adrian"
        support: "Nick"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 10:00PM":
        title: "Review/Code Challenge"
@@ -508,6 +564,10 @@
        title: "Due At 5: Lab"
        color: red
        url: "https://github.com/ga-wdi-exercises/pokenatra"
+       lead: ""
+       support: ""
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
        lead: ""
        support: ""
   - day:
@@ -575,6 +635,10 @@
        title: "Lab: Hogwarts"
        lead: "Nick"
        support: ""
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
@@ -602,6 +666,10 @@
        url: "https://github.com/ga-wdi-lessons/rspec"
        lead: "Jesse"
        support: "Adrian"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
@@ -622,6 +690,10 @@
        url: "https://github.com/ga-wdi-lessons/rails-many-to-many"
        lead: "Nick"
        support: "Jesse"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
@@ -686,6 +758,10 @@
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
@@ -713,6 +789,10 @@
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 12:30PM":
        title: "Project 2"
@@ -727,6 +807,10 @@
     - "2:30PM - 5:00PM":
        title: "Project 2"
        url: "https://github.com/ga-wdi-exercises/project2"
+       lead: ""
+       support: ""
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
        lead: ""
        support: ""
   - day:
@@ -802,6 +886,10 @@
        url: "https://github.com/ga-wdi-lessons/js-ajax"
        lead: "Adrian"
        support: "Jesse"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
@@ -829,6 +917,10 @@
        url: "https://github.com/ga-wdi-lessons/angular-resources"
        lead: "Jesse"
        support: "Adrian"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
@@ -849,6 +941,10 @@
        url: "https://github.com/ga-wdi-lessons/angular-firebase"
        lead: "Nick"
        support: "Adrian"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
@@ -914,6 +1010,10 @@
        url: "https://github.com/ga-wdi-exercises/project3"
        lead: ""
        support: ""
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
@@ -941,6 +1041,10 @@
        url: "https://github.com/ga-wdi-exercises/project3"
        lead: ""
        support: ""
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 12:30PM":
        title: "Project 3"
@@ -955,6 +1059,10 @@
     - "2:30PM - 5:00PM":
        title: "Project 3"
        url: "https://github.com/ga-wdi-exercises/project3"
+       lead: ""
+       support: ""
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
        lead: ""
        support: ""
   - day:
@@ -1025,6 +1133,10 @@
        color: red
        lead: ""
        support: ""
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
@@ -1052,6 +1164,10 @@
        url: "https://github.com/ga-wdi-lessons/building-a-mean-app"
        lead: "Nick"
        support: "Adrian"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
@@ -1081,6 +1197,10 @@
        color: red
        lead: ""
        url: "https://github.com/ga-wdi-exercises/mean-lab"
+       support: ""
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
        support: ""
   - day:
     - "9:00AM":
