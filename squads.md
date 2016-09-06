@@ -29,7 +29,7 @@ Each student will be assigned a squad. Each squad is led by an instructor and wi
 
 - Doray	Owens
 - Manish Pradhan
-- Jonathan Reiser
+- Michael Flores
 - Michael	Rubin
 - Dominique	Simmons
 - Alexander Spottswood
