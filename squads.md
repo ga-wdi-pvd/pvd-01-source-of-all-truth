@@ -24,10 +24,10 @@ Each student will be assigned a squad. Each squad is led by an instructor and wi
 - Kevin Mahoney
 - Alexander	Manno
 - Nicholas Oki
-- Doray	Owens
 
 ## Jesse
 
+- Doray	Owens
 - Manish Pradhan
 - Jonathan Reiser
 - Michael	Rubin
