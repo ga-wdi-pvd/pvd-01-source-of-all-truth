@@ -125,7 +125,7 @@
        support: "Jesse"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
+       lead: "Nayana"
        support: ""
   - day:
     - "9:00AM":
@@ -156,7 +156,7 @@
        support: "Nick"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
+       lead: "Andy"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -180,7 +180,7 @@
        support: "Adrian"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
+       lead: "James"
        support: ""
   - day:
     - "9:00AM":
