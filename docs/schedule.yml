@@ -65,7 +65,7 @@
        support: ""
     - "10:00 AM - 12:30PM":
        title: "CSS2"
-       url: "https://github.com/ga-wdi-lessons/css-layout/"
+       url: "https://github.com/ga-wdi-lessons/css-flexbox"
        lead: "Adrian"
        support: "Jesse"
     - "2:30PM - 5:00PM":
