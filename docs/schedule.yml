@@ -104,6 +104,9 @@
        url: "https://github.com/ga-wdi-exercises/portfolio_pages"
        lead: ""
        support: ""
+    - "05:00PM - 6:30PM":
+       title: "Happy Hour"
+       url: "https://wdi12dc.slack.com/archives/announcements/p1473445385000019"
   - day:
     - "9:00AM - 10:00AM":
        title: "Checkpoint 01"
