@@ -48,7 +48,7 @@
 	      </ul>
 	    </div>
 	  {{/each}}
-	</div> 
+	</div>
       {{/each}}
     </div>
   {{/each}}
@@ -59,7 +59,6 @@
 <script type='text/javascript'>
 var request = new XMLHttpRequest();
 request.open('GET', './schedule.yml', true);
-
 var context = []
 request.onload = function() {
   if (this.status >= 200 && this.status < 400) {
@@ -109,6 +108,9 @@ request.onload = function() {
     var html = template({weeks:context})
     document.querySelector(".events").innerHTML = html
     if(window.location.hash){
+      if(window.location.hash === '#today' ){
+        window.location.hash = '#' + moment().format("YYYY-MM-DD")
+      }
       goTo(window.location.hash)
     }
   }
