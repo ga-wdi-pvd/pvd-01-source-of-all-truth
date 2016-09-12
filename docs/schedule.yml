@@ -146,6 +146,10 @@
        lead: ""
        support: ""
     - "1:30PM - 2:30PM":
+       title: "Office Hours"
+       lead: "Nick"
+       support: ""
+    - "1:30PM - 2:30PM":
        title: "One on Ones"
        url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
        lead: "Adrian"
@@ -169,6 +173,10 @@
        url: "https://github.com/ga-wdi-lessons/js-events-callbacks"
        lead: "Adrian"
        support: "Jesse"
+    - "1:30PM - 2:30PM":
+       title: "Office Hours"
+       lead: "Adrian"
+       support: ""
     - "1:30PM - 2:30PM":
        title: "One on Ones"
        url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
