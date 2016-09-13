@@ -422,6 +422,9 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM - 5:00PM":
+       title: "Class in CR3 Today"
+       color: 'deeppink'
     - "9:00AM - 10:00PM":
        title: "Review / Code Challenge"
        lead: "Nick"
