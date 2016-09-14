@@ -189,7 +189,7 @@
        support: ""
     - "2:30PM - 5:00PM":
        title: "DOM Debugging"
-       url: "https://github.com/ga-wdi-lessons/JS-review-misc"
+       url: "https://github.com/ga-wdi-lessons/js-debugging"
        lead: "Nick"
        support: "Adrian"
     - "6:00PM - 8:00PM":
