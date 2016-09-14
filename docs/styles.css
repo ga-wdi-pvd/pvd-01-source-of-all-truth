@@ -13,16 +13,8 @@ ul li:last-child{
   margin-bottom:.5em;
 }
 .target{
-  animation: fade-in 2s ease;
+  background: #FFFBE2;
   border-top:none;
-}
-@keyframes fade-in {
-  0% {
-    background: orange;
-  }
-  100% {
-    background: white;
-  }
 }
 h1{
   margin-bottom:0;
@@ -98,6 +90,7 @@ h2{
   }
   .target{
     border-left:none;
+    padding:.5em;
     border-right:none;
   }
 }
