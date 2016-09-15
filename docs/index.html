@@ -112,6 +112,9 @@ request.onload = function() {
         window.location.hash = '#' + moment().format("YYYY-MM-DD")
       }
       goTo(window.location.hash)
+    }else{
+        window.location.hash = '#' + moment().format("YYYY-MM-DD")
+	goTo(window.location.hash)
     }
   }
 };
