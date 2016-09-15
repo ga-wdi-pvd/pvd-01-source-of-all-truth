@@ -230,6 +230,10 @@
        url: "https://github.com/ga-wdi-exercises/atm"
        lead: "Adrian"
        support: ""
+    - "12:30 - 1:30PM":
+       title: "Campus Lunch"
+       url:
+         - Taqueria El Guey: 'http://md.wdidc.org/#/2016-09-16-taqueria-menu.md'
     - "2:30PM - 04:30PM":
        title: "Project 1 Intro"
        url: "https://github.com/ga-wdi-exercises/project1"
@@ -245,6 +249,9 @@
        url: "https://github.com/ga-wdi-exercises/atm"
        lead: ""
        support: ""
+    - "5:00 - 7:00PM":
+       title: "Happy Hour"
+       lead: "VR with Microsoft & NotionTheory"
   - day:
     - "9:00AM":
        title: "Checkpoint 02"
