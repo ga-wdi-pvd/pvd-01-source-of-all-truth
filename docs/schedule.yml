@@ -221,11 +221,7 @@
        lead: "Jesse"
        support: ""
   - day:
-    - "9:00AM - 10:00AM":
-       title: "Slips"
-       url: "https://ga-dc.github.io/slips/"
-       lead: "Adrian"
-    - "10:00AM - 12:30PM":
+    - "9:00AM - 12:30PM":
        title: "Lab: ATM"
        url: "https://github.com/ga-wdi-exercises/atm"
        lead: "Adrian"
