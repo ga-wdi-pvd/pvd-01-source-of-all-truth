@@ -42,4 +42,5 @@ Here's a list of need to know concepts covered in each of the various weeks. Eac
 - get values from an input
 - add an event listener to an element
 - explain what a callback is
+- use `setTimeout` and `setInterval`
 
