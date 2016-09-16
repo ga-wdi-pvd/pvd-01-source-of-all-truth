@@ -247,6 +247,7 @@
        support: ""
     - "5:00 - 7:00PM":
        title: "Happy Hour"
+       url: https://generalassemb.ly/education/virtual-reality-happy-hour/washington-dc/27893
        lead: "VR with Microsoft & NotionTheory"
   - day:
     - "9:00AM":
@@ -256,7 +257,7 @@
     - "10:00AM - 12:30PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
-       lead: ""
+       lead: "Open Office Hours 10-12"
        support: ""
     - "1:30PM - 2:30PM":
        title: "One on Ones"
@@ -266,11 +267,7 @@
     - "2:30PM - 5:00PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
-       lead: ""
-       support: ""
-    - "6:00PM - 8:00PM":
-       title: "Office Hours"
-       lead: ""
+       lead: "Open Office Hours 2-4"
        support: ""
   - day:
     - "9:00AM":
@@ -297,17 +294,13 @@
     - "2:30AM - 5:00PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
-       lead: ""
-       support: ""
-    - "6:00PM - 8:00PM":
-       title: "Office Hours"
-       lead: ""
+       lead: "Open Office Hours 2-4"
        support: ""
   - day:
     - "9:00AM - 12:30PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
-       lead: ""
+       lead: "Open Office Hours 10-12"
        support: ""
     - "1:30PM - 2:30PM":
        title: "One on Ones"
@@ -321,10 +314,6 @@
        support: ""
     - "4:30PM - 5:00PM":
        title: "Squad Scrum"
-       lead: ""
-       support: ""
-    - "6:00PM - 8:00PM":
-       title: "Office Hours"
        lead: ""
        support: ""
   - day:
