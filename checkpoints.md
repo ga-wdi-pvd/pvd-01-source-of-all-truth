@@ -20,3 +20,26 @@ Here's a list of need to know concepts covered in each of the various weeks. Eac
 - [Select Elements](https://github.com/ga-wdi-lessons/css-review#selectors)
 - Create the holy grail layout using flexbox ([hyrule ex.](https://github.com/ga-wdi-exercises/hyrule_potion_shop))
 - [Know where to look for help](https://github.com/ga-wdi-lessons/css-review#further-reading)
+
+## Week 2
+
+### Javascript
+
+- create an array stored to a variable
+- create an object stored to a variable
+- access values out of an array
+- access values out of an object
+- write a for loop
+- use a loop to do something to each element of an array
+- write an if/else conditional
+
+### jQuery & DOM
+
+- link script files to html
+- load jQuery
+- select elements in the DOM
+- do things to jQuery objects like change css, text or html of an element
+- get values from an input
+- add an event listener to an element
+- explain what a callback is
+
