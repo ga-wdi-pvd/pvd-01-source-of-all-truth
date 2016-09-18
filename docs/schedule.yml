@@ -253,6 +253,7 @@
   - day:
     - "9:00AM":
        title: "Checkpoint 02"
+       url: "https://github.com/ga-wdi-exercises/checkpoint-02"
        lead: "Adrian"
        support: ""
     - "10:00AM - 12:30PM":
