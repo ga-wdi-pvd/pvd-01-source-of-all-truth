@@ -497,6 +497,8 @@
        url: "https://github.com/ga-wdi-lessons/activerecord-intro"
        lead: "Nick"
        support: "Adrian"
+    - "5:00PM - 7:00PM":
+       title: "Happy Hour"
   - day:
     - "9:00AM":
        title: "Checkpoint 04"
@@ -625,6 +627,8 @@
        url: "https://github.com/ga-wdi-lessons/rails-routing"
        lead: "Adrian"
        support: "Nick"
+    - "5:00PM - 7:00PM":
+       title: "Happy Hour"
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
@@ -754,6 +758,8 @@
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
+    - "5:00PM - 7:00PM":
+       title: "Happy Hour"
   - day:
     - "9:00AM":
        title: "Checkpoint 06"
@@ -882,6 +888,8 @@
        url: "https://ga-wdi-exercises.github.io/angular-starter-wdi/"
        lead: ""
        support: ""
+    - "5:00PM - 7:00PM":
+       title: "Happy Hour"
   - day:
     - "9:00AM - 10:00AM":
        title: "Review/Code Challenge"
