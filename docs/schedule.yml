@@ -488,6 +488,10 @@
        url: "https://github.com/ga-wdi-lessons/sql-erd"
        lead: "Adrian"
        support: "Jesse"
+    - "12:30PM - 1:30PM":
+       title: "Campus Lunch"
+       url:
+         - GRK: http://md.wdidc.org/#/2016-09-30-grk-menu.md
     - "2:30PM - 5:00PM":
        title: "Active Record"
        url: "https://github.com/ga-wdi-lessons/activerecord-intro"
