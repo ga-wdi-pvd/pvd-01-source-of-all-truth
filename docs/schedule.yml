@@ -321,6 +321,7 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Review/Code Challenge"
+       url: "https://github.com/ga-wdi-exercises/parallax_mouse"
        lead: "Jesse"
        support: ""
     - "10:00AM - 12:30PM":
