@@ -345,9 +345,9 @@
        support: ""
     - "2:30 - 5:00PM":
        title: "Functional Programming"
+       url: "https://github.com/ga-wdi-lessons/functional-programming"
        lead: "Jesse"
        support: "Adrian"
-
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
