@@ -340,6 +340,7 @@
        url: "https://ga-dc.github.io/slips/"
        lead: "Adrian"
     - "10:00AM - 12:30PM":
+       url: "https://github.com/ga-wdi-exercises/js-gladiator"
        title: "OOJS Practice"
        lead: "Nick"
        support: ""
