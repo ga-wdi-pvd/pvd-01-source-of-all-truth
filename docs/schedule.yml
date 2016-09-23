@@ -449,9 +449,7 @@
        title: "Due At 9: Homework"
        color: red
        url:
-         - ES6 HW: ""
          - Geometry: https://github.com/ga-wdi-exercises/js_geometry
-         - FP HW: ""
          - High Card: https://github.com/ga-wdi-exercises/high_card
          - Landlord: https://github.com/ga-wdi-exercises/landlord_ruby_no_AR
        lead: ""
