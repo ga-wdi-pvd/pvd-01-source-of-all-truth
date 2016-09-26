@@ -372,6 +372,10 @@
        url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
        lead: "Nick"
        support: ""
+    - "1:30PM - 2:30PM":
+       title: "Office Hours"
+       lead: "Adrian"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "Ruby Enums"
        url: "https://github.com/ga-wdi-lessons/ruby-enumerables"
@@ -379,7 +383,7 @@
        support: "Jesse"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: "Adrian"
+       lead: "James"
        support: ""
   - day:
     - "9:00AM":
@@ -402,6 +406,10 @@
        url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
        lead: "Adrian"
        support: ""
+    - "1:30PM - 2:30PM":
+       title: "Office Hours"
+       lead: "Jesse"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "Lab: Ruby Enums"
        url: "https://github.com/ga-wdi-exercises/state_capitals"
@@ -415,7 +423,7 @@
        support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: "Nick"
+       lead: "Andy"
        support: ""
   - day:
     - "9:00AM - 5:00PM":
@@ -435,6 +443,10 @@
        url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
        lead: "Jesse"
        support: ""
+    - "1:30PM - 2:30PM":
+       title: "Office Hours"
+       lead: "Nick"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "Ruby OOP 2"
        url: "https://github.com/ga-wdi-lessons/ruby-oop-inheritance"
@@ -442,7 +454,7 @@
        support: "Adrian"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: "Jesse"
+       lead: "Nayana"
        support: ""
   - day:
     - "9:00AM":
