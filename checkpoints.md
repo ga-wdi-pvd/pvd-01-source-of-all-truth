@@ -44,3 +44,18 @@ Here's a list of need to know concepts covered in each of the various weeks. Eac
 - explain what a callback is
 - use `setTimeout` and `setInterval`
 
+## Week 3
+
+### ES6
+
+- Decide when to use `var`, `let`, or `const`
+- Use a fat-arrow function
+  - understand how it affects `this`
+- Use template literals to interpolate variables and strings
+
+### Functional Programming
+
+- Use the following methods:
+  - map
+  - filter
+  - forEach
