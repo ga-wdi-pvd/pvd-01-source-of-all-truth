@@ -357,9 +357,10 @@
          - TryRuby Levels 1-3: http://tryruby.org/levels/1/challenges/0
        lead: ""
        support: ""
-    - "9:00AM":
-       title: "Checkpoint 03"
-       lead: "Adrian"
+    - "9:00AM - 10:00PM":
+       title: "Outcomes Prep"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.u6qsl4p95n0l"
+       lead: ""
        support: ""
     - "10:00AM - 12:30PM":
        title: "Intro to Ruby"
@@ -387,10 +388,9 @@
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.u6qsl4p95n0l"
        lead: ""
        support: ""
-    - "9:00AM - 10:00PM":
-       title: "Outcomes Prep"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.u6qsl4p95n0l"
-       lead: ""
+    - "9:00AM - 10:00AM":
+       title: "Checkpoint 03"
+       lead: "Adrian"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Outcomes"
