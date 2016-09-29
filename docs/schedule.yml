@@ -472,13 +472,13 @@
        lead: "Nick"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Lab: Gladiator"
-       url: "https://github.com/ga-wdi-exercises/gladiator"
+       title: "Lab"
+       url: "https://github.com/ga-wdi-exercises/ruby-cli-lab"
        lead: "Jesse"
        support: ""
     - "2:30PM - 4:30PM":
-       title: "Lab: Gladiator"
-       url: "https://github.com/ga-wdi-exercises/gladiator"
+       title: "Lab"
+       url: "https://github.com/ga-wdi-exercises/ruby-cli-lab"
        lead: "Adrian"
        support: ""
     - "4:30PM - 5:00PM":
