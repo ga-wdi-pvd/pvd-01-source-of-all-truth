@@ -534,7 +534,7 @@
        support: "Adrian"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
+       lead: "Adrian"
        support: ""
   - day:
     - "9:00AM":
@@ -565,7 +565,7 @@
        support: "Nick"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
+       lead: "Jesse"
        support: ""
   - day:
     - "9:00AM - 10:00PM":
@@ -599,8 +599,8 @@
        support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
-       support: ""
+       lead: "Nick"
+       support: "James"
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
