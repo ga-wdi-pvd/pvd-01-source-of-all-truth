@@ -59,3 +59,20 @@ Here's a list of need to know concepts covered in each of the various weeks. Eac
   - map
   - filter
   - forEach
+  
+## Week 4
+
+### Ruby
+
+- Same programming fundamentals from week 1 for javascript only for ruby
+- use the ruby .each method to iterate through a list and execute a block of code
+
+### Ruby OOP
+
+- Define a ruby class
+- write an initialize method that sets instance variables
+- create instances of an object using the .new method
+- use attr_accessor, attr_reader, attr_writer to create getter/setter methods
+- define an instance method
+- define a class method
+- write a ruby class that inherits from another class definition
