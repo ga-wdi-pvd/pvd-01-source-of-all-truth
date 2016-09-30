@@ -498,7 +498,7 @@
        lead: "Jesse"
     - "10:00AM - 12:30PM":
        title: "Domain Modeling & SQL"
-       url: "https://github.com/ga-wdi-lessons/sql-erd"
+       url: "https://github.com/ga-wdi-lessons/sql-intro"
        lead: "Adrian"
        support: "Jesse"
     - "12:30PM - 1:30PM":
