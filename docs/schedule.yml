@@ -472,13 +472,13 @@
        lead: "Nick"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Lab: Gladiator"
-       url: "https://github.com/ga-wdi-exercises/gladiator"
+       title: "Lab"
+       url: "https://github.com/ga-wdi-exercises/ruby-cli-lab"
        lead: "Jesse"
        support: ""
     - "2:30PM - 4:30PM":
-       title: "Lab: Gladiator"
-       url: "https://github.com/ga-wdi-exercises/gladiator"
+       title: "Lab"
+       url: "https://github.com/ga-wdi-exercises/ruby-cli-lab"
        lead: "Adrian"
        support: ""
     - "4:30PM - 5:00PM":
@@ -498,7 +498,7 @@
        lead: "Jesse"
     - "10:00AM - 12:30PM":
        title: "Domain Modeling & SQL"
-       url: "https://github.com/ga-wdi-lessons/sql-erd"
+       url: "https://github.com/ga-wdi-lessons/sql-intro"
        lead: "Adrian"
        support: "Jesse"
     - "12:30PM - 1:30PM":
@@ -534,7 +534,7 @@
        support: "Adrian"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
+       lead: "Adrian"
        support: ""
   - day:
     - "9:00AM":
@@ -565,7 +565,7 @@
        support: "Nick"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
+       lead: "Jesse"
        support: ""
   - day:
     - "9:00AM - 10:00PM":
@@ -599,8 +599,8 @@
        support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
-       support: ""
+       lead: "Nick"
+       support: "James"
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
