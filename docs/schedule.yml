@@ -606,7 +606,7 @@
        title: "Due At 9: Homework"
        color: red
        url:
-         - Library SQL: https://github.com/ga-wdi-exercises/library_sql
+         - NBA Stats: https://github.com/ga-wdi-exercises/nba_stats
          - Landlord (AR): https://github.com/ga-wdi-exercises/landlord
          - Emergency Compliment: https://github.com/ga-wdi-exercises/emergency_compliment
        lead: ""
