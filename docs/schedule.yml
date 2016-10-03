@@ -618,8 +618,8 @@
     - "10:00AM - 12:30PM":
        title: "Intro to Rails/MVC"
        url: "https://github.com/ga-wdi-lessons/http-mvc-intro-rails"
-       lead: "Jesse"
-       support: "Adrian"
+       lead: "Adrian"
+       support: "Jesse"
     - "2:30PM - 5:00PM":
        title: "Rails: Models & Migrations"
        url: "https://github.com/ga-wdi-lessons/rails-activerecord"
@@ -638,7 +638,7 @@
     - "2:30PM - 5:00PM":
        title: "Rails: Routes & Resources"
        url: "https://github.com/ga-wdi-lessons/rails-routing"
-       lead: "Adrian"
+       lead: "Jesse"
        support: "Nick"
     - "5:00PM - 7:00PM":
        title: "Happy Hour"
