@@ -582,6 +582,10 @@
        url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
        lead: "Jesse"
        support: ""
+    - "1:30PM - 2:30PM":
+       title: "Office Hours"
+       lead: "Nayana"
+       support: ""
     - "2:30PM - 4:30PM":
        title: "Lab: Sinatra"
        url: "https://github.com/ga-wdi-exercises/pokenatra"
