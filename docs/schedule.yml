@@ -633,7 +633,7 @@
     - "9:00AM - 10:00AM":
        title: "Slips"
        url: "https://ga-dc.github.io/slips/"
-       lead: "Adrian"
+       lead: "Jesse"
     - "10:00AM - 12:30PM":
        title: "Rails: Views & Controllers"
        url: "https://github.com/ga-wdi-lessons/rails-views"
