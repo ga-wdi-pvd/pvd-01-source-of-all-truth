@@ -570,7 +570,7 @@
   - day:
     - "9:00AM - 10:00PM":
        title: "Review/Code Challenge"
-       lead: "Jesse"
+       lead: "Adrian"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Lab: Sinatra"
