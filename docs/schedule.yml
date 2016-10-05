@@ -894,6 +894,11 @@
        url: "https://github.com/ga-wdi-lessons/angular-intro"
        lead: "Nick"
        support: ""
+    - "12:30PM - 1:30PM":
+       title: "Campus Lunch"
+       url: ""
+       lead: ""
+       support: ""
     - "2:30PM - 5:00PM":
        title: "Lab: Superheroes"
        url: "https://ga-wdi-exercises.github.io/angular-starter-wdi/"
@@ -1031,6 +1036,16 @@
        url: "https://github.com/ga-wdi-exercises/project3"
        lead: ""
        support: ""
+    - "12:30PM - 1:30PM":
+       title: "Campus Lunch"
+       url: ""
+       lead: ""
+       support: ""
+    - "5:00PM - 7:00PM":
+       title: "Happy Hour"
+       url: ""
+       lead: ""
+       support: ""
   - day:
     - "9:00AM":
        title: "Checkpoint 07"
@@ -1145,11 +1160,21 @@
        url: "https://github.com/ga-wdi-lessons/express-intro"
        lead: "Jesse"
        support: "Nick"
+    - "12:30PM - 1:30PM":
+       title: "Campus Lunch"
+       url: ""
+       lead: ""
+       support: ""
     - "2:30PM - 5:00 PM":
        title: "Mongo / Mongoose Intro"
        url: "https://github.com/ga-wdi-lessons/mongo-intro"
        lead: "Adrian"
        support: "Jesse"
+    - "5:00PM - 7:00PM":
+       title: "Happy Hour"
+       url: ""
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
@@ -1401,6 +1426,11 @@
     - "10:00AM - 12:30PM":
        title: "Computer Science"
        url: "https://github.com/ga-wdi-lessons/cs-algorithms"
+       lead: ""
+       support: ""
+    - "12:30PM - 1:30PM":
+       title: "Campus Lunch"
+       url: ""
        lead: ""
        support: ""
     - "2:30PM - 5:00 PM":
