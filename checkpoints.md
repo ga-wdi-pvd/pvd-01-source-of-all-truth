@@ -76,3 +76,31 @@ Here's a list of need to know concepts covered in each of the various weeks. Eac
 - define an instance method
 - define a class method
 - write a ruby class that inherits from another class definition
+
+## Week 5
+
+### Active Record
+- create and leverage a `Gemfile`
+- link gem dependencies and other files in a ruby file
+- create a database in postgres
+- load a schema to a postgres database
+- write a ruby class that inherits active record functionality
+- write a ruby file that connects to a database
+- use active record to do the following in a database:
+  - create (`.create`, `.new`/`.save`)
+  - read (`.all`, `.find`, `.find_by`, `.where`)
+  - update (attr_accesors for columns, `.update`)
+  - destroy (`.destroy`)
+- leverage `has_many` and `belongs_to` helper methods to query databases and create data more effectively
+- seed a database using a ruby program
+
+### Rails
+
+- rMVC flow
+- making post, put, delete requests from forms
+- rails form helper methods
+- embedding ruby expressions
+- configure routes.rb — nesting resources, RESTful routes, keywords except: and only:
+- rake commands for db handling
+- how to write a seeds.rb script
+- generating models, controllers, and migrations from the command line
