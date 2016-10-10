@@ -659,10 +659,12 @@
        lead: "Jesse"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Rails: Forms & Helpers"
-       url: "https://github.com/ga-wdi-lessons/rails-helpers"
-       lead: "Adrian"
-       support: "Nick"
+       title: "Rails Review"
+       url:
+        - Review: "https://github.com/ga-wdi-lessons/rails-review"
+        - Exercise: "https://github.com/ga-wdi-exercises/pinspiration"
+       lead: "Jesse"
+       support: "Adrian"
     - "1:30PM - 2:30PM":
        title: "One on Ones"
        url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
