@@ -701,10 +701,10 @@
        lead: "Adrian"
        support: ""
     - "2:30PM - 5:00PM":
-       title: "TDD on Rails"
-       url: "https://github.com/ga-wdi-lessons/rspec"
-       lead: "Jesse"
-       support: "Adrian"
+       title: "Rails: Users, Session & Flash"
+       url: "https://github.com/ga-wdi-lessons/rails-users-sessions-flash-cookies"
+       lead: "Adrian"
+       support: "Jesse"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
@@ -715,10 +715,10 @@
        lead: "Adrian"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Rails: Users, Session & Flash"
-       url: "https://github.com/ga-wdi-lessons/rails-users-sessions-flash-cookies"
-       lead: "Jesse"
-       support: "Adrian"
+       title: 'Devise'
+       url: 'https://github.com/ga-wdi-lessons/devise'
+       lead: 'Jesse'
+       support: 'Adrian'
     - "1:30PM - 2:30PM":
        title: "One on Ones"
        url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
