@@ -756,10 +756,6 @@
        url: "https://github.com/ga-wdi-exercises/game_of_thrones"
        lead: "Nick"
        support: ""
-    - "4:30PM - 05:00PM":
-       title: "Squad Scrum"
-       lead: ""
-       support: ""
     - "5:00PM":
        title: "Due At 5: Lab"
        color: red
@@ -771,6 +767,10 @@
        title: "Project 2 Intro"
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: "Jesse"
+       support: ""
+    - "11:30AM - 12:00pm":
+       title: "Squad Scrum"
+       lead: ""
        support: ""
     - "10:00AM - 5:00PM":
        title: "Project 2"
