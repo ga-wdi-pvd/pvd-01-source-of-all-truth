@@ -785,6 +785,11 @@
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
+    - "10:00AM - 12:00PM":
+       title: "Project Office Hours"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "Adrian"
+       support: ""
     - "1:30PM - 2:30PM":
        title: "One on Ones"
        url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
@@ -826,6 +831,11 @@
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
+    - "2:30PM - 4:30PM":
+       title: "Project Office Hours"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "Jesse"
+       support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
@@ -835,6 +845,11 @@
        title: "Project 2"
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
+       support: ""
+    - "10:00AM - 12:00PM":
+       title: "Project Office Hours"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "Nick"
        support: ""
     - "1:30PM - 2:30PM":
        title: "One on Ones"
@@ -855,6 +870,11 @@
        title: "Project 2"
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
+       support: ""
+    - "10:00AM - 12:00PM":
+       title: "Project Office Hours"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "Jesse"
        support: ""
     - "12:00PM":
        title: "Due At Noon: Project & Video"
