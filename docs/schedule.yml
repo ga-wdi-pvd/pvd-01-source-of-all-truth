@@ -780,10 +780,6 @@
     - "5:00PM - 7:00PM":
        title: "Happy Hour"
   - day:
-    - "9:00AM":
-       title: "Checkpoint 06"
-       lead: "Nick"
-       support: ""
     - "9:00AM - 5:00PM":
        title: "Project 2"
        url: "https://github.com/ga-wdi-exercises/project2"
