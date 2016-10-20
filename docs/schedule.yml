@@ -915,7 +915,7 @@
        support: ""
     - "2:30PM - 5:00PM":
        title: "Lab: Superheroes"
-       url: "https://ga-wdi-exercises.github.io/angular-starter-wdi/"
+       url: "https://github.com/ga-wdi-exercises/angular-superheroes"
        lead: "Adrian"
        support: ""
     - "5:00PM":
