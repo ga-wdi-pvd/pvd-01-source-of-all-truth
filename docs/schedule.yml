@@ -899,7 +899,7 @@
     - "9:00AM":
        title: "Due At 9: Homework"
        color: red
-       url: "https://www.codeschool.com/courses/shaping-up-with-angular-js"
+       url: "https://github.com/ga-wdi-exercises/shaping-up-with-angular"
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
