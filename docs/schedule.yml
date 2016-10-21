@@ -887,10 +887,6 @@
        url: "https://github.com/ga-wdi-exercises/project2/blob/master/presentations.md"
        lead: ""
        support: ""
-    - "4:30PM - 5:00PM":
-       title: "Midcourse Feedback"
-       lead: ""
-       support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
@@ -913,11 +909,17 @@
        url: ""
        lead: ""
        support: ""
-    - "2:30PM - 5:00PM":
+    - "2:30PM - 3:00PM":
+       title: "Midcourse Feedback && Surprise!"
+       lead: ""
+       support: ""
+    - "3:00PM - 4:30PM":
        title: "Lab: Superheroes"
        url: "https://github.com/ga-wdi-exercises/angular-superheroes"
        lead: "Adrian"
        support: ""
+    - "4:30PM - 5:00PM":
+       title: "Squad Scrum"
     - "5:00PM":
        title: "Due At 5: Lab"
        color: red
