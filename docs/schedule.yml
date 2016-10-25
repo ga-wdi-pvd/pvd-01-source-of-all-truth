@@ -1013,7 +1013,7 @@
        color: red
        url:
          - Movie Browser: https://github.com/ga-wdi-exercises/movie-browser
-         - WDInstagram: https://github.com/ga-wdi-exercises/wdinstagram_rails_api
+         - WDInstagram: https://github.com/ga-wdi-exercises/wdinstagram_angular
          - Submit Project 3 Idea: https://github.com/ga-wdi-exercises/project3/issues/new
        lead: ""
        support: ""
