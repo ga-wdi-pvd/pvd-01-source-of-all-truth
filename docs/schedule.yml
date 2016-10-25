@@ -989,8 +989,8 @@
        lead: "Jesse"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Rails API (feat. Angular Front-End)"
-       url: "https://github.com/ga-wdi-lessons/angular-on-rails"
+       title: "Rails API"
+       url: "https://github.com/ga-wdi-lessons/rails-api"
        lead: "Adrian"
        support: "Jesse"
     - "1:30PM - 2:30PM":
