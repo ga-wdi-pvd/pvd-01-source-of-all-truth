@@ -1059,12 +1059,12 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "Checkpoint 07"
+       title: "Checkpoint 06"
        lead: "Adrian"
        support: ""
     - "9:00AM - 12:30PM":
        title: "Project 3"
-       url: "https://github.com/ga-wdi-exercises/project3"
+       url: "https://github.com/ga-wdi-exercises/checkpoint-06"
        lead: ""
        support: ""
     - "1:30PM - 2:30PM":
