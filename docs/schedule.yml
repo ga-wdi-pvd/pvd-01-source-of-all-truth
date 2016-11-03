@@ -1145,7 +1145,7 @@
        url: "https://github.com/ga-wdi-exercises/project3"
        lead: ""
        support: ""
-    - "2:00PM - 4:30PM":
+    - "2:30PM - 4:30 PM":
        title: "Project 3 Presentations"
        url: "https://github.com/ga-wdi-exercises/project3/blob/master/presentations.md"
        lead: ""
@@ -1179,7 +1179,7 @@
        support: ""
     - "2:30PM - 5:00 PM":
        title: "Mongo / Mongoose Intro"
-       url: "https://github.com/ga-wdi-lessons/mongo-intro"
+       url: "https://github.com/ga-wdi-lessons/mongoose-intro"
        lead: "Adrian"
        support: "Jesse"
     - "5:00PM - 7:00PM":
@@ -1228,13 +1228,24 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Outcomes Open Office Hours"
+       title: "Outcomes"
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.ean1416jej6g"
        lead: ""
        support: ""
-    - "12:30PM - 5:00 PM":
-       title: "GO VOTE"
-       color: red
+    - "1:30PM - 2:30PM":
+       title: "One on Ones"
+       url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
+       lead: "Adrian"
+       support: ""
+    - "2:30PM - 5:00 PM":
+       title: "Building a MEAN app"
+       url: "https://github.com/ga-wdi-lessons/building-a-mean-app"
+       lead: "Nick"
+       support: "Adrian"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
