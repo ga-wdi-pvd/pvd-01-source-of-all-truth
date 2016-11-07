@@ -1228,24 +1228,13 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Outcomes"
+       title: "Outcomes Open Office Hours"
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.ean1416jej6g"
        lead: ""
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
-       lead: "Adrian"
-       support: ""
-    - "2:30PM - 5:00 PM":
-       title: "Building a MEAN app"
-       url: "https://github.com/ga-wdi-lessons/building-a-mean-app"
-       lead: "Nick"
-       support: "Adrian"
-    - "6:00PM - 8:00PM":
-       title: "Office Hours"
-       lead: ""
-       support: ""
+    - "12:30PM - 5:00 PM":
+       title: "GO VOTE"
+       color: red
   - day:
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
