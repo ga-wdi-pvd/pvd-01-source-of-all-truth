@@ -1242,7 +1242,7 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "MEAN Lab"
-       lead: "Nick"
+       lead: "Jesse"
        url: "https://github.com/ga-wdi-exercises/mean-lab"
        support: ""
     - "1:30PM - 2:30PM":
@@ -1252,7 +1252,7 @@
        support: ""
     - "2:30PM - 4:30PM":
        title: "MEAN Lab"
-       lead: "Jesse"
+       lead: "Nick"
        url: "https://github.com/ga-wdi-exercises/mean-lab"
        support: ""
     - "4:30PM - 5:00 PM":
