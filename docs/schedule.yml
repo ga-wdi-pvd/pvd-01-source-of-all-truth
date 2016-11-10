@@ -1292,13 +1292,13 @@
        url: "https://github.com/ga-wdi-exercises/websocket-arcade"
        lead: "Jesse"
        support: ""
-    - "5:00 PM":
-       title: "Due At 5: Web Sockets Lab"
+  - day:
+    - "9:00AM":
+       title: "Due At 9: Web Sockets Lab"
        color: red
        url: "https://github.com/ga-wdi-exercises/websocket-arcade"
        lead: ""
        support: ""
-  - day:
     - "9:00AM - 10:00PM":
        title: "Slips"
        url: "https://ga-dc.github.io/slips"
