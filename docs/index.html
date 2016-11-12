@@ -134,7 +134,7 @@ function goTo(hash){
   var id = hash.substr(1)
   var target = document.getElementById(id)
   try{
-    document.querySelector(".target").classList.remove("target") 
+    document.querySelector(".target").classList.remove("target")
   } catch(e) {}
   if(!target) return
   target.classList.add("target")

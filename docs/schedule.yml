@@ -1337,8 +1337,9 @@
        support: ""
     - "2:30PM - 5:00 PM":
        title: "Lab: Component Extravaganza"
-       lead: ""
+       lead: "Nick"
        support: ""
+       url: "https://github.com/ga-wdi-exercises/component-extravaganza"
     - "5:00 PM":
        title: "Due At 5: Lab"
        color: red
@@ -1398,44 +1399,32 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 10:00AM":
-       title: "Review / Code Challenge"
-       lead: ""
-       support: ""
-    - "10:00AM - 12:30PM":
-       title: "React Router"
-       lead: ""
-       support: ""
-    - "2:30PM - 5:00 PM":
-       title: "React with Axios"
-       lead: "Nick"
-       support: ""
-  - day:
     - "9:00AM":
        title: "Due At 9: Homework"
        color: red
        url:
-         - React SPA Part 1: ""
-         - React SPA Part 2: ""
+         - React OMDB: "https://github.com/ga-wdi-exercises/react-omdb/"
+         -
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Slips"
-       url: "http://ga-dc.github.io/slips/"
+       title: "Project 4 Intro"
+       lead: "Adrian"
+       support: ""
+    - "10:00AM - 5:00PM":
+       title: "Project 4"
        lead: ""
        support: ""
-    - "10:00AM - 12:30PM":
-       title: "Computer Science"
-       url: "https://github.com/ga-wdi-lessons/cs-algorithms"
+       url: "https://github.com/ga-wdi-exercises/project4"
+  - day:
+    - "09:00AM - 5:30PM":
+       title: "Project 4"
+       url: ""
        lead: ""
        support: ""
     - "12:30PM - 1:30PM":
        title: "Campus Lunch"
        url: ""
-       lead: ""
-       support: ""
-    - "2:30PM - 5:00 PM":
-       title: "TBA"
        lead: ""
        support: ""
   - day:
