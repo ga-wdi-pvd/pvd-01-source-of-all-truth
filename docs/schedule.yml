@@ -1389,11 +1389,6 @@
        url: "https://github.com/ga-wdi-exercises/todo-app-react"
        lead: ""
        support: ""
-    - "4:30PM - 5:00PM":
-       title: "Squad Scrum"
-       url: ""
-       lead: ""
-       support: ""
     - "5:00 PM":
        title: "Due At 5: Lab"
        color: red
@@ -1416,9 +1411,19 @@
        lead: ""
        support: ""
        url: "https://github.com/ga-wdi-exercises/project4"
+    - "4:30PM - 5:00PM":
+       title: "Squad Scrum"
+       url: ""
+       lead: ""
+       support: ""
   - day:
     - "09:00AM - 5:30PM":
        title: "Project 4"
+       url: ""
+       lead: ""
+       support: ""
+    - "12:20PM - 12:30PM":
+       title: "Outcomes Huddle"
        url: ""
        lead: ""
        support: ""
