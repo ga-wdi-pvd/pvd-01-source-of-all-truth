@@ -1470,6 +1470,11 @@
        url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
        lead: "Adrian"
        support: ""
+    - "2:30PM - 5:00PM":
+       title: "D3"
+       url: ""
+       lead: "Adrian"
+       support: "Nick"
     - "9:00AM - 5:00PM":
        title: "Project 4"
        url: "https://github.com/ga-wdi-exercises/project4"
