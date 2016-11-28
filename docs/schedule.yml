@@ -1506,15 +1506,10 @@
        url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
        lead: "Nick"
        support: ""
-    - "2:30PM - 5:00PM":
-       title: "Project 4"
-       url: "https://github.com/ga-wdi-exercises/project4"
-       lead: ""
-       support: ""
   - day:
-    - "9:00AM - 12:30PM":
-       title: "Project 4"
-       url: "https://github.com/ga-wdi-exercises/project4"
+    - "10:00AM - 12:30PM":
+       title: "Outcomes: Hiring Panel"
+       url: ""
        lead: ""
        support: ""
     - "1:30PM - 2:30PM":
@@ -1523,8 +1518,8 @@
        lead: "Adrian"
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Project 4"
-       url: "https://github.com/ga-wdi-exercises/project4"
+       title: "Intro to React Native"
+       url: ""
        lead: ""
        support: ""
   - day:
@@ -1539,8 +1534,8 @@
        lead: "Jesse"
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Project 4"
-       url: "https://github.com/ga-wdi-exercises/project4"
+       title: "Custom Deployment"
+       url: ""
        lead: ""
        support: ""
   - day:
@@ -1621,6 +1616,11 @@
     - "9:00AM - 5:00PM":
        title: "Project 4"
        url: "https://github.com/ga-wdi-exercises/project4"
+       lead: ""
+       support: ""
+    - "1:30PM - 2:30PM":
+       title: "Instructors AMA"
+       url: ""
        lead: ""
        support: ""
   - day:
