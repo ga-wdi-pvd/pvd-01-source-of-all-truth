@@ -253,13 +253,28 @@
        lead: "Open Office Hours 2-4, Toni + Eric"
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 12:00PM":
+       title: "Finalize Projects"
+       url: "https://github.com/ga-wdi-exercises/project1"
+       lead: ""
+       support: ""
+    - "1:00AM - 5:00PM":
+       title: "Project 1 Presentations"
+       url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "8:00AM - 9:00AM":
+       title: "Office Hours"
+       lead: "Danny"
+       support: ""
+    - "9:00AM - 10:00AM":
+       title: "JS Review / OOJS"
+       lead: "Danny"
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Intro To Ruby"
+       url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
        support: ""
   - day:
