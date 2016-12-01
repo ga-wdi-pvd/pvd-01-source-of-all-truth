@@ -3,7 +3,7 @@
 ## Administrative
 
 - **[Graduation Requirements](graduation-requirements.md)**
-- **[Calendar](http://ga-dc.github.io/wdi12/)**
+- **[Calendar]()**
 - [Attendance](attendance.md)
 - [Homework Policy](homework-policy.md)
 - [One-on-Ones](one-on-ones.md)
