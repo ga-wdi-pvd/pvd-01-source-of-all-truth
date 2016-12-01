@@ -37,7 +37,7 @@
        url: "https://github.com/ga-wdi-boston/js-reference-types"
        lead: "Ben"
        support: "Nayana"
-     - "4:00PM - 5:00PM":
+    - "4:00PM - 5:00PM":
        title: "Lab"
        url: ""
        lead: ""
@@ -58,7 +58,7 @@
        url: "https://github.com/ga-wdi-lessons/js-objects-functions/blob/master/objects.md"
        lead: "Nayana"
        support: "Ben"
-     - "1:00PM - 5:00PM":
+    - "1:00PM - 5:00PM":
        title: "Lab"
        url: ""
        lead: ""
@@ -79,7 +79,7 @@
        url: "https://github.com/ga-wdi-lessons/js-oojs-classes"
        lead: "Nayana"
        support: "Ben"
-     - "4:00PM - 5:00PM":
+    - "4:00PM - 5:00PM":
        title: "Lab - OOJS Classes Practice"
        url: "https://github.com/ga-wdi-exercises/es6-classes-practice"
        lead: ""
@@ -100,7 +100,7 @@
        url: "https://github.com/ga-wdi-boston/js-functions-ins-and-outs"
        lead: "Ben"
        support: "Nayana"
-     - "4:00PM - 5:00PM":
+    - "4:00PM - 5:00PM":
        title: "Lab - AirBnB Mockup"
        url: "https://github.com/ga-wdi-exercises/css-airbnb"
        lead: ""
@@ -121,7 +121,7 @@
        url: "https://github.com/danman01/wdi-pvd-jquery-dom/blob/master/README.md"
        lead: "Danny"
        support: "Nayana"
-     - "4:00PM - 5:00PM":
+    - "4:00PM - 5:00PM":
        title: "Lab"
        url: ""
        lead: ""
@@ -142,7 +142,7 @@
        url: "https://github.com/ga-wdi-lessons/js-scope"
        lead: "Ben"
        support: "Nayana"
-     - "4:00PM - 5:00PM":
+    - "4:00PM - 5:00PM":
        title: "Lab"
        url: ""
        lead: ""
