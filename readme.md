@@ -7,7 +7,7 @@
 - [Attendance](attendance.md)
 - [Homework Policy](homework-policy.md)
 - [One-on-Ones](one-on-ones.md)
-- [Squads](squads.md)
+- [Squads](https://tvlangley.github.io/podSquads/)
 - [Office Hours](office-hours.md)
 
 ## Curriculum
