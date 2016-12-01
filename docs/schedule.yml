@@ -26,28 +26,65 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM - 10:00PM":
+       title: "JS Selectors Diagnostic"
+       url: "https://github.com/ga-wdi-exercises/my-blawg"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:00PM":
+       title: "CSS Layout"
+       url: "https://github.com/estermer/css-layout"
+       lead: "Eric"
+       support: "Nayana"
+    - "1:00AM - 4:00PM":
+       title: "jQuery DOM"
+       url: "https://github.com/danman01/wdi-pvd-jquery-dom/blob/master/README.md"
+       lead: "Danny"
+       support: "Nayana"
+     - "4:00PM - 5:00PM":
+       title: "Lab"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 10:00PM":
+       title: "Slips"
+       url: ""
+       lead: "Nayana"
+       support: ""
+    - "10:00AM - 12:00PM":
+       title: "JS Events"
+       url: "https://github.com/ga-wdi-lessons/js-events-callbacks"
+       lead: "Nayana"
+       support: "Ben"
+    - "1:00AM - 4:00PM":
+       title: "Scope and Debugging"
+       url: "https://github.com/ga-wdi-lessons/js-scope"
+       lead: "Ben"
+       support: "Nayana"
+     - "4:00PM - 5:00PM":
+       title: "Lab"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 12:00PM":
+       title: "ES6"
+       url: "https://github.com/ga-wdi-lessons/es6/blob/master/readme.md"
+       lead: "Nayana"
+       support: "Ben"
+    - "12:00AM - 5:00PM":
+       title: "No Class - Thanksgiving"
+       lead: ""
+       support: ""   
+  - day:
     - "9:00AM - 5:00PM":
-       title: "No Class"
+       title: "No Class - Thanksgiving"
        lead: ""
        support: ""
   - day:
     - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+       title: "No Class - Thanksgiving"
        lead: ""
        support: ""
   - day:
