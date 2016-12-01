@@ -1,28 +1,108 @@
 - "start-date": "2016-11-14"
 - days:
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00PM":
+       title: "Fundamentals Diagnostic"
+       url: "https://github.com/ga-wdi-boston/fundamentals-diagnostic"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:00PM":
+       title: "Unix CLI"
+       url: "https://github.com/ga-wdi-boston/unix-cli"
+       lead: "Ben"
+       support: "Nayana"
+    - "1:00AM - 4:00PM":
+       title: "Git/GitHub Basics"
+       url: "https://github.com/ga-wdi-boston/git-basics"
+       lead: "Nayana"
+       support: "Ben"
+     - "4:00PM - 5:00PM":
+       title: "Lab"
+       url: ""
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00PM":
+       title: "Unix CLI Diagnostic"
+       url: "https://github.com/ga-wdi-boston/unix-cli-diagnostic"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:00PM":
+       title: "JS Basics"
+       url: "https://github.com/ga-wdi-lessons/js-intro"
+       lead: "Nayana"
+       support: "Ben"
+    - "1:00AM - 4:00PM":
+       title: "JS Reference Types"
+       url: "https://github.com/ga-wdi-boston/js-reference-types"
+       lead: "Ben"
+       support: "Nayana"
+     - "4:00PM - 5:00PM":
+       title: "Lab"
+       url: ""
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00PM":
+       title: "Git Basics Diagnostic"
+       url: "https://github.com/ga-wdi-boston/git-basics-diagnostic"
+       lead: ""
+       support: ""
+    - "9:00AM - 10:00PM":
+       title: "JS Basics Diagnostic"
+       url: "https://github.com/ga-wdi-boston/js-basics-diagnostic"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:00PM":
+       title: "JS Object Functions"
+       url: "https://github.com/ga-wdi-lessons/js-objects-functions/blob/master/objects.md"
+       lead: "Nayana"
+       support: "Ben"
+     - "1:00PM - 5:00PM":
+       title: "Lab"
+       url: ""
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00PM":
+       title: "JS Reference Diagnostic"
+       url: "https://github.com/ga-wdi-boston/js-reference-types-diagnostic"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:00PM":
+       title: "JS Objects This"
+       url: "https://github.com/ga-wdi-boston/js-objects-this"
+       lead: "Ben"
+       support: "Nayana"
+    - "1:00AM - 4:00PM":
+       title: "OOJS Classes"
+       url: "https://github.com/ga-wdi-lessons/js-oojs-classes"
+       lead: "Nayana"
+       support: "Ben"
+     - "4:00PM - 5:00PM":
+       title: "Lab - OOJS Classes Practice"
+       url: "https://github.com/ga-wdi-exercises/es6-classes-practice"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00PM":
+       title: "JS Objects Diagnostic"
+       url: "https://github.com/ga-wdi-boston/js-objects-diagnostic"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:00PM":
+       title: "CSS Review"
+       url: "https://github.com/ga-wdi-lessons/css-review"
+       lead: "Nayana"
+       support: "Ben"
+    - "1:00AM - 4:00PM":
+       title: "JS Functions Ins and Outs"
+       url: "https://github.com/ga-wdi-boston/js-functions-ins-and-outs"
+       lead: "Ben"
+       support: "Nayana"
+     - "4:00PM - 5:00PM":
+       title: "Lab - AirBnB Mockup"
+       url: "https://github.com/ga-wdi-exercises/css-airbnb"
        lead: ""
        support: ""
   - day:
