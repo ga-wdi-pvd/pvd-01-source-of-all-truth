@@ -283,9 +283,9 @@
        lead: "Danny"
        support: "Josie"
     - "4:00PM - 5:00PM":
-       title: "Lab"
+       title: "Walkthrough homeworks/labs/challenges"
        url: ""
-       lead: ""
+       lead: "Eric"
        support: ""
     - "6:00PM - 7:00PM":
        title: "Office Hours"
@@ -358,30 +358,121 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00AM":
+       title: "Codewars Challenge"
+       url: ""
+       lead: "Josie"
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Active Record"
+       url: "https://github.com/ga-wdi-lessons/activerecord-intro"
+       lead: "Danny"
+       support: "Toni"
+    - "1:00PM - 4:00PM":
+       title: "Sinatra Intro"
+       url: "https://github.com/ga-wdi-lessons/sinatra-rest"
+       lead: "Josie"
+       support: "Danny"
+    - "4:00PM - 5:00PM":
+       title: "Lab"
+       url: ""
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
+    - "8:00AM - 9:00AM":
+       title: "Office Hours"
+       lead: "Danny"
+       support: ""
+    - "9:00AM - 10:00AM":
+       title: "Codewars Challenge"
+       url: ""
+       lead: "Josie"
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Sinatra REST"
+       url: "https://github.com/ga-wdi-lessons/sinatra-rest"
+       lead: "Eric"
+       support: "Josie"
+    - "1:30PM - 4:00PM":
+       title: "Sinatra/ActiveRecord"
+       url: "https://github.com/ga-wdi-lessons/ruby-enumerables"
+       lead: "Toni"
+       support: "Eric"
+    - "4:00PM - 5:00PM":
+       title: "Walkthrough homeworks/labs/challenges"
+       url: ""
+       lead: "Eric"
+       support: ""
+    - "6:00PM - 7:00PM":
+       title: "Office Hours"
+       lead: "Toni"
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
+    - "9:00AM - 12:30PM":
+       title: "Sinatra Lab"
+       url: "https://github.com/ga-wdi-exercises/pokenatra"
+       lead: "Eric"
+       support: ""
+    - "1:30PM - 2:30PM":
+       title: "Lab walk through"
+       url: ""
+       lead: "Eric"
+       support: "Josie"
+    - "2:30PM - 5:00PM":
+       title: "Outcomes"
+       url: ""
+       lead: "Julie"
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "8:00AM - 9:00AM":
+       title: "Office Hours"
+       lead: "Josie"
+       support: ""
+    - "9:00AM - 10:00AM":
+       title: "Sinatra Diagnostic"
+       url: ""
+       lead: "Josie"
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Intro to RAILS"
+       url: "https://github.com/ga-wdi-lessons/http-mvc-intro-rails"
+       lead: "Danny"
+       support: "Eric"
+    - "1:30PM - 4:00PM":
+       title: "RAILS CRUD - Index/Show"
+       url: "https://github.com/ga-wdi-lessons/rails_features_CRD"
+       lead: "Toni"
+       support: "Josie"
+    - "4:00PM - 5:00PM":
+       title: "Lab"
+       url: ""
        lead: ""
+       support: ""
+    - "6:00PM - 7:00PM":
+       title: "Office Hours"
+       lead: "Eric"
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
+    - "9:00AM - 10:00AM":
+       title: "Slips"
+       url: "https://ga-dc.github.io/slips/"
+       lead: "Toni"
        support: ""
+    - "10:00AM - 12:30PM":
+       title: "RAILS - New/Create/Delete"
+       url: "https://github.com/ga-wdi-lessons/rails_features_CRD"
+       lead: "Danny"
+       support: "Toni"
+    - "1:00PM - 4:00PM":
+       title: "RAILS - Edit/Update"
+       url: "https://github.com/ga-wdi-lessons/rails-features-U-partials"
+       lead: "Josie"
+       support: "Toni"
+    - "4:00PM - 5:00PM":
+       title: "Lab"
+       url: ""
+       lead: "Danny"
+       support: "Josie"
   - day:
     - "9:00AM - 5:00PM":
        title: "No Class"
