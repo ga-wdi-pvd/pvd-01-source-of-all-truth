@@ -17,6 +17,18 @@
 - [Installfest](https://github.com/ga-dc/installfest)
 - [Outcomes Roadmap](https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit)
 
+## Tentative Weekly Schedule
+
+|  | Monday                 | Tuesday | Wednesday                 |Thursday         |  Friday
+| :-----            |:-----                 |:-----   |:-----                     |:-----         |:-----
+| 9:00-10:00     | Morning Exercise                | Morning Exercise     | Morning Exercise | Morning Exercise| Morning Exercise |
+| 10:00-12:30     | Lesson  | Lesson      | Lesson    | Lesson | Lesson |
+| 12:30-1:30      | Lunch                 | Lunch      | Lunch | Lunch | Lunch |
+| 1:30-2:30 | Lesson  |  Lesson        | Review |  Lesson | Lesson  |
+| 2:30-4:00       | Lesson     | Lecture       | Outcomes | Lesson | Lesson  |
+| 4:00-5:00| Lab | Lab | Outcomes| Lab | Lab OR Review |
+
+
 ## Communication
 
 - [Asking for Help](asking-for-help.md)
