@@ -15,7 +15,7 @@
 	- [GitHub](https://github.com/tvlangley)
 - Josie Tavera
   - [GitHub](https://github.com/JosephinaTavera)
-  [Josie](https://avatars2.githubusercontent.com/u/15881366?v=3&s=100)
+[https://avatars2.githubusercontent.com/u/15881366?v=3&s=100](Josie)
 - Eric Stermer
   - [GitHub](https://github.com/estermer)
 
