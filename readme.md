@@ -47,11 +47,13 @@
 
 - [Asking for Help](asking-for-help.md)
 - Slack
-  - You have been invited to three different slack teams:
-    - [WDI DC 12](https://wdi12dc.slack.com) - Our primary slack team
-      - [#announcements](https://wdi12dc.slack.com/archives/announcements)
-      - [#discussion](https://wdi12dc.slack.com/archives/discussion)
-    - [GA DC Campus](https://gadc-campus.slack.com) - The DC alumni team
+  - You have been invited to several different slack teams:
+    - [WDI PVD1 Forum](https://ga-students.slack.com/messages/wdi-pvd-01-forum/) - Our primary slack team
+      - [#wdi-pvd-01-links](https://ga-students.slack.com/messages/wdi-pvd-01-links)
+      - [#wdi-pvd-01-outcomes](https://ga-students.slack.com/messages/wdi-pvd-01-outcomes)
+      - [#wdi-pvd-01-projects](https://ga-students.slack.com/messages/wdi-pvd-01-projects)
+      - [#wdi-pvd-01-events](https://ga-students.slack.com/messages/wdi-pvd-01-events)
+      - [#wdi-pvd-01-etc](https://ga-students.slack.com/messages/wdi-pvd-01-etc)
     - [GA Immersive Students](https://ga-students.slack.com) - Every Immersive student ever at any campus
       - [#wdi-fundamentals](https://ga-students.slack.com/messages/wdi-fundamentals/)
 
