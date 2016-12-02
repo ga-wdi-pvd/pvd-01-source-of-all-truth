@@ -368,7 +368,7 @@
        url: "https://github.com/ga-wdi-lessons/activerecord-intro"
        lead: "Danny"
        support: "Toni"
-    - "1:00PM - 4:00PM":
+    - "1:30PM - 4:00PM":
        title: "Sinatra Intro"
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
        lead: "Josie"
@@ -463,7 +463,7 @@
        url: "https://github.com/ga-wdi-lessons/rails_features_CRD"
        lead: "Danny"
        support: "Toni"
-    - "1:00PM - 4:00PM":
+    - "1:30PM - 4:00PM":
        title: "RAILS - Edit/Update"
        url: "https://github.com/ga-wdi-lessons/rails-features-U-partials"
        lead: "Josie"
@@ -474,8 +474,24 @@
        lead: "Danny"
        support: "Josie"
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00AM":
+       title: "Ruby Challenge"
+       url: ""
+       lead: "Danny"
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "RAILS Validation"
+       url: "https://github.com/ga-wdi-lessons/rails-sessions-flash-validations-errors"
+       lead: "Josie"
+       support: "Eric"
+    - "1:30PM - 4:00PM":
+       title: "Sinatra Intro"
+       url: "https://github.com/ga-wdi-lessons/sinatra-rest"
+       lead: "Josie"
+       support: "Danny"
+    - "4:00PM - 5:00PM":
+       title: "Lab"
+       url: ""
        lead: ""
        support: ""
   - day:
