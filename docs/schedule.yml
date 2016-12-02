@@ -279,12 +279,12 @@
        support: "Eric"
     - "1:30PM - 4:00PM":
        title: "Ruby Enums"
-       url: "https://github.com/ga-wdi-lessons/ruby-enumerables"
+       url: "https://github.com/danman01/ruby-enumerables/blob/master/README.md"
        lead: "Danny"
        support: "Josie"
-    - "4:00PM - 5:00PM":
-       title: "Walkthrough homeworks/labs/challenges"
-       url: ""
+    - "Homework":
+       title: "Homework: High Card Pair Programming"
+       url: "https://github.com/danman01/high_card"
        lead: "Eric"
        support: ""
     - "6:00PM - 7:00PM":
