@@ -274,12 +274,12 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "Intro To Ruby"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/ruby-intro"
        lead: "Toni"
        support: "Eric"
     - "1:30PM - 4:00PM":
        title: "Ruby Enums"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/ruby-enumerables"
        lead: "Danny"
        support: "Josie"
     - "4:00PM - 5:00PM":
@@ -319,12 +319,12 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "Ruby OOP"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/ruby-oop"
        lead: "Danny"
        support: "Eric"
     - "1:30PM - 4:00PM":
        title: "Ruby OOP"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/ruby-oop-inheritance"
        lead: "Toni"
        support: "Josie"
     - "4:00PM - 5:00PM":
