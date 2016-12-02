@@ -3,13 +3,13 @@
 ## Instructors 
 ### Instructional Leads
 
-|![Danny](https://avatars3.githubusercontent.com/u/58710?v=3&s=100)|![Nayana](https://avatars2.githubusercontent.com/u/6817544?v=3&s=100)|![Ben](https://avatars2.githubusercontent.com/u/8397980?v=3&s=100)
+| ![Danny](https://avatars3.githubusercontent.com/u/58710?v=3&s=100) | ![Nayana](https://avatars2.githubusercontent.com/u/6817544?v=3&s=100) | ![Ben](https://avatars2.githubusercontent.com/u/8397980?v=3&s=100)
 | Danny Kirschner | Nayana Davis | Ben Manning
 | [danman01](https://github.com/danman01) | [nayana487](https://github.com/nayana487) | [ben-manning](https://github.com/ben-manning)
 
 ### Instructional Associates
 
-|![Toni](https://avatars0.githubusercontent.com/u/13801825?v=3&s=100)|![Josie](https://avatars2.githubusercontent.com/u/15881366?v=3&s=100)|![Eric](https://avatars0.githubusercontent.com/u/17515551?v=3&s=100)
+| ![Toni](https://avatars0.githubusercontent.com/u/13801825?v=3&s=100) | ![Josie](https://avatars2.githubusercontent.com/u/15881366?v=3&s=100) | ![Eric](https://avatars0.githubusercontent.com/u/17515551?v=3&s=100)
 | Toni Langley | Josie Tavera | Eric Stermer
 | [tvlangley](https://github.com/tvlangley) | [JosephinaTavera](https://github.com/JosephinaTavera) | [estermer](https://github.com/estermer)
 
