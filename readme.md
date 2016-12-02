@@ -2,36 +2,44 @@
 
 ## Instructors 
 ##### Instructional Leads
-- Danny Kirschner
-  - [GitHub](https://github.com/danman01)
-  
+
 ![Danny](https://avatars3.githubusercontent.com/u/58710?v=3&s=100)
 
-- Nayana Davis
-  - [GitHub](https://github.com/nayana487)
+Danny Kirschner
 
+- [GitHub](https://github.com/danman01)
+  
 ![Nayana](https://avatars2.githubusercontent.com/u/6817544?v=3&s=100)
+  
+Nayana Davis
 
-- Ben Manning
-  - [GitHub](https://github.com/ben-manning)
-
+- [GitHub](https://github.com/nayana487)
+  
 ![Ben](https://avatars2.githubusercontent.com/u/8397980?v=3&s=100)
 
+Ben Manning
+
+- [GitHub](https://github.com/ben-manning)
+
 ##### Instructional Associates
-- Toni Langley
-  - [GitHub](https://github.com/tvlangley)
 
 ![Toni](https://avatars0.githubusercontent.com/u/13801825?v=3&s=100)
 
-- Josie Tavera
-  - [GitHub](https://github.com/JosephinaTavera)
+Toni Langley
+
+- [GitHub](https://github.com/tvlangley)
   
 ![Josie](https://avatars2.githubusercontent.com/u/15881366?v=3&s=100)
 
-- Eric Stermer
-  - [GitHub](https://github.com/estermer)
-  
+Josie Tavera
+
+- [GitHub](https://github.com/JosephinaTavera)
+
 ![Eric](https://avatars0.githubusercontent.com/u/17515551?v=3&s=100)
+
+Eric Stermer
+
+- [GitHub](https://github.com/estermer)
 
 ## Administrative
 
