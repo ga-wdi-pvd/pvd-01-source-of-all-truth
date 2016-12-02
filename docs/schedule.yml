@@ -283,7 +283,7 @@
        lead: "Danny"
        support: "Josie"
     - "Homework":
-       title: "Homework: High Card Pair Programming"
+       title: "High Card!"
        url: "https://github.com/danman01/high_card"
        lead: "Eric"
        support: ""
