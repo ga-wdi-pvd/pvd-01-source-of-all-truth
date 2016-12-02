@@ -1,45 +1,17 @@
 # ![](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) WDI PVD 1 Syllabus
 
 ## Instructors 
-##### Instructional Leads
+### Instructional Leads
 
-![Danny](https://avatars3.githubusercontent.com/u/58710?v=3&s=100)
+|![Danny](https://avatars3.githubusercontent.com/u/58710?v=3&s=100)|![Nayana](https://avatars2.githubusercontent.com/u/6817544?v=3&s=100)|![Ben](https://avatars2.githubusercontent.com/u/8397980?v=3&s=100)
+| Danny Kirschner | Nayana Davis | Ben Manning
+| [danman01](https://github.com/danman01) | [nayana487](https://github.com/nayana487) | [ben-manning](https://github.com/ben-manning)
 
-Danny Kirschner
+### Instructional Associates
 
-- [GitHub](https://github.com/danman01)
-  
-![Nayana](https://avatars2.githubusercontent.com/u/6817544?v=3&s=100)
-  
-Nayana Davis
-
-- [GitHub](https://github.com/nayana487)
-  
-![Ben](https://avatars2.githubusercontent.com/u/8397980?v=3&s=100)
-
-Ben Manning
-
-- [GitHub](https://github.com/ben-manning)
-
-##### Instructional Associates
-
-![Toni](https://avatars0.githubusercontent.com/u/13801825?v=3&s=100)
-
-Toni Langley
-
-- [GitHub](https://github.com/tvlangley)
-  
-![Josie](https://avatars2.githubusercontent.com/u/15881366?v=3&s=100)
-
-Josie Tavera
-
-- [GitHub](https://github.com/JosephinaTavera)
-
-![Eric](https://avatars0.githubusercontent.com/u/17515551?v=3&s=100)
-
-Eric Stermer
-
-- [GitHub](https://github.com/estermer)
+|![Toni](https://avatars0.githubusercontent.com/u/13801825?v=3&s=100)|![Josie](https://avatars2.githubusercontent.com/u/15881366?v=3&s=100)|![Eric](https://avatars0.githubusercontent.com/u/17515551?v=3&s=100)
+| Toni Langley | Josie Tavera | Eric Stermer
+| [tvlangley](https://github.com/tvlangley) | [JosephinaTavera](https://github.com/JosephinaTavera) | [estermer](https://github.com/estermer)
 
 ## Administrative
 
