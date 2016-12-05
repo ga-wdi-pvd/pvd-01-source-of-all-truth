@@ -266,6 +266,8 @@
     - "Homework":
       Title: "Try Ruby"
       url: "https://github.com/tvlangley/try-ruby"
+      lead: ""
+      support: ""
   - day:
     - "8:00AM - 9:00AM":
        title: "Office Hours"
