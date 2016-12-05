@@ -78,3 +78,6 @@ When are instructors available outside of in-class instruction?
   </pre>
 - These same backtick tricks also work on **Github** and **Slack**.
 - `@here`: Sends a message to everyone currently online in a Slack room
+
+## PVD Tech Scene Map
+![PVD Tech Scene Map](https://dx0qysuen8cbs.cloudfront.net/assets/fat_rabbit/jobs/startup_map-9d8bc7a414f1f62337e7a6f9388af4a4da01abf75f92a10efc62188cb028b98d.jpg)
