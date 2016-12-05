@@ -263,8 +263,8 @@
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
        support: ""
-    - "5:00PM +":
-       title: "Homework: Try Ruby"
+    - "Homework:":
+       title: "Try Ruby"
        url: "https://github.com/tvlangley/try-ruby"
        lead: ""
        support: ""
