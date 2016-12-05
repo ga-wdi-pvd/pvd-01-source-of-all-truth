@@ -156,7 +156,7 @@
     - "12:00AM - 5:00PM":
        title: "No Class - Thanksgiving"
        lead: ""
-       support: ""   
+       support: ""
   - day:
     - "9:00AM - 5:00PM":
        title: "No Class - Thanksgiving"
@@ -263,6 +263,9 @@
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
        support: ""
+    - "Homework":
+      Title: "Try Ruby"
+      url: "https://github.com/tvlangley/try-ruby"
   - day:
     - "8:00AM - 9:00AM":
        title: "Office Hours"
@@ -274,7 +277,7 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "Intro To Ruby"
-       url: "https://github.com/ga-wdi-lessons/ruby-intro"
+       url: "https://github.com/tvlangley/ruby-intro"
        lead: "Toni"
        support: "Eric"
     - "1:30PM - 4:00PM":
@@ -287,7 +290,7 @@
        url: "https://github.com/danman01/high_card"
        lead: "Eric"
        support: ""
-    - "6:00PM - 7:00PM":
+    - "5:00PM - 6:00PM":
        title: "Office Hours"
        lead: "Toni"
        support: ""
@@ -313,18 +316,18 @@
        lead: "Josie"
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Diagnostic"
-       url: ""
+       title: "Ruby Diagnostic"
+       url: "https://github.com/tvlangley/ruby-diagnostic"
        lead: "Josie"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Ruby OOP"
+       title: "Ruby OOP 1"
        url: "https://github.com/ga-wdi-lessons/ruby-oop"
        lead: "Danny"
        support: "Eric"
     - "1:30PM - 4:00PM":
-       title: "Ruby OOP"
-       url: "https://github.com/ga-wdi-lessons/ruby-oop-inheritance"
+       title: "Ruby OOP 2"
+       url: "https://github.com/tvlangley/ruby-oop-inheritance"
        lead: "Toni"
        support: "Josie"
     - "4:00PM - 5:00PM":
@@ -332,7 +335,7 @@
        url: ""
        lead: ""
        support: ""
-    - "6:00PM - 7:00PM":
+    - "5:00PM - 6:00PM":
        title: "Office Hours"
        lead: "Eric"
        support: ""
@@ -359,7 +362,7 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Codewars Challenge"
+       title: "Code Challenge"
        url: ""
        lead: "Josie"
        support: ""
@@ -384,7 +387,7 @@
        lead: "Danny"
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Codewars Challenge"
+       title: "Code Challenge"
        url: ""
        lead: "Josie"
        support: ""
@@ -403,7 +406,7 @@
        url: ""
        lead: "Eric"
        support: ""
-    - "6:00PM - 7:00PM":
+    - "5:00PM - 6:00PM":
        title: "Office Hours"
        lead: "Toni"
        support: ""
@@ -448,7 +451,7 @@
        url: ""
        lead: ""
        support: ""
-    - "6:00PM - 7:00PM":
+    - "5:00PM - 6:00PM":
        title: "Office Hours"
        lead: "Eric"
        support: ""
