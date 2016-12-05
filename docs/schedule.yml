@@ -413,21 +413,21 @@
        lead: "Toni"
        support: ""
   - day:
-    - "9:00AM - 12:30PM":
+    - "10:00AM - 12:30PM":
+       title: "Outcomes"
+       url: ""
+       lead: "Eric"
+       support: ""
+    - "1:30PM - 4:00PM":
        title: "Sinatra Lab"
        url: "https://github.com/ga-wdi-exercises/pokenatra"
        lead: "Eric"
        support: ""
-    - "1:30PM - 2:30PM":
+    - "4:00PM - 5:00PM":
        title: "Lab walk through"
        url: ""
        lead: "Eric"
        support: "Josie"
-    - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
-       lead: "Julie"
-       support: ""
   - day:
     - "8:00AM - 9:00AM":
        title: "Office Hours"
