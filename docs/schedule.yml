@@ -316,8 +316,8 @@
        lead: "Josie"
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Diagnostic"
-       url: ""
+       title: "Ruby Diagnostic"
+       url: "https://github.com/tvlangley/ruby-diagnostic"
        lead: "Josie"
        support: ""
     - "10:00AM - 12:30PM":
