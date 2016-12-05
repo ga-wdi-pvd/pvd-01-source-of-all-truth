@@ -264,7 +264,7 @@
        lead: ""
        support: ""
     - "Homework":
-      Title: "Try Ruby"
+      title: "Try Ruby"
       url: "https://github.com/tvlangley/try-ruby"
       lead: ""
       support: ""
