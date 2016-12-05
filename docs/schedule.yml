@@ -500,25 +500,97 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
+    - "8:00AM - 9:00AM":
+       title: "Office Hours"
+       lead: "Josie"
+       support: ""
+    - "9:00AM - 10:00AM":
+       title: "Code Challenge"
+       url: ""
+       lead: "Josie"
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Rails User w/o Encryption"
+       url: "https://github.com/ga-wdi-lessons/rails-users-sessions-flash-cookies"
+       lead: "Danny"
+       support: "Eric"
+    - "1:30PM - 4:00PM":
+       title: "Testing"
+       url: "https://github.com/ga-wdi-lessons/rspec"
+       lead: "Toni"
+       support: "Josie"
+    - "4:00PM - 5:00PM":
+       title: "Walkthrough homeworks/labs/challenges"
+       url: ""
+       lead: "Eric"
+       support: ""
+    - "5:00PM - 6:00PM":
+       title: "Office Hours"
+       lead: "Toni"
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
+    - "9:00AM - 12:30PM":
+       title: "Game of Thrones Lab"
+       url: "https://github.com/ga-wdi-exercises/game_of_thrones/tree/master"
+       lead: "Toni"
+       support: ""
+    - "1:30PM - 2:30PM":
+       title: "Lab walk through"
+       url: ""
+       lead: "tonie"
+       support: "Eric"
+    - "2:30PM - 5:00PM":
+       title: "Outcomes"
+       url: ""
+       lead: "Julie"
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "8:00AM - 9:00AM":
+       title: "Office Hours"
+       lead: "Danny"
+       support: ""
+    - "9:00AM - 10:00AM":
+       title: "Diagnostic"
+       url: ""
+       lead: "Eric"
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Many to Many"
+       url: "https://github.com/ga-wdi-lessons/rails-many-to-many"
+       lead: "Eric"
+       support: "Toni"
+    - "1:30PM - 4:00PM":
+       title: "Walk Through Review"
+       url: ""
+       lead: "Danny"
+       support: "Josie"
+    - "4:00PM - 5:00PM":
+       title: "Lab"
+       url: ""
        lead: ""
+       support: ""
+    - "5:00PM - 6:00PM":
+       title: "Office Hours"
+       lead: "Eric"
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
+    - "9:00AM - 10:00AM":
+       title: "Slips"
+       url: "https://ga-dc.github.io/slips/"
+       lead: "Josie"
        support: ""
+    - "10:00AM - 12:30PM":
+       title: "User Stories"
+       url: "https://github.com/ga-wdi-lessons/user-stories-and-problem-modeling"
+       lead: "Eric"
+       support: "Toni"
+    - "1:30PM - 4:00PM":
+       title: "Devise Gem"
+       url: "https://github.com/ga-wdi-lessons/devise"
+       lead: "Danny"
+       support: "Eric"
+    - "4:00PM - 5:00PM":
+       title: "Home Early w/ Portfolio Project to do on break"
   - day:
     - "9:00AM - 5:00PM":
        title: "No Class - Christmas"
