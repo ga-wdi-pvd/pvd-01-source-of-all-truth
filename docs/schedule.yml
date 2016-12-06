@@ -263,7 +263,7 @@
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
        support: ""
-    - "Homework:":
+    - "Homework":
        title: "Try Ruby"
        url: "https://github.com/ga-wdi-pvd/try-ruby"
        lead: ""
@@ -274,8 +274,8 @@
        lead: "Danny"
        support: ""
     - "9:00AM - 10:00AM":
-       title: "JS Review / OOJS"
-       lead: "Danny"
+       title: "Finish Project 1 Presentations"
+       lead: ""
        support: ""
     - "10:00AM - 12:30PM":
        title: "Intro To Ruby"
@@ -290,7 +290,7 @@
     - "Homework":
        title: "High Card!"
        url: "https://github.com/danman01/high_card"
-       lead: "Eric"
+       lead: ""
        support: ""
     - "5:00PM - 6:00PM":
        title: "Office Hours"
@@ -308,10 +308,10 @@
        lead: "Eric"
        support: "Josie"
     - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
-       lead: "Julie"
-       support: ""
+       title: "Ruby OOP 1"
+       url: "https://github.com/ga-wdi-lessons/ruby-oop"
+       lead: "Danny"
+       support: "Eric"
   - day:
     - "8:00AM - 9:00AM":
        title: "Office Hours"
@@ -323,15 +323,15 @@
        lead: "Josie"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Ruby OOP 1"
-       url: "https://github.com/ga-wdi-lessons/ruby-oop"
-       lead: "Danny"
-       support: "Eric"
-    - "1:30PM - 4:00PM":
        title: "Ruby OOP 2"
        url: "https://github.com/ga-wdi-pvd/ruby-oop-inheritance"
        lead: "Toni"
-       support: "Josie"
+       support: "Danny"
+    - "1:30PM - 4:00PM":
+       title: "ERD"
+       url: "https://github.com/ga-wdi-lessons/sql-erd"
+       lead: "Josie"
+       support: "Eric"
     - "4:00PM - 5:00PM":
        title: "Lab"
        url: ""
@@ -353,10 +353,10 @@
        lead: ""
        support: ""
     - "1:00PM - 4:00PM":
-       title: "ERD"
-       url: "https://github.com/ga-wdi-lessons/sql-erd"
-       lead: "Josie"
-       support: "Toni"
+       title: "Gladiator Lab"
+       url: "https://github.com/ga-wdi-exercises/js-gladiator"
+       lead: ""
+       support: ""
     - "4:00PM - 5:00PM":
        title: "Lab"
        url: ""
