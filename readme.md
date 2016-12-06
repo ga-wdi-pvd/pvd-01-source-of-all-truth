@@ -17,7 +17,7 @@
 ## Administrative
 
 - **[Graduation Requirements](graduation-requirements.md)**
-- **[Calendar](https://danman01.github.io/wdi-pvd-1/)**
+- **[Calendar](https://ga-wdi-pvd.github.io/pvd-01-source-of-all-truth/)**
 - [Attendance](attendance.md)
 - [Homework Policy](homework-policy.md)
 - [One-on-Ones](one-on-ones.md)
