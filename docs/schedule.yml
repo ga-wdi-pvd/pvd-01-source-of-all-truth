@@ -288,6 +288,11 @@
        lead: "Danny"
        support: "Josie"
     - "Homework":
+       title: "Temperature Converter"
+       url: "https://github.com/ga-wdi-pvd/temperature_converter_ruby"
+       lead: ""
+       support: ""      
+    - "Homework":
        title: "High Card!"
        url: "https://github.com/ga-wdi-pvd/high_card"
        lead: ""
