@@ -349,12 +349,12 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "Gladiator Lab"
-       url: "https://github.com/ga-wdi-exercises/js-gladiator"
+       url: "https://github.com/ga-wdi-pvd/gladiator"
        lead: ""
        support: ""
     - "1:30PM - 4:00PM":
        title: "Gladiator Lab"
-       url: "https://github.com/ga-wdi-exercises/js-gladiator"
+       url: "https://github.com/ga-wdi-pvd/gladiator"
        lead: ""
        support: ""
     - "4:00PM - 5:00PM":
