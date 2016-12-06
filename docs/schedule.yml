@@ -118,7 +118,7 @@
        support: "Nayana"
     - "1:00AM - 4:00PM":
        title: "jQuery DOM"
-       url: "https://github.com/danman01/wdi-pvd-jquery-dom/blob/master/README.md"
+       url: "https://github.com/ga-wdi-pvd/wdi-pvd-jquery-dom/blob/master/README.md"
        lead: "Danny"
        support: "Nayana"
     - "4:00PM - 5:00PM":
@@ -284,12 +284,12 @@
        support: "Eric"
     - "1:30PM - 4:00PM":
        title: "Ruby Enums"
-       url: "https://github.com/danman01/ruby-enumerables/blob/master/README.md"
+       url: "https://github.com/ga-wdi-pvd/ruby-enumerables/blob/master/README.md"
        lead: "Danny"
        support: "Josie"
     - "Homework":
        title: "High Card!"
-       url: "https://github.com/danman01/high_card"
+       url: "https://github.com/ga-wdi-pvd/high_card"
        lead: ""
        support: ""
     - "5:00PM - 6:00PM":
