@@ -358,9 +358,9 @@
        lead: ""
        support: ""
     - "4:00PM - 5:00PM":
-       title: "Lab"
+       title: "Lab/ rspec overview"
        url: ""
-       lead: ""
+       lead: "Danny"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
