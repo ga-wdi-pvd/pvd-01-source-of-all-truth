@@ -355,12 +355,12 @@
     - "10:00AM - 12:30PM":
        title: "Gladiator Lab"
        url: "https://github.com/ga-wdi-pvd/gladiator"
-       lead: ""
+       lead: "Toni"
        support: ""
     - "1:30PM - 4:00PM":
        title: "Gladiator Lab"
        url: "https://github.com/ga-wdi-pvd/gladiator"
-       lead: ""
+       lead: "Toni"
        support: ""
     - "4:00PM - 5:00PM":
        title: "Lab/ rspec overview"
