@@ -304,7 +304,7 @@
   - day:
     - "9:00AM - 12:30PM":
        title: "Ruby Enums Lab"
-       url: "https://github.com/ga-wdi-exercises/state_capitals"
+       url: "https://github.com/ga-wdi-pvd/state_capitals"
        lead: "Eric"
        support: ""
     - "1:30PM - 2:30PM":
