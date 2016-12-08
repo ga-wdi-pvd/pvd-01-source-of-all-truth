@@ -338,7 +338,7 @@
        lead: "Josie"
        support: "Eric"
     - "4:00PM - 5:00PM":
-       title: "Morse Code"
+       title: "Lab - Morse Code"
        url: "https://github.com/ga-wdi-pvd/ruby-morse-code-challenge"
        lead: "Josie"
        support: ""
