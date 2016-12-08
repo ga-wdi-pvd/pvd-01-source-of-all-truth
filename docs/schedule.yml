@@ -377,6 +377,11 @@
        url: ""
        lead: "Toni"
        support: ""
+    - "Homework"
+       title: "SQL & Ruby Practice: NBA Stats"
+       url: "https://github.com/ga-wdi-exercises/nba_stats"
+       lead: "Toni"
+       support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Code Challenge"
