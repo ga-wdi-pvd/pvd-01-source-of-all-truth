@@ -291,7 +291,7 @@
        title: "Temperature Converter"
        url: "https://github.com/ga-wdi-pvd/temperature_converter_ruby"
        lead: ""
-       support: ""      
+       support: ""
     - "Homework":
        title: "High Card!"
        url: "https://github.com/ga-wdi-pvd/high_card"
@@ -334,13 +334,13 @@
        support: "Danny"
     - "1:30PM - 4:00PM":
        title: "ERD"
-       url: "https://github.com/ga-wdi-lessons/sql-erd"
+       url: "https://github.com/ga-wdi-pvd/sql-erd/blob/master/readme2.md"
        lead: "Josie"
        support: "Eric"
     - "4:00PM - 5:00PM":
        title: "Lab"
-       url: ""
-       lead: ""
+       url: "https://github.com/ga-wdi-pvd/ruby-morse-code-challenge"
+       lead: "Josie"
        support: ""
     - "Homework":
        title: "Hunt the Wumpus"
