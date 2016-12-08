@@ -175,7 +175,7 @@
        support: ""
     - "10:00AM - 12:00PM":
        title: "Sass"
-       url: "https://github.com/JosephinaTavera/sass-intro/blob/master/sass411.md"
+       url: "https://github.com/ga-wdi-pvd/sass-intro"
        lead: "Josie"
        support: "Danny"
     - "1:00PM - 4:00PM":
@@ -333,12 +333,12 @@
        lead: "Toni"
        support: "Danny"
     - "1:30PM - 4:00PM":
-       title: "ERD"
+       title: "Domain Model / ERD"
        url: "https://github.com/ga-wdi-pvd/sql-erd/blob/master/readme2.md"
        lead: "Josie"
        support: "Eric"
     - "4:00PM - 5:00PM":
-       title: "Lab"
+       title: "Morse Code"
        url: "https://github.com/ga-wdi-pvd/ruby-morse-code-challenge"
        lead: "Josie"
        support: ""
