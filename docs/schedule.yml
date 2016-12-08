@@ -342,11 +342,6 @@
        url: ""
        lead: ""
        support: ""
-    - "Homework":
-       title: "Hunt the Wombat"
-       url: "https://github.com/ga-wdi-pvd/wumpus"
-       lead: ""
-       support: ""
     - "5:00PM - 6:00PM":
        title: "Office Hours"
        lead: "Eric"
