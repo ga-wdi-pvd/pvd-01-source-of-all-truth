@@ -342,6 +342,11 @@
        url: ""
        lead: ""
        support: ""
+    - "Homework":
+       title: "Hunt the Wumpus"
+       url: "https://github.com/ga-wdi-pvd/wumpus"
+       lead: ""
+       support: ""
     - "5:00PM - 6:00PM":
        title: "Office Hours"
        lead: "Eric"
@@ -400,7 +405,7 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "Sinatra REST"
-       url: "https://github.com/ga-wdi-pvd/sinatra-rest/blob/master/rest.md"
+       url: "https://github.com/ga-wdi-lessons/sinatra-rest"
        lead: "Eric"
        support: "Josie"
     - "1:30PM - 4:00PM":
