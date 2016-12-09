@@ -29,7 +29,7 @@
 	<div class='day' id={{this.yyyymmdd}}>
 	  <h2 class='day-header'><a href='#{{this.yyyymmdd}}'>{{this.date}}</a></h2>
 	  {{#each this.day}}
-	    <span class="admin_edit"><a href="https://github.com/ga-wdi-pvd/pvd-01-source-of-all-truth/edit/master/docs/schedule.yml#L{{this.yamlLine}}">(Edit)</a></span>
+	    <span style="font-size: 8px;" class="admin_edit"><a href="https://github.com/ga-wdi-pvd/pvd-01-source-of-all-truth/edit/master/docs/schedule.yml#L{{this.yamlLine}}">(Edit)</a></span>
 
 	    <div>
 	      {{#if this.url}}
@@ -111,8 +111,7 @@ request.onload = function() {
 	  newDay[k] = event[time][k];
 	}
 	yaml_lines += (Object.keys(newDay).length + 2);
-	//newDay["yamlLine"] = yaml_lines; // get line num for edit button
-	newDay["yamlLine"]=5;
+	newDay["yamlLine"] = yaml_lines; // get line num for edit button
 	return newDay
       })
       week.push(day);
