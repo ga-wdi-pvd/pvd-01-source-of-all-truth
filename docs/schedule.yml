@@ -701,33 +701,127 @@
        lead: "Open Office Hours 2-4, Toni + Eric"
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 12:30PM":
+       title: "Finish Up Project 2"
+       lead: ""
+       support: ""
+    - "1:30PM - 3:30PM":
+       title: "Science Fair Project 2 Presentations"
+       lead: ""
+       support: ""
+    - "3:30PM - 5:00PM":
+       title: "Intro To Angular Self Study"
+       url: "https://www.codeschool.com/courses/shaping-up-with-angular-js"
+       lead: "Code School"
+       support: "Danny, Eric, Toni, Josie"
+  - day:
+    - "9:00AM - 10:00AM":
+       title: "Code Challenge"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Intro To Angular"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 4:00PM":
+       title: "UI Router"
+       url: ""
+       lead: ""
+       support: ""
+    - "4:00PM - 5:00PM":
+       title: "Lab"
+       url: ""
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00AM":
+       title: "Code Challenge"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Angular Resources"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 2:30PM":
+       title: "Angular AJAX Refactor"
+       url: ""
+       lead: ""
+       support: ""
+    - "2:30PM - 4:30PM":
+       title: "Employer Panel w/ Tech Hire"
+       url: "https://techhire.org/community/rhode_island/"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00AM":
+       title: "Diagnostic"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Rails API featuring Angular"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 4:00PM":
+       title: "Firebase"
+       url: ""
+       lead: ""
+       support: ""
+    - "4:00PM - 5:00PM":
+       title: "Lab"
+       url: ""
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00AM":
+       title: "Slips"
+       url: "https://ga-dc.github.io/slips/"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Lab"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 3:00PM":
+       title: "Lab"
+       url: ""
+       lead: ""
+       support: ""
+    - "3:00PM - 5:00PM":
+       title: "Lab Walkthrough"
+       url: ""
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00AM":
+       title: "Code Challenge"
+       url: ""
        lead: ""
        support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "10:00AM - 11:00AM":
+       title: "Mongo"
+       url: ""
+       lead: ""
+       support: ""
+    - "11:00AM - 12:30PM":
+       title: "Node.JS"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 4:00PM":
+       title: "Express.JS"
+       url: ""
+       lead: ""
+       support: ""
+    - "5:00PM - 5:00PM":
+       title: "Lab"
+       url: ""
        lead: ""
        support: ""
   - day:
