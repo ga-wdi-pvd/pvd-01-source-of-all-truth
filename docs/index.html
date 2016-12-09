@@ -111,7 +111,8 @@ request.onload = function() {
 	  newDay[k] = event[time][k];
 	}
 	yaml_lines += (Object.keys(newDay).length + 2);
-	newDay["yamlLine"] = yaml_lines; // get line num for edit button
+	//newDay["yamlLine"] = yaml_lines; // get line num for edit button
+	newDay["yamlLine"]=5;
 	return newDay
       })
       week.push(day);
