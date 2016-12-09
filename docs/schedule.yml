@@ -505,8 +505,8 @@
        lead: "Josie"
        support: "Eric"
     - "1:30PM - 4:00PM":
-       title: "Sinatra Intro"
-       url: "https://github.com/ga-wdi-lessons/sinatra-rest"
+       title: "Rails Routing /w Associations"
+       url: ""
        lead: "Josie"
        support: "Danny"
     - "4:00PM - 5:00PM":
@@ -705,6 +705,10 @@
        title: "Finish Up Project 2"
        lead: ""
        support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
+       lead: ""
+       support: ""
     - "1:30PM - 3:30PM":
        title: "Science Fair Project 2 Presentations"
        lead: ""
@@ -723,6 +727,10 @@
     - "10:00AM - 12:30PM":
        title: "Intro To Angular"
        url: ""
+       lead: ""
+       support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
        lead: ""
        support: ""
     - "1:30PM - 4:00PM":
@@ -746,6 +754,10 @@
        url: ""
        lead: ""
        support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
+       lead: ""
+       support: ""
     - "1:30PM - 2:30PM":
        title: "Angular AJAX Refactor"
        url: ""
@@ -765,6 +777,10 @@
     - "10:00AM - 12:30PM":
        title: "Rails API featuring Angular"
        url: ""
+       lead: ""
+       support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
        lead: ""
        support: ""
     - "1:30PM - 4:00PM":
@@ -788,6 +804,10 @@
        url: ""
        lead: ""
        support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
+       lead: ""
+       support: ""
     - "1:30PM - 3:00PM":
        title: "Lab"
        url: ""
@@ -796,6 +816,11 @@
     - "3:00PM - 5:00PM":
        title: "Lab Walkthrough"
        url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "No Class"
        lead: ""
        support: ""
   - day:
@@ -814,109 +839,320 @@
        url: ""
        lead: ""
        support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
+       lead: ""
+       support: ""
     - "1:30PM - 4:00PM":
        title: "Express.JS"
        url: ""
        lead: ""
        support: ""
-    - "5:00PM - 5:00PM":
+    - "4:00PM - 5:00PM":
        title: "Lab"
        url: ""
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00AM":
+       title: "Hot Topic"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+      title: "Mongoose Intro"
+      lead: ""
+      support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
+       lead: ""
+       support: ""
+    - "1:30PM - 4:00PM":
+       title: "Mongoose w/ Express"
+       lead: ""
+       support: ""
+    - "4:00PM - 5:00PM":
+       title: "Lab"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00AM":
+       title: "Homework Walkthrough"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+      title: "MEAN 1"
+      lead: ""
+      support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
+       lead: ""
+       support: ""
+    - "1:30PM - 4:00PM":
+       title: "MEAN 2"
+       lead: ""
+       support: ""
+    - "4:00PM - 5:00PM":
+       title: "Lab"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00AM":
+       title: "Diagnostic"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+      title: "Intro to OAuth and 3rd Party APIs with Express"
+      lead: ""
+      support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
+       lead: ""
+       support: ""
+    - "1:30PM - 3:30PM":
+       title: "Lab"
+       lead: ""
+       support: ""
+    - "3:30PM - 5:00PM":
+       title: "Lab Walkthrough"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00AM":
+       title: "Git Team Workflow"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Project 3"
+       lead: ""
+       support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Project 3"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 12:30PM":
+       title: "Project 3"
+       lead: ""
+       support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Project 3"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 12:30PM":
+       title: "Project 3"
+       lead: ""
+       support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Project 3"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 12:30PM":
+       title: "Project 3 "
+       lead: ""
+       support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Project 3"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00AM":
+       title: "Slips"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Project 3"
+       lead: ""
+       support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Presentations"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00AM":
+       title: "Code Challenge"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+      title: "Websockets"
+      lead: ""
+      support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
+       lead: ""
+       support: ""
+    - "1:30PM - 3:30PM":
+       title: "React Intro"
+       lead: ""
+       support: ""
+    - "3:30PM - 5:00PM":
+       title: "Lab"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00AM":
+       title: "Hot Topic"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+      title: "React Continued"
+      lead: ""
+      support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
+       lead: ""
+       support: ""
+    - "1:30PM - 4:00PM":
+       title: "React Lab???"
+       lead: ""
+       support: ""
+    - "4:00PM - 5:00PM":
+       title: "Lab"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00AM":
+       title: "Homework Walkthrough"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+      title: "React Router"
+      lead: ""
+      support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
+       lead: ""
+       support: ""
+    - "1:30PM - 3:30PM":
+       title: "React Axios"
+       lead: ""
+       support: ""
+    - "3:30PM - 5:00PM":
+       title: "Lab"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00AM":
+       title: "Diagnostic"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+      title: "React Lab"
+      lead: ""
+      support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
+       lead: ""
+       support: ""
+    - "1:30PM - 3:30PM":
+       title: "React Lab"
+       lead: ""
+       support: ""
+    - "3:30PM - 5:00PM":
+       title: "Lab Walkthrough"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00AM":
+       title: "Slips"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+      title: "Project 4"
+      lead: ""
+      support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Project 4"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "10:00AM - 12:30PM":
+       title: "Project 4"
+       lead: ""
+       support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Project 4"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "10:00AM - 12:30PM":
+       title: "Project 4"
+       lead: ""
+       support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Project 4"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "10:00AM - 12:30PM":
+       title: "Project 4"
+       lead: ""
+       support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Project 4"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "10:00AM - 12:30PM":
+       title: "Project 4"
+       lead: ""
+       support: ""
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Project 4"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "10:00AM - 12:30PM":
+       title: "Presentations"
        lead: ""
        support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "12:30PM - 1:30PM":
+       title: "Lunch"
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Presentations"
        lead: ""
        support: ""
   - day:
