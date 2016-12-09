@@ -69,7 +69,8 @@
 <script type='text/javascript'>
 var request = new XMLHttpRequest();
 request.open('GET', './schedule.yml', true);
-var context = []
+var context = [];
+var yaml_lines = 0;
 request.onload = function() {
   if (this.status >= 200 && this.status < 400) {
     var doc = jsyaml.load(this.response)
@@ -83,6 +84,7 @@ request.onload = function() {
         oi += 2
       }
       var day = doc[1].days[i]
+      yaml_lines++;
       day.date = moment(doc[0]["start-date"]).add(oi,"days").format("ddd, MMM Do 'YY")
       day.yyyymmdd = moment(doc[0]["start-date"]).add(oi,"days").format("YYYY-MM-DD")
       day.day = day.day.map(function(event){
@@ -97,6 +99,7 @@ request.onload = function() {
 	      title: title,
 	      href: e[title]
 	    }
+            yaml_lines++;
 	  })
 	}
 	var newDay = {
@@ -106,12 +109,13 @@ request.onload = function() {
 	}
 	delete event[time].url
 	for(var k in event[time]){
-	  newDay[k] = event[time][k]
+	  newDay[k] = event[time][k];
+	  yaml_lines++;
 	}
 	return newDay
       })
-      week.push(day)
-      oi++
+      week.push(day);
+      oi++;
     }
     var tpl = app.innerHTML
     var template = Handlebars.compile(tpl)
