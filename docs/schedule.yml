@@ -379,8 +379,8 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Code Challenge"
-       url: ""
+       title: "Power of 2 - Code Challenge"
+       url: "https://www.codewars.com/kata/534d0a229345375d520006a0"
        lead: "Eric"
        support: ""
     - "10:00AM - 12:30PM":

@@ -24,12 +24,13 @@
   {{#each weeks}}
     <div class='week' id='{{this._index}}'>
       <h1><a href='#{{this._index}}'>Week {{this._index}}</a></h1>
-      <span class="admin_edit"><a href="https://github.com/ga-wdi-pvd/pvd-01-source-of-all-truth/edit/master/docs/schedule.yml">(Edit)</a></span>
 
       {{#each this}}
 	<div class='day' id={{this.yyyymmdd}}>
 	  <h2 class='day-header'><a href='#{{this.yyyymmdd}}'>{{this.date}}</a></h2>
 	  {{#each this.day}}
+	    <span style="font-size: 8px;" class="admin_edit"><a href="https://github.com/ga-wdi-pvd/pvd-01-source-of-all-truth/edit/master/docs/schedule.yml#L{{this.yamlLine}}">(Edit)</a></span>
+
 	    <div>
 	      {{#if this.url}}
 		<h2 ><a style='color:{{this.color}}' href='{{this.url}}'>{{this.title}}</a></h2>
@@ -69,7 +70,8 @@
 <script type='text/javascript'>
 var request = new XMLHttpRequest();
 request.open('GET', './schedule.yml', true);
-var context = []
+var context = [];
+var yaml_lines = 0;
 request.onload = function() {
   if (this.status >= 200 && this.status < 400) {
     var doc = jsyaml.load(this.response)
@@ -106,12 +108,14 @@ request.onload = function() {
 	}
 	delete event[time].url
 	for(var k in event[time]){
-	  newDay[k] = event[time][k]
+	  newDay[k] = event[time][k];
 	}
+	yaml_lines += (Object.keys(newDay).length -1); // not precisely on the right line...yet
+	newDay["yamlLine"] = yaml_lines; // get line num for edit button
 	return newDay
       })
-      week.push(day)
-      oi++
+      week.push(day);
+      oi++;
     }
     var tpl = app.innerHTML
     var template = Handlebars.compile(tpl)
