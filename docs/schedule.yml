@@ -606,6 +606,9 @@
        support: "Eric"
     - "4:00PM - 5:00PM":
        title: "Home Early w/ Portfolio Project to do on break"
+       url: ""
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 5:00PM":
        title: "No Class - Christmas"
@@ -839,10 +842,10 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-      title: "Mongoose Intro"
-      url: ""
-      lead: ""
-      support: ""
+       title: "Mongoose Intro"
+       url: ""
+       lead: ""
+       support: ""
     - "1:30PM - 4:00PM":
        title: "Mongoose w/ Express"
        url: ""
@@ -860,10 +863,10 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-      title: "MEAN 1"
-      url: ""
-      lead: ""
-      support: ""
+       title: "MEAN 1"
+       url: ""
+       lead: ""
+       support: ""
     - "1:30PM - 4:00PM":
        title: "MEAN 2"
        url: ""
@@ -881,10 +884,10 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-      title: "Intro to OAuth and 3rd Party APIs with Express"
-      url: ""
-      lead: ""
-      support: ""
+       title: "Intro to OAuth and 3rd Party APIs with Express"
+       url: ""
+       lead: ""
+       support: ""
     - "1:30PM - 3:30PM":
        title: "Lab"
        url: ""
@@ -988,10 +991,10 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-      title: "React Continued"
-      url: ""
-      lead: ""
-      support: ""
+       title: "React Continued"
+       url: ""
+       lead: ""
+       support: ""
     - "1:30PM - 4:00PM":
        title: "React Lab???"
        url: ""
@@ -1009,10 +1012,10 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-      title: "React Router"
-      url: ""
-      lead: ""
-      support: ""
+       title: "React Router"
+       url: ""
+       lead: ""
+       support: ""
     - "1:30PM - 3:30PM":
        title: "React Axios"
        url: ""
@@ -1030,10 +1033,10 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-      title: "React Lab"
-      url: ""
-      lead: ""
-      support: ""
+       title: "React Lab"
+       url: ""
+       lead: ""
+       support: ""
     - "1:30PM - 3:30PM":
        title: "React Lab"
        url: ""
@@ -1051,10 +1054,10 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-      title: "Project 4"
-      url: ""
-      lead: ""
-      support: ""
+       title: "Project 4"
+       url: ""
+       lead: ""
+       support: ""
     - "1:30PM - 5:00PM":
        title: "Project 4"
        url: ""
