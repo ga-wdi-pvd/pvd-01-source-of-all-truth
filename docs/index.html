@@ -99,7 +99,6 @@ request.onload = function() {
 	      title: title,
 	      href: e[title]
 	    }
-            yaml_lines++;
 	  })
 	}
 	var newDay = {
@@ -110,12 +109,12 @@ request.onload = function() {
 	delete event[time].url
 	for(var k in event[time]){
 	  newDay[k] = event[time][k];
-	  yaml_lines++;
 	}
 	return newDay
       })
       week.push(day);
       oi++;
+      yaml_lines += Object.keys(newDay).length;
     }
     var tpl = app.innerHTML
     var template = Handlebars.compile(tpl)
