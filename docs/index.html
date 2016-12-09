@@ -24,12 +24,13 @@
   {{#each weeks}}
     <div class='week' id='{{this._index}}'>
       <h1><a href='#{{this._index}}'>Week {{this._index}}</a></h1>
-      <span class="admin_edit"><a href="https://github.com/ga-wdi-pvd/pvd-01-source-of-all-truth/edit/master/docs/schedule.yml">(Edit)</a></span>
 
       {{#each this}}
 	<div class='day' id={{this.yyyymmdd}}>
 	  <h2 class='day-header'><a href='#{{this.yyyymmdd}}'>{{this.date}}</a></h2>
 	  {{#each this.day}}
+	    <span class="admin_edit"><a href="https://github.com/ga-wdi-pvd/pvd-01-source-of-all-truth/edit/master/docs/schedule.yml#L{{this.yamlLine}}">(Edit)</a></span>
+
 	    <div>
 	      {{#if this.url}}
 		<h2 ><a style='color:{{this.color}}' href='{{this.url}}'>{{this.title}}</a></h2>
@@ -84,7 +85,6 @@ request.onload = function() {
         oi += 2
       }
       var day = doc[1].days[i]
-      yaml_lines++;
       day.date = moment(doc[0]["start-date"]).add(oi,"days").format("ddd, MMM Do 'YY")
       day.yyyymmdd = moment(doc[0]["start-date"]).add(oi,"days").format("YYYY-MM-DD")
       day.day = day.day.map(function(event){
@@ -110,7 +110,8 @@ request.onload = function() {
 	for(var k in event[time]){
 	  newDay[k] = event[time][k];
 	}
-	yaml_lines += Object.keys(newDay).length;
+	yaml_lines += (Object.keys(newDay).length + 2);
+	newDay[yamlLine] = yaml_lines;
 	return newDay
       })
       week.push(day);
