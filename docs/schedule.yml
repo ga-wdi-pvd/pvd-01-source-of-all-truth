@@ -637,24 +637,68 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00PM":
+       title: "Class Decided Review"
+       url: ""
        lead: ""
        support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
+    - "10:00AM - 12:00PM":
+       title: "Project 2"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "Open Office Hours 10-12, Josie + Danny"
+       support: ""
+    - "1:00PM - 5:00PM":
+       title: "Project 2"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "Open Office Hours 2-4, Toni + Eric"
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00PM":
+       title: "Student Led Standups"
+       url: ""
        lead: ""
        support: ""
+    - "10:00AM - 12:00PM":
+       title: "Project 2"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "Open Office Hours 10-12, Josie + Danny"
+       support: ""
+    - "1:00PM - 5:00PM":
+       title: "Project 2"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "Open Office Hours 2-4, Toni + Eric"
+       support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00PM":
+       title: "Student Led Standups"
+       url: ""
        lead: ""
+       support: ""
+    - "10:00AM - 12:00PM":
+       title: "Project 2"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "Open Office Hours 10-12, Josie + Danny"
+       support: ""
+    - "1:00PM - 5:00PM":
+       title: "Project 2"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "Open Office Hours 2-4, Toni + Eric"
+       support: ""
+  - day:
+    - "9:00AM - 10:00PM":
+       title: "Slips"
+       url: "https://ga-dc.github.io/slips/"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:00PM":
+       title: "Project 2"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "Open Office Hours 10-12, Josie + Danny"
+       support: ""
+    - "1:00PM - 5:00PM":
+       title: "Project 2"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "Open Office Hours 2-4, Toni + Eric"
        support: ""
   - day:
     - "9:00AM - 5:00PM":
