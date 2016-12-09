@@ -110,7 +110,7 @@ request.onload = function() {
 	for(var k in event[time]){
 	  newDay[k] = event[time][k];
 	}
-	yaml_lines += (Object.keys(newDay).length);
+	yaml_lines += (Object.keys(newDay).length -1); // not precisely on the right line...yet
 	newDay["yamlLine"] = yaml_lines; // get line num for edit button
 	return newDay
       })
