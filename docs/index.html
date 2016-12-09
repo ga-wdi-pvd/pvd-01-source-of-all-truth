@@ -110,11 +110,11 @@ request.onload = function() {
 	for(var k in event[time]){
 	  newDay[k] = event[time][k];
 	}
+	yaml_lines += Object.keys(newDay).length;
 	return newDay
       })
       week.push(day);
       oi++;
-      yaml_lines += Object.keys(newDay).length;
     }
     var tpl = app.innerHTML
     var template = Handlebars.compile(tpl)
