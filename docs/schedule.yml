@@ -358,29 +358,24 @@
        lead: "Danny"
        support: ""
     - "10:00AM - 12:30PM":
+       title: "Intro to SQL"
+       url: "https://github.com/ga-wdi-pvd/sql-intro"
+       lead: "Toni"
+       support: ""
+    - "1:30PM - 4:00PM":
        title: "Gladiator Lab"
        url: "https://github.com/ga-wdi-pvd/gladiator"
        lead: "Toni"
        support: ""
-    - "1:30PM - 3:30PM":
-       title: "Gladiator Lab"
-       url: "https://github.com/ga-wdi-pvd/gladiator"
-       lead: "Toni"
-       support: ""
-    - "3:30PM - 4:30PM":
+    - "4:00PM - 5:00PM":
        title: "Example Teach: Gladiator"
        url: ""
        lead: "Danny"
        support: ""
-    - "4:30PM - 5:00PM":
-       title: "SQL Intro"
-       url: ""
-       lead: "Toni"
-       support: ""
     - "Homework":
-       title: "SQL & Ruby Practice: NBA Stats"
-       url: "https://github.com/ga-wdi-exercises/nba_stats"
-       lead: "Toni"
+       title: "NBA Stats"
+       url: "https://github.com/ga-wdi-pvd/nba_stats"
+       lead: "
        support: ""
   - day:
     - "9:00AM - 10:00AM":
