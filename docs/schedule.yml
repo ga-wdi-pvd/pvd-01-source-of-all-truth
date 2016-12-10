@@ -505,9 +505,9 @@
        lead: "Josie"
        support: "Eric"
     - "1:30PM - 4:00PM":
-       title: "Sinatra Intro"
+       title: "RAILS Routing"
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
-       lead: "Josie"
+       lead: "Toni"
        support: "Danny"
     - "4:00PM - 5:00PM":
        title: "Lab"
@@ -737,7 +737,7 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Code Challenge"
+       title: "Hot Topic"
        url: ""
        lead: ""
        support: ""
@@ -796,6 +796,11 @@
     - "3:00PM - 5:00PM":
        title: "Lab Walkthrough"
        url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "No Class - Martin Luther King"
        lead: ""
        support: ""
   - day:
