@@ -893,8 +893,196 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM - 10:00AM":
+       title: "Git Team Workflow"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Project3"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Project3"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 12:30PM":
+       title: "Project3"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Project3"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 12:30PM":
+       title: "Project3"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Project3"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 12:30PM":
+       title: "Project3"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Project3"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 10:00AM":
+       title: "Slips"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Project3"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Presentations"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 10:00AM":
+       title: "Hot Topic"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "React continued"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 4:00PM":
+       title: "React Lab?"
+       url: ""
+       lead: ""
+       support: ""
+    - "4:00PM - 5:00PM":
+       title: "Lab"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 10:00AM":
+       title: "Homework WalkThrough"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "React Router"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 4:00PM":
+       title: "React Axios"
+       url: ""
+       lead: ""
+       support: ""
+    - "4:00PM - 5:00PM":
+       title: "Lab"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 10:00AM":
+       title: "Diagnostic"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "React Lab"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 3:30PM":
+       title: "React Lab"
+       url: ""
+       lead: ""
+       support: ""
+    - "3:30PM - 5:00PM":
+       title: "Lab WalkThrough"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
     - "9:00AM - 5:00PM":
        title: "No Class"
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 10:00AM":
+       title: "Slips"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Project4"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Project4"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 12:30PM":
+       title: "Project4"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Project4"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 12:30PM":
+       title: "Project4"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Project4"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 12:30PM":
+       title: "Project4"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Project4"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 12:30PM":
+       title: "Project4"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Project4"
+       url: ""
        lead: ""
        support: ""
   - day:
