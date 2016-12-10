@@ -11,7 +11,7 @@
        url: "https://github.com/ga-wdi-boston/unix-cli"
        lead: "Ben"
        support: "Nayana"
-    - "1:00AM - 4:00PM":
+    - "1:00PM - 4:00PM":
        title: "Git/GitHub Basics"
        url: "https://github.com/ga-wdi-boston/git-basics"
        lead: "Nayana"
@@ -106,7 +106,7 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 10:00PM":
+    - "9:00AM - 10:00AM":
        title: "JS Selectors Diagnostic"
        url: "https://github.com/ga-wdi-exercises/my-blawg"
        lead: ""
@@ -116,7 +116,7 @@
        url: "https://github.com/estermer/css-layout"
        lead: "Eric"
        support: "Nayana"
-    - "1:00AM - 4:00PM":
+    - "1:00PM - 4:00PM":
        title: "jQuery DOM"
        url: "https://github.com/ga-wdi-pvd/wdi-pvd-jquery-dom/blob/master/README.md"
        lead: "Danny"
@@ -127,7 +127,7 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 10:00PM":
+    - "9:00AM - 10:00AM":
        title: "Slips"
        url: ""
        lead: "Nayana"
@@ -137,7 +137,7 @@
        url: "https://github.com/ga-wdi-lessons/js-events-callbacks"
        lead: "Nayana"
        support: "Ben"
-    - "1:00AM - 4:00PM":
+    - "1:00PM - 4:00PM":
        title: "Scope and Debugging"
        url: "https://github.com/ga-wdi-lessons/js-scope"
        lead: "Ben"
@@ -153,7 +153,7 @@
        url: "https://github.com/ga-wdi-lessons/es6/blob/master/readme.md"
        lead: "Nayana"
        support: "Ben"
-    - "12:00AM - 5:00PM":
+    - "12:00PM - 5:00PM":
        title: "No Class - Thanksgiving"
        lead: ""
        support: ""
