@@ -830,6 +830,69 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM - 10:00AM":
+       title: "Home Walkthrough"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Mongoose Intro"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 4:00PM":
+       title: "Mongoose w/Express"
+       url: ""
+       lead: ""
+       support: ""
+    - "4:00PM - 5:00PM":
+       title: "Lab"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 10:00AM":
+       title: "Diagnostic"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "MEAN 1"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 4:00PM":
+       title: "MEAN 2"
+       url: ""
+       lead: ""
+       support: ""
+    - "4:00PM - 5:00PM":
+       title: "Lab"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 10:00AM":
+       title: "Slips"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Intro to OAuth and 3rd Party APIS with Express"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 3:30PM":
+       title: "Lab"
+       url: ""
+       lead: ""
+       support: ""
+    - "3:30PM - 5:00PM":
+       title: "Lab Walkthrough"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
     - "9:00AM - 5:00PM":
        title: "No Class"
        lead: ""
