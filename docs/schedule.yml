@@ -392,9 +392,9 @@
        title: "Sinatra Intro"
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
        lead: "Josie"
-       support: "Eric"
+       support: "Danny"
     - "4:00PM - 5:00PM":
-       title: "Lab/Project 1 Evals"
+       title: "Lab"
        url: ""
        lead: ""
        support: ""
@@ -404,7 +404,7 @@
        lead: "Danny"
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Hot Topic"
+       title: "Code Challenge"
        url: ""
        lead: "Josie"
        support: ""
@@ -439,7 +439,7 @@
        lead: "Eric"
        support: ""
     - "4:00PM - 5:00PM":
-       title: "Lab walkthrough"
+       title: "Lab walk through"
        url: ""
        lead: "Eric"
        support: "Josie"
@@ -520,7 +520,7 @@
        lead: "Josie"
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Hot Topic"
+       title: "Code Challenge"
        url: ""
        lead: "Josie"
        support: ""
@@ -550,9 +550,9 @@
        lead: "Toni"
        support: ""
     - "1:30PM - 2:30PM":
-       title: "Lab walkthrough"
+       title: "Lab walk through"
        url: ""
-       lead: "Toni"
+       lead: "tonie"
        support: "Eric"
     - "2:30PM - 5:00PM":
        title: "Outcomes"
@@ -575,7 +575,7 @@
        lead: "Eric"
        support: "Toni"
     - "1:30PM - 4:00PM":
-       title: "Walkthrough Review"
+       title: "Walk Through Review"
        url: ""
        lead: "Danny"
        support: "Josie"
