@@ -190,7 +190,7 @@
        support: ""
   - day:
     - "9:00AM - 12:00AM":
-       title: "Code Walk Throughs"
+       title: "Code WalkThroughs"
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.2u132dzacx0m"
        lead: "Eric, Danny, Toni"
        support: "Josie"
@@ -308,7 +308,7 @@
        lead: "Eric"
        support: ""
     - "1:30PM - 2:30PM":
-       title: "Lab walk through"
+       title: "Lab walkthrough"
        url: ""
        lead: "Eric"
        support: "Josie"
@@ -392,9 +392,9 @@
        title: "Sinatra Intro"
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
        lead: "Josie"
-       support: "Danny"
+       support: "Eric"
     - "4:00PM - 5:00PM":
-       title: "Lab"
+       title: "Lab/Project 1 Evals"
        url: ""
        lead: ""
        support: ""
@@ -404,7 +404,7 @@
        lead: "Danny"
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Code Challenge"
+       title: "Hot Topic"
        url: ""
        lead: "Josie"
        support: ""
@@ -439,7 +439,7 @@
        lead: "Eric"
        support: ""
     - "4:00PM - 5:00PM":
-       title: "Lab walk through"
+       title: "Lab walkthrough"
        url: ""
        lead: "Eric"
        support: "Josie"
@@ -520,7 +520,7 @@
        lead: "Josie"
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Code Challenge"
+       title: "Hot Topic"
        url: ""
        lead: "Josie"
        support: ""
@@ -550,9 +550,9 @@
        lead: "Toni"
        support: ""
     - "1:30PM - 2:30PM":
-       title: "Lab walk through"
+       title: "Lab walkthrough"
        url: ""
-       lead: "tonie"
+       lead: "Toni"
        support: "Eric"
     - "2:30PM - 5:00PM":
        title: "Outcomes"
@@ -575,7 +575,7 @@
        lead: "Eric"
        support: "Toni"
     - "1:30PM - 4:00PM":
-       title: "Walk Through Review"
+       title: "WalkThrough Review"
        url: ""
        lead: "Danny"
        support: "Josie"
