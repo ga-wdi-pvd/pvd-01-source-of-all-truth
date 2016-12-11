@@ -959,6 +959,27 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
+       title: "Code Challenge"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Websockets"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 4:00PM":
+       title: "React Intro?"
+       url: ""
+       lead: ""
+       support: ""
+    - "4:00PM - 5:00PM":
+       title: "Lab"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 10:00AM":
        title: "Hot Topic"
        url: ""
        lead: ""
@@ -1021,11 +1042,6 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
     - "9:00AM - 10:00AM":
        title: "Slips"
        url: ""
@@ -1076,98 +1092,13 @@
        support: ""
   - day:
     - "9:00AM - 12:30PM":
-       title: "Project4"
+       title: "Presentations"
        url: ""
        lead: ""
        support: ""
     - "1:30PM - 5:00PM":
-       title: "Project4"
+       title: "Presentations"
        url: ""
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
        lead: ""
        support: ""
   - day:
