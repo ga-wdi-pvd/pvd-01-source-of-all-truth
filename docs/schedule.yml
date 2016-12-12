@@ -385,7 +385,7 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "Active Record"
-       url: "https://github.com/ga-wdi-lessons/activerecord-intro"
+       url: "https://github.com/ga-wdi-pvd/activerecord-intro"
        lead: "Danny"
        support: "Toni"
     - "1:30PM - 4:00PM":
