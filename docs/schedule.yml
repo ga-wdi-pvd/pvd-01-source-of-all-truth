@@ -600,7 +600,7 @@
        lead: "Eric"
        support: "Toni"
     - "1:30PM - 4:00PM":
-       title: "Devise Gem"
+       title: "Authorization, Authentication, User Management"
        url: "https://github.com/ga-wdi-lessons/devise"
        lead: "Danny"
        support: "Eric"
