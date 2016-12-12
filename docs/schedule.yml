@@ -390,7 +390,7 @@
        support: "Toni"
     - "1:30PM - 4:00PM":
        title: "Sinatra Intro"
-       url: "https://github.com/ga-wdi-lessons/sinatra-rest"
+       url: "https://github.com/ga-wdi-pvd/sinatra-rest"
        lead: "Josie"
        support: "Eric"
     - "4:00PM - 5:00PM":
@@ -506,7 +506,7 @@
        support: "Eric"
     - "1:30PM - 4:00PM":
        title: "RAILS Routing"
-       url: "https://github.com/ga-wdi-lessons/sinatra-rest"
+       url: ""
        lead: "Toni"
        support: "Danny"
     - "4:00PM - 5:00PM":
