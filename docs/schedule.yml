@@ -423,14 +423,14 @@
        url: "https://github.com/ga-wdi-pvd/sinatra-and-activerecord"
        lead: "Toni"
        support: "Eric"
-    - "Homework":
-       title: "Finish Sinatra/ActiveRecord CRUD"
-       url: ""
-       lead: ""
-       support: ""
     - "5:00PM - 6:00PM":
        title: "Office Hours"
+       url: ""
        lead: "Toni"
+       support: ""
+    - "Homework":
+       title: "Finish Sinatra/ActiveRecord CRUD"
+       lead: ""
        support: ""
   - day:
     - "10:00AM - 12:30PM":
