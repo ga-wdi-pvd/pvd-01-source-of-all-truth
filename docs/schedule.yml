@@ -393,6 +393,11 @@
        url: "https://github.com/ga-wdi-pvd/sinatra-rest"
        lead: "Josie"
        support: "Eric"
+    - "Homework":
+       title: "WDI Emergency Compliment"
+       url: "https://github.com/ga-wdi-pvd/emergency_compliment"
+       lead: ""
+       support: ""
     - "4:00PM - 5:00PM":
        title: "Lab/Project 1 Evals"
        url: ""
@@ -404,7 +409,7 @@
        lead: "Danny"
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Hot Topic"
+       title: "Hot Topic - Shortcuts and Workflow tips"
        url: ""
        lead: "Josie"
        support: ""
