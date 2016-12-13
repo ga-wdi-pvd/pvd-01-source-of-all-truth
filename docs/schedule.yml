@@ -420,7 +420,7 @@
        support: "Josie"
     - "1:30PM - 4:00PM":
        title: "Sinatra/ActiveRecord"
-       url: "https://github.com/ga-wdi-lessons/ruby-enumerables"
+       url: "https://github.com/ga-wdi-pvd/sinatra-and-activerecord"
        lead: "Toni"
        support: "Eric"
     - "4:00PM - 5:00PM":
