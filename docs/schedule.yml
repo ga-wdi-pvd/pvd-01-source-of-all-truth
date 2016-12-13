@@ -418,15 +418,15 @@
        url: "https://github.com/ga-wdi-pvd/sinatra-rest/blob/master/rest.md"
        lead: "Eric"
        support: "Josie"
-    - "1:30PM - 4:00PM":
+    - "1:30PM - 5:00PM":
        title: "Sinatra/ActiveRecord"
        url: "https://github.com/ga-wdi-pvd/sinatra-and-activerecord"
        lead: "Toni"
        support: "Eric"
-    - "4:00PM - 5:00PM":
-       title: "Walkthrough homeworks/labs/challenges"
+    - "Homework":
+       title: "Finish Sinatra CRUD"
        url: ""
-       lead: "Eric"
+       lead: ""
        support: ""
     - "5:00PM - 6:00PM":
        title: "Office Hours"
