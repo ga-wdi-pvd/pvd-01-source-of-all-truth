@@ -424,7 +424,7 @@
        lead: "Toni"
        support: "Eric"
     - "Homework":
-       title: "Finish Sinatra CRUD"
+       title: "Finish Sinatra/ActiveRecord CRUD"
        url: ""
        lead: ""
        support: ""
