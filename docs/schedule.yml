@@ -435,7 +435,8 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Ruby Checkpoint"
-       url: "https://github.com/ga-wdi-exercises/checkpoint-04"
+       url: "https://github.com/ga-wdi-pvd/checkpoint-04"
+       lead: "Danny"
     - "10:00AM - 12:30PM":
        title: "Outcomes"
        url: ""
