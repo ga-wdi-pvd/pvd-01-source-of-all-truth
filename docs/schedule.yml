@@ -460,7 +460,7 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "Intro to RAILS"
-       url: "https://github.com/ga-wdi-lessons/http-mvc-intro-rails"
+       url: "https://github.com/ga-wdi-pvd/http-mvc-intro-rails"
        lead: "Danny"
        support: "Eric"
     - "1:30PM - 4:00PM":
