@@ -439,8 +439,8 @@
        lead: "Danny"
     - "10:00AM - 12:30PM":
        title: "Outcomes"
-       url: ""
-       lead: "Eric"
+       url: "https://github.com/juliesthebest/ProvidenceOutcomes"
+       lead: "Julie"
        support: ""
     - "1:30PM - 4:00PM":
        title: "Sinatra Lab"
