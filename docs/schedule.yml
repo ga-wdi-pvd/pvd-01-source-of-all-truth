@@ -410,7 +410,7 @@
        support: ""
     - "9:00AM - 10:00AM":
        title: "Hot Topic - Shortcuts and Workflow tips"
-       url: ""
+       url: "https://github.com/ga-wdi-pvd/pvd-01-source-of-all-truth/blob/master/keyboard-shortcuts.md"
        lead: "Josie"
        support: ""
     - "10:00AM - 12:30PM":
