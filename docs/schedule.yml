@@ -481,6 +481,11 @@
        title: "Office Hours"
        lead: "Eric"
        support: ""
+    - "Homework":
+       title: "Scribble: Night One"
+       url: "https://github.com/ga-wdi-pvd/scribble"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Slips"
@@ -502,6 +507,11 @@
        url: ""
        lead: "Danny"
        support: "Josie"
+    - "Homework":
+       title: "Scribble: Night Two"
+       url: "https://github.com/ga-wdi-pvd/scribble"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Ruby Challenge"
