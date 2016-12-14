@@ -458,10 +458,10 @@
        lead: "Josie"
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Sinatra Diagnostic"
+       title: "Ruby Checkpoint Review"
        url: ""
        lead: "Josie"
-       support: ""
+       support: "Danny"
     - "10:00AM - 12:30PM":
        title: "Intro to RAILS"
        url: "https://github.com/ga-wdi-pvd/http-mvc-intro-rails"
