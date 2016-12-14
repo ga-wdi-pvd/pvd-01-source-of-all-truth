@@ -469,7 +469,7 @@
        support: "Eric"
     - "1:30PM - 4:00PM":
        title: "RAILS CRUD - Index/Show"
-       url: "https://github.com/ga-wdi-lessons/rails_features_CRD"
+       url: "https://github.com/ga-wdi-pvd/rails_features_CRD"
        lead: "Toni"
        support: "Josie"
     - "4:00PM - 5:00PM":
@@ -489,12 +489,12 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "RAILS - New/Create/Delete"
-       url: "https://github.com/ga-wdi-lessons/rails_features_CRD"
+       url: "https://github.com/ga-wdi-pvd/rails_features_CRD/blob/master/new_create_destroy.md"
        lead: "Danny"
        support: "Toni"
     - "1:30PM - 4:00PM":
        title: "RAILS - Edit/Update"
-       url: "https://github.com/ga-wdi-lessons/rails-features-U-partials"
+       url: "https://github.com/ga-wdi-pvd/rails_features_CRD/blob/master/edit_update_partials.md"
        lead: "Josie"
        support: "Toni"
     - "4:00PM - 5:00PM":
