@@ -729,10 +729,10 @@
        lead: ""
        support: ""
     - "3:30PM - 5:00PM":
-       title: "Intro To Angular Self Study"
-       url: "https://www.codeschool.com/courses/shaping-up-with-angular-js"
-       lead: "Code School"
-       support: "Danny, Eric, Toni, Josie"
+       title: "Something needs to go here"
+       url: ""
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Code Challenge"
@@ -822,6 +822,11 @@
        url: ""
        lead: ""
        support: ""
+    - "Homework":
+       title: "Intro To Angular Self Study"
+       url: "https://www.codeschool.com/courses/shaping-up-with-angular-js"
+       lead: "Code School"
+       support: "Danny, Eric, Toni, Josie"
   - day:
     - "9:00AM - 5:00PM":
        title: "No Class - Martin Luther King"
