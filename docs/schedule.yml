@@ -529,10 +529,12 @@
        lead: "Toni"
        support: "Danny"
     - "4:00PM - 5:00PM":
-       title: "Lab"
+       title: "Walthrough - Rails App CRUD, Validations & Routing"
        url: ""
-       lead: ""
+       lead: "Eric"
        support: ""
+    - "Homework":
+       title: "TBD - add to your own project"
   - day:
     - "8:00AM - 9:00AM":
        title: "Office Hours"
