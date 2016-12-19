@@ -534,7 +534,10 @@
        lead: "Eric"
        support: ""
     - "Homework":
-       title: "TBD - add to your own project"
+       title: "Hogwarts!"
+       url: "https://github.com/ga-wdi-pvd/hogwarts_rails"
+       lead: ""
+       supoort: ""
   - day:
     - "8:00AM - 9:00AM":
        title: "Office Hours"
@@ -564,21 +567,26 @@
        title: "Office Hours"
        lead: "Toni"
        support: ""
+    - "Homework":
+       title: "Hogwarts!"
+       url: "https://github.com/ga-wdi-pvd/hogwarts_rails"
+       lead: ""
+       supoort: ""      
   - day:
     - "9:00AM - 12:30PM":
        title: "Game of Thrones Lab"
        url: "https://github.com/ga-wdi-exercises/game_of_thrones/tree/master"
        lead: "Toni"
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "Lab walkthrough"
+    - "1:30PM - 3:00PM":
+       title: "Lab Walkthrough"
        url: ""
        lead: "Toni"
        support: "Eric"
-    - "2:30PM - 5:00PM":
-       title: "Outcomes"
+    - "3:00PM - 5:00PM":
+       title: "Hogwarts Walkthrough"
        url: ""
-       lead: "Julie"
+       lead: ""
        support: ""
   - day:
     - "8:00AM - 9:00AM":
