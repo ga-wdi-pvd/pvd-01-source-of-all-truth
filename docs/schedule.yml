@@ -549,8 +549,8 @@
        lead: "Eric"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Rails User w/o Encryption"
-       url: "https://github.com/ga-wdi-pvd/rails-users-sessions-flash-cookies"
+       title: "Authorization, Authentication, User Management / Devise"
+       url: "https://github.com/ga-wdi-lessons/devise"
        lead: "Danny"
        support: "Eric"
     - "1:30PM - 4:00PM":
@@ -623,14 +623,24 @@
        url: "https://ga-dc.github.io/slips/"
        lead: "Josie"
        support: ""
-    - "10:00AM - 12:30PM":
-       title: "User Stories"
-       url: "https://github.com/ga-wdi-lessons/user-stories-and-problem-modeling"
+    - "10:00AM - 10:30AM":
+       title: "User Stories/ Data Modeling - Haxor News"
+       url: ""
        lead: "Eric"
        support: "Toni"
+    - "10:30AM - 11:00AM":
+       title: "Initial Rails App Setup - Haxor News"
+       url: ""
+       lead: "Eric"
+       support: "Toni"
+    - "11:00PM - 12:30AM":
+       title: "User Routes and Authentication - Haxor News"
+       url: ""
+       lead: "Danny"
+       support: "Eric"
     - "1:30PM - 4:00PM":
-       title: "Authorization, Authentication, User Management"
-       url: "https://github.com/ga-wdi-lessons/devise"
+       title: "Routes (full CRUD for the models) - Haxor News"
+       url: ""
        lead: "Danny"
        support: "Eric"
     - "4:00PM - 5:00PM":
