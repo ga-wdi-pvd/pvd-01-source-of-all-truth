@@ -550,7 +550,7 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "Rails User w/o Encryption"
-       url: "https://github.com/ga-wdi-lessons/rails-users-sessions-flash-cookies"
+       url: "https://github.com/ga-wdi-pvd/rails-users-sessions-flash-cookies"
        lead: "Danny"
        support: "Eric"
     - "1:30PM - 4:00PM":
@@ -635,6 +635,9 @@
        support: "Eric"
     - "4:00PM - 5:00PM":
        title: "Home Early w/ Portfolio Project to do on break"
+    - "Bonus Homework":
+       title: "Haxor News Clone: Practice everything we've covered in Rails"
+       url: "https://github.com/ga-wdi-pvd/wdi_4_rails_hw_hacker_news"
   - day:
     - "9:00AM - 5:00PM":
        title: "No Class - Christmas"
