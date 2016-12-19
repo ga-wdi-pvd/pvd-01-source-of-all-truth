@@ -544,8 +544,8 @@
        lead: "Danny"
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Hot Topic"
-       url: ""
+       title: "Blockstack - Hot Topic"
+       url: "https://blockstack.org/"
        lead: "Eric"
        support: ""
     - "10:00AM - 12:30PM":
