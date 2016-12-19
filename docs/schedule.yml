@@ -592,7 +592,7 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "Many to Many"
-       url: "https://github.com/ga-wdi-lessons/rails-many-to-many"
+       url: "https://github.com/ga-wdi-pvd/rails-many-to-many/blob/master/README.md"
        lead: "Eric"
        support: "Toni"
     - "1:30PM - 4:00PM":
