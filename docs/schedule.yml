@@ -520,7 +520,7 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "RAILS Validation"
-       url: "https://github.com/ga-wdi-lessons/rails-sessions-flash-validations-errors"
+       url: "https://github.com/ga-wdi-pvd/rails-sessions-flash-validations-errors"
        lead: "Josie"
        support: "Eric"
     - "1:30PM - 4:00PM":
