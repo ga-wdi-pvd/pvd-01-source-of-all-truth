@@ -552,7 +552,7 @@
        title: "Authorization, Authentication, User Management / Devise"
        url: "https://github.com/ga-wdi-pvd/devise"
        lead: "Danny"
-       support: "Eric"
+       support: "Josie"
     - "1:30PM - 4:00PM":
        title: "Testing"
        url: "https://github.com/ga-wdi-pvd/rspec"
