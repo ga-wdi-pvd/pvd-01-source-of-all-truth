@@ -550,7 +550,7 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "Authorization, Authentication, User Management / Devise"
-       url: "https://github.com/ga-wdi-lessons/devise"
+       url: "https://github.com/ga-wdi-pvd/devise"
        lead: "Danny"
        support: "Eric"
     - "1:30PM - 4:00PM":
