@@ -866,19 +866,19 @@
        url: ""
        lead: ""
        support: ""
-    - "1:30PM - 4:00PM":
-       title: "UI Router"
+    - "1:30PM - 2:30PM":
+       title: "UI Router Part 1"
        url: ""
        lead: ""
        support: ""
-    - "4:00PM - 5:00PM":
-       title: "Lab"
+    - "3:30PM - 4:30PM":
+       title: "MojoTech Office Visit"
        url: ""
        lead: ""
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Hot Topic"
+       title: "UI Router Part 2"
        url: ""
        lead: ""
        support: ""
