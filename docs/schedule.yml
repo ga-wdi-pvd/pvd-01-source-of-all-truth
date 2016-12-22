@@ -604,12 +604,12 @@
        lead: "Eric"
        support: "Toni"
     - "1:30PM - 4:00PM":
-       title: "WalkThrough Review"
-       url: ""
+       title: "Lab: Dr. Scully's Scheduling app"
+       url: "https://github.com/ga-wdi-pvd/rails-many-to-many-lab/"
        lead: "Danny"
        support: "Josie"
     - "4:00PM - 5:00PM":
-       title: "Lab"
+       title: "Lab Walkthrough"
        url: ""
        lead: ""
        support: ""
