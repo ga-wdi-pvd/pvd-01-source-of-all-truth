@@ -645,6 +645,7 @@
        support: "Eric"
     - "4:00PM - 5:00PM":
        title: "Home Early w/ Portfolio Project to do on break"
+       url: "https://github.com/ga-wdi-pvd/portfolio_pages/blob/master/readme.md"
     - "Bonus Homework":
        title: "Haxor News Clone: Practice everything we've covered in Rails"
        url: "https://github.com/ga-wdi-pvd/wdi_4_rails_hw_hacker_news"
