@@ -874,7 +874,7 @@
     - "3:30PM - 4:30PM":
        title: "MojoTech Office Visit"
        url: ""
-       lead: ""
+       lead: "Danny"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -886,12 +886,12 @@
        title: "Angular Resources"
        url: ""
        lead: "Eric"
-       support: ""
+       support: "Danny"
     - "1:30PM - 2:30PM":
        title: "Angular AJAX Refactor"
        url: ""
        lead: "Eric"
-       support: ""
+       support: "Toni"
     - "2:30PM - 4:30PM":
        title: "Employer Panel w/ Tech Hire"
        url: "https://techhire.org/community/rhode_island/"
@@ -922,29 +922,29 @@
     - "9:00AM - 10:00AM":
        title: "Slips"
        url: "https://ga-dc.github.io/slips/"
-       lead: ""
+       lead: "Toni"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Lab"
        url: ""
-       lead: ""
-       support: ""
+       lead: "Danny"
+       support: "Eric"
     - "1:30PM - 3:00PM":
        title: "Lab"
        url: ""
-       lead: ""
-       support: ""
+       lead: "Eric"
+       support: "Danny"
     - "3:00PM - 5:00PM":
        title: "Lab Walkthrough"
        url: ""
-       lead: ""
-       support: ""
+       lead: "Toni"
+       support: "Danny"
   - day:
     - "9:00AM - 10:00AM":
        title: "Git Team Workflow"
        url: ""
-       lead: ""
-       support: ""
+       lead: "Danny"
+       support: "Josie"
     - "10:00AM - 12:30PM":
        title: "Project3"
        url: ""
@@ -1013,13 +1013,13 @@
     - "10:00AM - 12:30PM":
        title: "Websockets"
        url: ""
-       lead: ""
-       support: ""
+       lead: "Eric"
+       support: "Toni"
     - "1:30PM - 4:00PM":
        title: "React Intro?"
        url: ""
        lead: "Josie"
-       support: ""
+       support: "Danny"
     - "4:00PM - 5:00PM":
        title: "Lab"
        url: ""
@@ -1029,38 +1029,38 @@
     - "9:00AM - 10:00AM":
        title: "Hot Topic"
        url: ""
-       lead: ""
+       lead: "Danny"
        support: ""
     - "10:00AM - 12:30PM":
        title: "React continued"
        url: ""
-       lead: ""
-       support: ""
+       lead: "Toni"
+       support: "Danny"
     - "1:30PM - 4:00PM":
        title: "React Lab?"
        url: ""
-       lead: ""
+       lead: "Danny"
        support: ""
     - "4:00PM - 5:00PM":
        title: "Lab"
        url: ""
-       lead: ""
+       lead: "Danny"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Homework WalkThrough"
        url: ""
-       lead: ""
+       lead: "Josie"
        support: ""
     - "10:00AM - 12:30PM":
        title: "React Router"
        url: ""
-       lead: ""
+       lead: "Eric"
        support: ""
     - "1:30PM - 4:00PM":
        title: "React Axios"
        url: ""
-       lead: ""
+       lead: "Danny"
        support: ""
     - "4:00PM - 5:00PM":
        title: "Lab"
@@ -1071,33 +1071,33 @@
     - "9:00AM - 10:00AM":
        title: "Diagnostic"
        url: ""
-       lead: ""
+       lead: "Danny"
        support: ""
     - "10:00AM - 12:30PM":
        title: "React Lab"
        url: ""
-       lead: ""
-       support: ""
+       lead: "Josie"
+       support: "Eric"
     - "1:30PM - 3:30PM":
        title: "React Lab"
        url: ""
-       lead: ""
-       support: ""
+       lead: "Toni"
+       support: "Danny"
     - "3:30PM - 5:00PM":
        title: "Lab WalkThrough"
        url: ""
-       lead: ""
+       lead: "Danny"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Slips"
        url: ""
-       lead: ""
+       lead: "Danny"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Project4"
        url: ""
-       lead: ""
+       lead: "Toni"
        support: ""
     - "1:30PM - 5:00PM":
        title: "Project4"
