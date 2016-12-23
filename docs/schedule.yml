@@ -766,16 +766,16 @@
        title: "Mongo"
        url: ""
        lead: "Josie"
-       support: ""
+       support: "Toni"
     - "11:00AM - 12:30PM":
        title: "Node.JS"
        url: ""
-       lead: ""
-       support: ""
+       lead: "Eric"
+       support: "Toni"
     - "1:30PM - 4:00PM":
        title: "Express.JS"
        url: ""
-       lead: ""
+       lead: "Danny"
        support: "Josie"
     - "5:00PM - 5:00PM":
        title: "Lab"
@@ -791,13 +791,13 @@
     - "10:00AM - 12:30PM":
        title: "Mongoose Intro"
        url: ""
-       lead: ""
+       lead: "Toni"
        support: "Josie"
     - "1:30PM - 4:00PM":
        title: "Mongoose w/Express"
        url: ""
-       lead: ""
-       support: ""
+       lead: "Danny"
+       support: "Eric"
     - "4:00PM - 5:00PM":
        title: "Lab"
        url: ""
@@ -812,33 +812,33 @@
     - "10:00AM - 12:30PM":
        title: "MEAN 1"
        url: ""
-       lead: ""
-       support: ""
+       lead: "Eric"
+       support: "Josie"
     - "1:30PM - 4:00PM":
        title: "MEAN 2"
        url: ""
-       lead: ""
-       support: ""
+       lead: "Toni"
+       support: "Danny"
     - "4:00PM - 5:00PM":
        title: "Lab"
        url: ""
-       lead: ""
+       lead: "Toni"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Slips"
        url: ""
-       lead: ""
+       lead: "Eric"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Intro to OAuth and 3rd Party APIS with Express"
        url: ""
-       lead: ""
-       support: ""
+       lead: "Danny"
+       support: "Josie"
     - "1:30PM - 3:30PM":
        title: "Lab"
        url: ""
-       lead: ""
+       lead: "Eric"
        support: ""
     - "3:30PM - 5:00PM":
        title: "Lab Walkthrough"
@@ -864,13 +864,13 @@
     - "10:00AM - 12:30PM":
        title: "Intro To Angular"
        url: ""
-       lead: ""
+       lead: "Eric"
        support: "Josie"
     - "1:30PM - 2:30PM":
        title: "UI Router Part 1"
        url: ""
-       lead: ""
-       support: ""
+       lead: "Danny"
+       support: "Toni"
     - "3:30PM - 4:30PM":
        title: "MojoTech Office Visit"
        url: ""
@@ -880,17 +880,17 @@
     - "9:00AM - 10:00AM":
        title: "UI Router Part 2"
        url: ""
-       lead: ""
-       support: ""
+       lead: "Danny"
+       support: "Josie"
     - "10:00AM - 12:30PM":
        title: "Angular Resources"
        url: ""
-       lead: ""
+       lead: "Eric"
        support: ""
     - "1:30PM - 2:30PM":
        title: "Angular AJAX Refactor"
        url: ""
-       lead: ""
+       lead: "Eric"
        support: ""
     - "2:30PM - 4:30PM":
        title: "Employer Panel w/ Tech Hire"
@@ -901,18 +901,18 @@
     - "9:00AM - 10:00AM":
        title: "Diagnostic"
        url: ""
-       lead: ""
+       lead: "Josie"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Rails API featuring Angular"
        url: ""
-       lead: ""
-       support: ""
+       lead: "Danny"
+       support: "Eric"
     - "1:30PM - 4:00PM":
        title: "Firebase"
        url: ""
-       lead: ""
-       support: ""
+       lead: "Toni"
+       support: "Danny"
     - "4:00PM - 5:00PM":
        title: "Lab"
        url: ""
