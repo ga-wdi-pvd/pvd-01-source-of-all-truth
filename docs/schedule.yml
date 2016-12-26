@@ -753,15 +753,15 @@
        lead: ""
        support: ""
     - "3:30PM - 5:00PM":
-       title: "Something needs to go here"
-       url: ""
+       title: "CodeWars Wars!"
+       url: "https://www.codewars.com/"
        lead: ""
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Code Challenge"
-       url: ""
-       lead: ""
+       title: "Hot Topic - Vim, tmux, tmate"
+       url: "https://gist.github.com/danman01/1113b759d054338b9c240e05731a22e4"
+       lead: "Danny"
        support: ""
     - "10:00AM - 11:00AM":
        title: "Mongo"
