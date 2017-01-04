@@ -764,8 +764,8 @@
        lead: "Danny"
        support: ""
     - "10:00AM - 11:00AM":
-       title: "Mongo"
-       url: ""
+       title: "Mongo Intro"
+       url: "https://github.com/ga-wdi-pvd/wdi_7_mongo_intro"
        lead: "Josie"
        support: "Toni"
     - "11:00AM - 12:30PM":
