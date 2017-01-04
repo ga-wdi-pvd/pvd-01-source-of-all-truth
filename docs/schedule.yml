@@ -806,8 +806,8 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Diagnostic"
-       url: ""
+       title: "Mongoose Diagnostic"
+       url: "https://github.com/ga-wdi-boston/mongoose-crud-diagnostic"
        lead: "Josie"
        support: ""
     - "10:00AM - 12:30PM":
