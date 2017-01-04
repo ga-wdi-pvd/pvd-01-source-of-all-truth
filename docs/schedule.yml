@@ -900,8 +900,8 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Diagnostic"
-       url: ""
+       title: "Angular Diagnostic"
+       url: "https://github.com/ga-wdi-pvd/angular_quiz"
        lead: "Josie"
        support: ""
     - "10:00AM - 12:30PM":
