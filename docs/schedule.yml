@@ -634,12 +634,12 @@
        lead: "Eric"
        support: "Toni"
     - "11:00PM - 12:30AM":
-       title: "User Routes and Authentication - Haxor News"
-       url: ""
+       title: "Deploy with Heroku"
+       url: "https://devcenter.heroku.com/articles/getting-started-with-rails5"
        lead: "Danny"
        support: "Eric"
     - "1:30PM - 4:00PM":
-       title: "Routes (full CRUD for the models) - Haxor News"
+       title: "Routes, User Authentication with Devise, CRUD - Haxor News"
        url: ""
        lead: "Danny"
        support: "Eric"
