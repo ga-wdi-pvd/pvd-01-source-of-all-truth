@@ -800,8 +800,8 @@
        lead: "Danny"
        support: "Eric"
     - "4:00PM - 5:00PM":
-       title: "Lab"
-       url: ""
+       title: "Express Microblog Lab"
+       url: "https://github.com/ga-wdi-pvd/express-microblog"
        lead: "Josie"
        support: ""
   - day:
