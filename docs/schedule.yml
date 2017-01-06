@@ -763,14 +763,9 @@
        url: "https://gist.github.com/danman01/1113b759d054338b9c240e05731a22e4"
        lead: "Danny"
        support: ""
-    - "10:00AM - 11:00AM":
-       title: "Mongo Intro"
-       url: "https://github.com/ga-wdi-pvd/wdi_7_mongo_intro"
-       lead: "Josie"
-       support: "Toni"
-    - "11:00AM - 12:30PM":
+    - "10:00AM - 12:30PM":
        title: "Node.JS"
-       url: ""
+       url: "https://github.com/ga-wdi-pvd/node-intro"
        lead: "Eric"
        support: "Toni"
     - "1:30PM - 4:00PM":
@@ -778,24 +773,24 @@
        url: ""
        lead: "Danny"
        support: "Josie"
-    - "5:00PM - 5:00PM":
+    - "4:00PM - 5:00PM":
        title: "Lab"
        url: ""
        lead: ""
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Homework Walkthrough"
-       url: ""
-       lead: ""
-       support: ""
+       title: "Mongo Intro"
+       url: "https://github.com/ga-wdi-pvd/wdi_7_mongo_intro"
+       lead: "Josie"
+       support: "Eric"
     - "10:00AM - 12:30PM":
        title: "Mongoose Intro"
-       url: ""
+       url: "https://github.com/ga-wdi-pvd/mongoose-intro"
        lead: "Toni"
        support: "Josie"
     - "1:30PM - 2:30PM":
-       title: "Mongoose w/Express Part 1"
+       title: "Mongoose w/ Express Part 1"
        url: "https://github.com/ga-wdi-pvd/express-mongoose"
        lead: "Danny"
        support: "Eric"
@@ -807,7 +802,7 @@
     - "Homework":
        title: "Express Microblog"
        url: "https://github.com/ga-wdi-pvd/express-microblog"
-       lead: "Josie"
+       lead: ""
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -816,14 +811,14 @@
        lead: "Josie"
        support: ""
     - "10:00AM - 12:30PM":
+       title: "Mongoose w/ Express Part 2"
+       url: "https://github.com/ga-wdi-pvd/express-mongoose""
+       lead: "Danny"
+       support: "Toni"
+    - "1:30PM - 4:00PM":
        title: "ME(A)N 1"
        url: ""
        lead: "Eric"
-       support: "Josie"
-    - "1:30PM - 4:00PM":
-       title: "Intro to OAuth and 3rd Party APIS with Express"
-       url: ""
-       lead: "Danny"
        support: "Josie"
     - "4:00PM - 5:00PM":
        title: "Lab"
@@ -837,9 +832,9 @@
        lead: "Eric"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Lab"
+       title: "Intro to OAuth and 3rd Party APIS with Express"
        url: ""
-       lead: "Eric"
+       lead: "Danny"
        support: "Josie"
     - "1:30PM - 3:30PM":
        title: "Lab"
