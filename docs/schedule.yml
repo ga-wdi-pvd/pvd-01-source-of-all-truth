@@ -794,13 +794,18 @@
        url: ""
        lead: "Toni"
        support: "Josie"
-    - "1:30PM - 4:00PM":
-       title: "Mongoose w/Express"
+    - "1:30PM - 2:30PM":
+       title: "Mongoose w/Express Part 1"
        url: ""
        lead: "Danny"
        support: "Eric"
-    - "4:00PM - 5:00PM":
-       title: "Express Microblog Lab"
+     - "2:30PM - 4:30PM":
+       title: "Employer Panel w/ Tech Hire"
+       url: "https://techhire.org/community/rhode_island/"
+       lead: ""
+       support: ""
+     - "Homework":
+       title: "Express Microblog"
        url: "https://github.com/ga-wdi-pvd/express-microblog"
        lead: "Josie"
        support: ""
@@ -894,8 +899,8 @@
        lead: "Eric"
        support: "Toni"
     - "2:30PM - 4:30PM":
-       title: "Employer Panel w/ Tech Hire"
-       url: "https://techhire.org/community/rhode_island/"
+       title: "Add Something Here"
+       url: ""
        lead: ""
        support: ""
   - day:
