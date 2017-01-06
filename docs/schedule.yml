@@ -785,7 +785,7 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Home Walkthrough"
+       title: "Homework Walkthrough"
        url: ""
        lead: ""
        support: ""
@@ -811,15 +811,15 @@
        lead: "Josie"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "MEAN 1"
+       title: "ME(A)N 1"
        url: ""
        lead: "Eric"
        support: "Josie"
     - "1:30PM - 4:00PM":
-       title: "MEAN 2"
+       title: "Intro to OAuth and 3rd Party APIS with Express"
        url: ""
-       lead: "Toni"
-       support: "Danny"
+       lead: "Danny"
+       support: "Josie"
     - "4:00PM - 5:00PM":
        title: "Lab"
        url: ""
@@ -832,9 +832,9 @@
        lead: "Eric"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Intro to OAuth and 3rd Party APIS with Express"
+       title: "Lab"
        url: ""
-       lead: "Danny"
+       lead: "Eric"
        support: "Josie"
     - "1:30PM - 3:30PM":
        title: "Lab"
@@ -844,34 +844,34 @@
     - "3:30PM - 5:00PM":
        title: "Lab Walkthrough"
        url: ""
-       lead: "Josie"
+       lead: ""
        support: ""
     - "Homework":
        title: "Intro To Angular Self Study"
        url: "https://www.codeschool.com/courses/shaping-up-with-angular-js"
        lead: "Code School"
-       support: "Danny, Eric, Toni, Josie"
+       support: ""
   - day:
     - "9:00AM - 5:00PM":
        title: "No Class - Martin Luther King"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 10:00AM":
-       title: "Code Challenge"
-       url: "https://projecteuler.net/problem=28"
-       lead: "Josie"
-       support: ""
-    - "10:00AM - 12:30PM":
+    - "9:00AM - 11:30AM":
        title: "Intro To Angular"
-       url: ""
+       url: "https://projecteuler.net/problem=28"
        lead: "Eric"
        support: "Josie"
-    - "1:30PM - 2:30PM":
+    - "11:30AM - 12:30PM":
        title: "UI Router Part 1"
        url: ""
        lead: "Danny"
        support: "Toni"
+    - "1:30PM - 2:30PM":
+       title: "UI Router Part 2"
+       url: ""
+       lead: "Danny"
+       support: "Josie"
     - "3:30PM - 4:30PM":
        title: "MojoTech Office Visit"
        url: ""
@@ -879,10 +879,10 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "UI Router Part 2"
-       url: ""
-       lead: "Danny"
-       support: "Josie"
+       title: "Code Challenge"
+       url: "https://projecteuler.net/problem=28"
+       lead: "Josie"
+       support: ""
     - "10:00AM - 12:30PM":
        title: "Angular Resources"
        url: ""
@@ -905,15 +905,15 @@
        lead: "Josie"
        support: ""
     - "10:00AM - 12:30PM":
+       title: "MEAN 2"
+       url: ""
+       lead: "Toni"
+       support: "Josie"
+    - "1:30PM - 4:00PM":
        title: "Rails API featuring Angular"
        url: ""
        lead: "Danny"
        support: "Eric"
-    - "1:30PM - 4:00PM":
-       title: "Firebase"
-       url: ""
-       lead: "Toni"
-       support: "Danny"
     - "4:00PM - 5:00PM":
        title: "Lab"
        url: ""
@@ -926,10 +926,10 @@
        lead: "Toni"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Lab"
+       title: "Firebase"
        url: ""
-       lead: "Danny"
-       support: "Eric"
+       lead: "Toni"
+       support: "Danny"
     - "1:30PM - 3:00PM":
        title: "Lab"
        url: ""
