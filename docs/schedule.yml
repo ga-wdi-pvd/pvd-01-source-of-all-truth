@@ -799,12 +799,12 @@
        url: ""
        lead: "Danny"
        support: "Eric"
-     - "2:30PM - 4:30PM":
+    - "2:30PM - 4:30PM":
        title: "Employer Panel w/ Tech Hire"
        url: "https://techhire.org/community/rhode_island/"
        lead: ""
        support: ""
-     - "Homework":
+    - "Homework":
        title: "Express Microblog"
        url: "https://github.com/ga-wdi-pvd/express-microblog"
        lead: "Josie"
