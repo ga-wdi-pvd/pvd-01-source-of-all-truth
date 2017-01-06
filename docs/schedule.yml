@@ -796,7 +796,7 @@
        support: "Josie"
     - "1:30PM - 2:30PM":
        title: "Mongoose w/Express Part 1"
-       url: ""
+       url: "https://github.com/ga-wdi-pvd/express-mongoose"
        lead: "Danny"
        support: "Eric"
     - "2:30PM - 4:30PM":
