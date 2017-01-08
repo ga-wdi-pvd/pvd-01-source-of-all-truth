@@ -769,8 +769,8 @@
        lead: "Eric"
        support: "Toni"
     - "1:30PM - 4:00PM":
-       title: "Express.JS"
-       url: ""
+       title: "Express.JS Intro"
+       url: "https://github.com/ga-wdi-pvd/express-intro"
        lead: "Danny"
        support: "Josie"
     - "4:00PM - 5:00PM":
