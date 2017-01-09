@@ -778,6 +778,9 @@
        url: ""
        lead: ""
        support: ""
+    - "Homework":
+       title: "Emergency Compliment"
+       url: "https://github.com/ga-wdi-pvd/compliment-express"
   - day:
     - "9:00AM - 10:00AM":
        title: "Mongo Intro"
