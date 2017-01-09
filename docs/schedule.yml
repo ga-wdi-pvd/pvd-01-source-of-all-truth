@@ -892,12 +892,12 @@
        lead: "Eric"
        support: "Danny"
     - "1:30PM - 2:30PM":
-       title: "Angular AJAX Refactor"
+       title: "Julie Outcomes Talk (TBD)"
        url: ""
        lead: "Eric"
        support: "Toni"
     - "2:30PM - 4:30PM":
-       title: "Add Something Here"
+       title: "Ajax Angular Refactor"
        url: ""
        lead: ""
        support: ""
@@ -1103,8 +1103,8 @@
        url: ""
        lead: "Toni"
        support: ""
-    - "1:30PM - 5:00PM":
-       title: "Project4"
+    - "1:30PM - 5:00PM (TBD)":
+       title: "Datarista Office Visit"
        url: ""
        lead: ""
        support: ""
