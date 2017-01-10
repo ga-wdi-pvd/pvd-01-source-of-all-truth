@@ -827,10 +827,8 @@
        lead: "Toni"
        support: ""
     - "Homework":
-       title: "Express Microblog"
-       url: "https://github.com/ga-wdi-pvd/express-microblog"
-       lead: ""
-       support: ""
+       title: "Yum Part 2"
+       url: "https://github.com/ga-wdi-pvd/yum"
   - day:
     - "9:00AM - 10:00AM":
        title: "Slips"
@@ -843,8 +841,8 @@
        lead: "Danny"
        support: "Josie"
     - "1:30PM - 3:30PM":
-       title: "Lab"
-       url: ""
+       title: "Lab - Express Microblog"
+       url: "https://github.com/ga-wdi-pvd/express-microblog"
        lead: "Eric"
        support: ""
     - "3:30PM - 5:00PM":
@@ -895,7 +893,7 @@
        lead: "Eric"
        support: "Danny"
     - "1:30PM - 2:30PM":
-       title: "Julie Outcomes Talk (confirmed)"
+       title: "Julie Outcomes Talk (TBD)"
        url: ""
        lead: "Eric"
        support: "Toni"
