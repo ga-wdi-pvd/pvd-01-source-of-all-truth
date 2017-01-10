@@ -774,12 +774,7 @@
        lead: "Danny"
        support: "Josie"
     - "4:00PM - 5:00PM":
-       title: "Lab"
-       url: ""
-       lead: ""
-       support: ""
-    - "Homework":
-       title: "Node School"
+       title: "Lab - Node School"
        url: "https://github.com/workshopper/learnyounode"
     - "Homework":
        title: "Emergency Compliment"
