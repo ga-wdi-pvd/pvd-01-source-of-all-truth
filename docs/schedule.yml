@@ -801,8 +801,8 @@
        lead: ""
        support: ""
     - "Homework":
-       title: "Express Microblog"
-       url: "https://github.com/ga-wdi-pvd/express-microblog"
+       title: "Yum Part 1"
+       url: "https://github.com/ga-wdi-pvd/yum"
        lead: ""
        support: ""
   - day:
@@ -825,6 +825,11 @@
        title: "Lab"
        url: ""
        lead: "Toni"
+       support: ""
+    - "Homework":
+       title: "Express Microblog"
+       url: "https://github.com/ga-wdi-pvd/express-microblog"
+       lead: ""
        support: ""
   - day:
     - "9:00AM - 10:00AM":
