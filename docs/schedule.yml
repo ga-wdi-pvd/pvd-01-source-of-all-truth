@@ -895,13 +895,11 @@
     - "1:30PM - 2:30PM":
        title: "Julie Outcomes Talk (TBD)"
        url: ""
-       lead: "Eric"
-       support: "Toni"
     - "2:30PM - 4:30PM":
        title: "Ajax Angular Refactor"
        url: ""
-       lead: ""
-       support: ""
+       lead: "Eric"
+       support: "Toni"
   - day:
     - "9:00AM - 10:00AM":
        title: "Angular Diagnostic"
