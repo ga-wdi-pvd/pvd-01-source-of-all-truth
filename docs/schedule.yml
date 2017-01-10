@@ -779,6 +779,9 @@
        lead: ""
        support: ""
     - "Homework":
+       title: "Node School"
+       url: "https://github.com/workshopper/learnyounode"
+    - "Homework":
        title: "Emergency Compliment"
        url: "https://github.com/ga-wdi-pvd/compliment-express"
   - day:
