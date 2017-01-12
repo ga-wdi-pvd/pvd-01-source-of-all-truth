@@ -840,13 +840,13 @@
        url: ""
        lead: "Danny"
        support: "Josie"
-    - "1:30PM - 3:30PM":
+    - "1:30PM - 5:00PM":
        title: "Lab - Express Microblog"
        url: "https://github.com/ga-wdi-pvd/express-microblog"
        lead: "Eric"
        support: ""
-    - "3:30PM - 5:00PM":
-       title: "Lab Walkthrough"
+    - "5:30PM - 6:00PM":
+       title: ""
        url: ""
        lead: ""
        support: ""
