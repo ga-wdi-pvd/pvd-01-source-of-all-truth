@@ -815,16 +815,16 @@
        title: "Mongoose w/ Express Part 2"
        url: "https://github.com/ga-wdi-pvd/express-mongoose"
        lead: "Danny"
-       support: "Toni"
-    - "1:30PM - 4:00PM":
+       support: "Josie"
+    - "1:30PM - 5:00PM":
        title: "ME(A)N 1"
        url: "https://github.com/ga-wdi-pvd/mean-intro"
        lead: "Eric"
-       support: "Josie"
-    - "4:00PM - 5:00PM":
-       title: "Lab"
+       support: "Toni"
+    - "5:00PM - 6:00PM":
+       title: ""
        url: ""
-       lead: "Toni"
+       lead: ""
        support: ""
     - "Homework":
        title: "Yum Part 2"
