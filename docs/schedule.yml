@@ -836,8 +836,8 @@
        lead: "Eric"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Intro to OAuth and 3rd Party APIS with Express"
-       url: ""
+       title: "Express API"
+       url: "https://github.com/ga-wdi-pvd/express-api"
        lead: "Danny"
        support: "Josie"
     - "1:30PM - 5:00PM":
