@@ -836,8 +836,8 @@
        lead: "Eric"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Express API"
-       url: "https://github.com/ga-wdi-pvd/express-api"
+       title: "Express Beer API"
+       url: "https://github.com/ga-wdi-pvd/ExpressBeerApi"
        lead: "Danny"
        support: "Josie"
     - "1:30PM - 5:00PM":
