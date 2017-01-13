@@ -863,7 +863,7 @@
   - day:
     - "9:00AM - 11:30AM":
        title: "Intro To Angular"
-       url: "https://projecteuler.net/problem=28"
+       url: "https://github.com/ga-wdi-pvd/angular-intro-1"
        lead: "Eric"
        support: "Josie"
     - "11:30AM - 12:30PM":
@@ -889,7 +889,7 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "Angular Resources"
-       url: ""
+       url: "https://github.com/ga-wdi-pvd/angular-resources"
        lead: "Eric"
        support: "Danny"
     - "1:30PM - 2:30PM":
