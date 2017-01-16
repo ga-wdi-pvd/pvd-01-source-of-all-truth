@@ -868,12 +868,12 @@
        support: "Josie"
     - "11:30AM - 12:30PM":
        title: "UI Router Part 1"
-       url: ""
+       url: "https://github.com/ga-wdi-pvd/angular-routing"
        lead: "Danny"
        support: "Toni"
     - "1:30PM - 3:00PM":
        title: "UI Router Part 2"
-       url: ""
+       url: "https://github.com/ga-wdi-pvd/angular-routing"
        lead: "Danny"
        support: "Josie"
     - "3:00PM - 4:30PM":
