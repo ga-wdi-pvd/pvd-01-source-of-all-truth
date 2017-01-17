@@ -875,6 +875,7 @@
        title: "UI Router Part 2"
        url: "https://github.com/ga-wdi-pvd/angular-routing"
        lead: "Danny"
+       Lab: "Grumbler: http://ga-wdi-lessons.github.io/angular-routing/lab.html"
        support: "Josie"
     - "3:00PM - 4:30PM":
        title: "MojoTech Office Visit"
