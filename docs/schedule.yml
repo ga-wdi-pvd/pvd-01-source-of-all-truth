@@ -893,7 +893,7 @@
        lead: "Eric"
        support: "Danny"
     - "1:30PM - 2:30PM":
-       title: "Julie Outcomes Talk (TBD)"
+       title: "Julie Outcomes Talk"
        url: ""
     - "2:30PM - 4:30PM":
        title: "Ajax Angular Refactor"
@@ -1093,17 +1093,17 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Slips"
+       title: "Java Intro (or something Datarista related)"
        url: ""
-       lead: "Danny"
+       lead: "Eric"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Project4"
+       title: "Datarista Office Visit"
        url: ""
        lead: "Toni"
        support: ""
     - "1:30PM - 5:00PM (TBD)":
-       title: "Datarista Office Visit"
+       title: "Project 4 - Start"
        url: ""
        lead: ""
        support: ""
