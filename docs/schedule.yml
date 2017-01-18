@@ -901,7 +901,6 @@
        url: ""
        lead: "Eric"
        support: "Toni"
-       url: ""
     - "Homework":
        title: "Angular Superhero Phonebook"
        url: "https://github.com/ga-wdi-pvd/angular-superheroes"
