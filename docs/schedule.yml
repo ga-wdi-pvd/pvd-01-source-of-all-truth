@@ -913,8 +913,8 @@
        lead: "Toni"
        support: "Josie"
     - "1:30PM - 4:00PM":
-       title: "Rails API featuring Angular"
-       url: ""
+       title: "Rails API for Grumblr"
+       url: "https://github.com/ga-wdi-pvd/rails-api"
        lead: "Danny"
        support: "Eric"
     - "4:00PM - 5:00PM":
