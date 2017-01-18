@@ -1103,10 +1103,10 @@
        url: ""
        lead: "Toni"
        support: ""
-    - "1:30PM - 5:00PM (TBD)":
+    - "1:30PM - 5:00PM":
        title: "Project 4 - Start"
-       url: ""
-       lead: ""
+       url: "https://github.com/ga-wdi-pvd/project4"
+       lead: "Danny"
        support: ""
   - day:
     - "9:00AM - 12:30PM":
