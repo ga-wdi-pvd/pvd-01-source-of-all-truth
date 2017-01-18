@@ -909,7 +909,7 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "MEAN 2"
-       url: ""
+       url: "https://github.com/ga-wdi-pvd/building-a-mean-app"
        lead: "Toni"
        support: "Josie"
     - "1:30PM - 4:00PM":
