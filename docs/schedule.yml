@@ -901,6 +901,12 @@
        url: ""
        lead: "Eric"
        support: "Toni"
+       url: ""
+    - "Homework":
+       title: "Angular Superhero Phonebook"
+       url: "https://github.com/ga-wdi-pvd/angular-superheroes"
+       lead: ""
+       support: ""      
   - day:
     - "9:00AM - 10:00AM":
        title: "Angular Diagnostic"
