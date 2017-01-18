@@ -882,6 +882,11 @@
        url: ""
        lead: "Danny"
        support: ""
+    - "Homework":
+       title: "Grumblr"
+       url: "http://ga-wdi-lessons.github.io/angular-routing/lab.html"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Code Challenge"
