@@ -940,7 +940,7 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "Firebase"
-       url: ""
+       url: "https://github.com/ga-wdi-pvd/angular-firebase"
        lead: "Toni"
        support: "Danny"
     - "1:30PM - 3:00PM":
