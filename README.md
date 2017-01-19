@@ -19,7 +19,11 @@
 - **[Graduation Requirements](graduation-requirements.md)**
 - **[Calendar](https://ga-wdi-pvd.github.io/pvd-01-source-of-all-truth/)**
 - [Attendance](attendance.md)
+  * 4 Allowed Absenses
+  * Partial Day missed is a 1/2 absense
+  * Contact an Instructional Associate if you anticipate absenses or leaving early
 - [Homework Policy](homework-policy.md)
+  * Must Have 80% Completion to Graduate
 - [One-on-Ones](one-on-ones.md)
 - [Squads](https://tvlangley.github.io/podSquads/)
 - [Office Hours](office-hours.md)
