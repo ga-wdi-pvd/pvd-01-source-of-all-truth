@@ -36,7 +36,8 @@
 |  | Monday                 | Tuesday | Wednesday                 |Thursday         |  Friday
 | :-----            |:-----                 |:-----   |:-----                     |:-----         |:-----
 | 9:00-10:00     | Morning Exercise                | Morning Exercise     | Morning Exercise | Morning Exercise| Morning Exercise |
-| 10:00-12:30     | Lesson  | Lesson      | Lesson    | Lesson | Lesson |
+| 10:00-10:15     | Standup  | Standup    | Standup   | Standup | Standup |
+| 10:15-12:30     | Lesson  | Lesson      | Lesson    | Lesson | Lesson |
 | 12:30-1:30      | Lunch                 | Lunch      | Lunch | Lunch | Lunch |
 | 1:30-2:30 | Lesson  |  Lesson        | Review |  Lesson | Lesson  |
 | 2:30-4:00       | Lesson     | Lecture       | Outcomes | Lesson | Lesson  |
