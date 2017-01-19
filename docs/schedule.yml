@@ -895,7 +895,7 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "Angular Resources"
-       url: "https://github.com/ga-wdi-pvd/angular-resources"
+       url: "https://github.com/ga-wdi-pvd/angular-resources-solution"
        lead: "Eric"
        support: "Danny"
     - "1:30PM - 2:30PM":
@@ -903,7 +903,7 @@
        url: ""
     - "2:30PM - 4:30PM":
        title: "Ajax Angular Refactor"
-       url: ""
+       url: "https://github.com/ga-wdi-pvd/angular-resources-solution"
        lead: "Eric"
        support: "Toni"
     - "Homework":
