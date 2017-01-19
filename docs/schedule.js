@@ -4,6 +4,7 @@
   request.open('GET', './schedule.yml', true);
   var context = [];
   var yaml_lines = 0;
+  var day_index = 0;
   request.onload = loadCalendarData;
 
   function loadCalendarData(){
@@ -14,6 +15,7 @@
     } else {
 
       var doc = jsyaml.load(res.response)
+
       compileSchedule(doc); 
 
       updateTemplate(); 
@@ -23,7 +25,6 @@
   // Bug that omits the last day from the calendar....
   
   function compileSchedule(doc){
-    var day_index = 0
     var week = []
 
     for(var i = 0; i < doc[1].days.length; i++){
@@ -34,30 +35,7 @@
         day_index += 2
       }
 
-      var day = doc[1].days[i] 
-      day.day = day.day.map(function(event){
-        var time = Object.keys(event)[0]
-        if(typeof event[time].url === "string"){
-          var url = event[time].url
-        }
-        if(typeof event[time].url === "object"){
-          var urls = event[time].url.map(function(e){
-            var title = Object.keys(e)[0]
-            return {
-              title: title,
-              href: e[title]
-            }
-          })
-        }
-
-        delete event[time].url
-
-        var start_date = moment(doc[0]["start-date"]).add(day_index,"days");
-
-        var newDay = new Day(url, urls, time, start_date, event);
-
-        return newDay
-      })
+      var day = new Day(doc, i); 
       week.push(day);
       day_index++;
     }
@@ -100,7 +78,7 @@
     window.location.hash = today.value
   }
 
-  function Day(url,urls,time,start_date, event){
+  function Section(url,urls,time,start_date, event){
     this.date = start_date.format("ddd, MMM Do 'YY")
     this.yyyymmdd = start_date.format("YYYY-MM-DD")
 
@@ -115,4 +93,38 @@
       this[k] = event[time][k];
     }
   }
+
+  function Day(doc, i){
+    let day = doc[1].days[i]
+
+    this.section = day.day.map(function(event){
+      var time = Object.keys(event)[0]
+      if(typeof event[time].url === "string"){
+        var url = event[time].url
+      }
+      if(typeof event[time].url === "object"){
+        var urls = event[time].url.map(function(e){
+          var title = Object.keys(e)[0]
+          return {
+            title: title,
+            href: e[title]
+          }
+        })
+      }
+
+      delete event[time].url
+      var start_date = moment(doc[0]["start-date"]).add(day_index,"days");
+      var section = new Section(url, urls, time, start_date, event);
+      return section;
+    })
+    this.date = this.section[0].date
+    this.yyyymmdd = this.section[0].yyyymmdd
+
+  }
 })();
+/*
+ * pair with {{log this}} or some var in the handlebars view for debugging...
+Template.registerHelper("log", function(something) {
+    console.log(something);
+});
+*/
