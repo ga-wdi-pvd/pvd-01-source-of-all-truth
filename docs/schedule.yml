@@ -945,7 +945,7 @@
        support: "Danny"
     - "1:30PM - 3:30PM":
        title: "Git Team Workflow"
-       url: ""
+       url: "https://github.com/ga-wdi-pvd/git-teams"
        lead: "Danny"
        support: "Eric"
     - "3:30PM - 5:00PM":
