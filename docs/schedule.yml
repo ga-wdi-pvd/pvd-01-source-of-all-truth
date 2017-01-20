@@ -928,8 +928,8 @@
        lead: "Danny"
        support: "Eric"
     - "4:00PM - 5:00PM":
-       title: "Lab"
-       url: ""
+       title: "Lab - MEAN book App"
+       url: "https://github.com/ga-wdi-pvd/mean_book_app"
        lead: ""
        support: ""
   - day:
