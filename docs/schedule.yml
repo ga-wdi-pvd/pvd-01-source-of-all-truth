@@ -943,22 +943,21 @@
        url: "https://github.com/ga-wdi-pvd/angular-firebase"
        lead: "Toni"
        support: "Danny"
-    - "1:30PM - 3:00PM":
-       title: "Lab"
-       url: ""
-       lead: "Eric"
-       support: "Danny"
-    - "3:00PM - 5:00PM":
-       title: "Lab Walkthrough"
-       url: ""
-       lead: "Toni"
-       support: "Danny"
-  - day:
-    - "9:00AM - 10:00AM":
+    - "1:30PM - 3:30PM":
        title: "Git Team Workflow"
        url: ""
        lead: "Danny"
-       support: "Josie"
+       support: "Eric"
+    - "3:30PM - 5:00PM":
+       title: "Lab"
+       url: ""
+       lead: "Eric"
+       support: "Toni"
+  - day:
+    - "9:00AM - 10:15AM":
+       title: "Outcomes talk - with Guest Coach"
+       url: ""
+       lead: "Julie"
     - "10:00AM - 12:30PM":
        title: "Project3"
        url: "https://github.com/ga-wdi-pvd/group-project-3"
