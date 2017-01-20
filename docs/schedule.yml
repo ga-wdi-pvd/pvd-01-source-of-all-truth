@@ -949,8 +949,8 @@
        lead: "Danny"
        support: "Eric"
     - "3:30PM - 5:00PM":
-       title: "Lab"
-       url: ""
+       title: "User Auth w/ Passport"
+       url: "https://github.com/ga-wdi-pvd/passport-auth"
        lead: "Eric"
        support: "Toni"
   - day:
