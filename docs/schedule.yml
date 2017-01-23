@@ -1029,8 +1029,8 @@
        lead: "Eric"
        support: "Toni"
     - "1:30PM - 4:00PM":
-       title: "React Intro?"
-       url: ""
+       title: "React Intro"
+       url: "https://github.com/ga-wdi-pvd/react-intro"
        lead: "Josie"
        support: "Danny"
     - "4:00PM - 5:00PM":
@@ -1046,7 +1046,7 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "React continued"
-       url: ""
+       url: "https://github.com/ga-wdi-pvd/react-continued"
        lead: "Toni"
        support: "Danny"
     - "1:30PM - 4:00PM":
@@ -1066,13 +1066,13 @@
        lead: "Josie"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "React Router"
-       url: ""
+       title: "React Router - Todo Walkthrough"
+       url: "https://github.com/ga-wdi-pvd/react_todo_walkthrough"
        lead: "Eric"
        support: ""
     - "1:30PM - 4:00PM":
-       title: "React Axios"
-       url: ""
+       title: "React Axios - Todo walkthrough"
+       url: "https://github.com/ga-wdi-pvd/react_todo_walkthrough"
        lead: "Danny"
        support: ""
     - "4:00PM - 5:00PM":
