@@ -1045,17 +1045,17 @@
        lead: "Danny"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "React continued"
+       title: "React continued - theory, best practices"
        url: "https://github.com/ga-wdi-pvd/react-continued"
        lead: "Toni"
        support: "Danny"
     - "1:30PM - 4:00PM":
-       title: "React Lab?"
-       url: ""
+       title: "React Lab - Component Extravaganza!"
+       url: "https://github.com/ga-wdi-pvd/component-extravaganza"
        lead: "Danny"
        support: ""
     - "4:00PM - 5:00PM":
-       title: "Lab"
+       title: "Lab Walkthrough"
        url: ""
        lead: "Danny"
        support: ""
@@ -1071,7 +1071,7 @@
        lead: "Eric"
        support: ""
     - "1:30PM - 4:00PM":
-       title: "React Axios - Todo walkthrough"
+       title: "React Axios - Todo walkthrough part 2"
        url: "https://github.com/ga-wdi-pvd/react_todo_walkthrough"
        lead: "Danny"
        support: ""
@@ -1087,18 +1087,18 @@
        lead: "Danny"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "React Lab"
-       url: ""
+       title: "React Lab - OMDB"
+       url: "https://github.com/ga-wdi-exercises/react-omdb"
        lead: "Josie"
        support: "Eric"
     - "1:30PM - 3:30PM":
-       title: "React Lab"
-       url: ""
+       title: "React Lab - OMDB"
+       url: "https://github.com/ga-wdi-exercises/react-omdb"
        lead: "Toni"
        support: "Danny"
     - "3:30PM - 5:00PM":
        title: "Lab WalkThrough"
-       url: ""
+       url: "https://github.com/ga-wdi-exercises/react-omdb/commits/solution"
        lead: "Danny"
        support: ""
   - day:
