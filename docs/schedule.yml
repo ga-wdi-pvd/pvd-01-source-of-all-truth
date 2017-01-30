@@ -1034,9 +1034,9 @@
        lead: "Josie"
        support: "Danny"
     - "4:00PM - 5:00PM":
-       title: "Lab"
-       url: ""
-       lead: ""
+       title: "Lab - Tutorial Tic Tac Toe"
+       url: "https://facebook.github.io/react/tutorial/tutorial.html"
+       lead: "Josie"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
