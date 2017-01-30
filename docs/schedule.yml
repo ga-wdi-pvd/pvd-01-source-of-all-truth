@@ -1040,8 +1040,8 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Hot Topic"
-       url: ""
+       title: "Hot Topic - Amazon Alexa Developer Skill SDK"
+       url: "https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/content/fact-skill-1"
        lead: "Danny"
        support: ""
     - "10:00AM - 12:30PM":
