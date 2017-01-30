@@ -1021,7 +1021,7 @@
     - "9:00AM - 10:00AM":
        title: "Code Challenge"
        url: "https://projecteuler.net/problem=22"
-       lead: ""
+       lead: "Josie"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Websockets"
