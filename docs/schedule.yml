@@ -1020,7 +1020,7 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Code Challenge"
-       url: ""
+       url: "https://projecteuler.net/problem=22"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
