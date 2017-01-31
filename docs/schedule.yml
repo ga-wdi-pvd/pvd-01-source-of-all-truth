@@ -1059,6 +1059,11 @@
        url: ""
        lead: "Danny"
        support: ""
+    - "Homework":
+       title: "React Calculator"
+       url: "https://github.com/ga-wdi-pvd/react-calculator"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Homework WalkThrough"
