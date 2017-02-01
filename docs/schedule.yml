@@ -1065,12 +1065,7 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 10:00AM":
-       title: "Homework WalkThrough"
-       url: ""
-       lead: "Josie"
-       support: ""
-    - "10:00AM - 12:30PM":
+    - "9:00AM - 12:30PM":
        title: "React Shopping Cart Walkthrough"
        url: "https://github.com/ga-wdi-pvd/react_todo_walkthrough"
        lead: "Eric"
