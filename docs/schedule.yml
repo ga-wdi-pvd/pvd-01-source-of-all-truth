@@ -1071,12 +1071,12 @@
        lead: "Josie"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "React Router - Todo Walkthrough"
+       title: "React Shopping Cart Walkthrough"
        url: "https://github.com/ga-wdi-pvd/react_todo_walkthrough"
        lead: "Eric"
        support: ""
     - "1:30PM - 4:00PM":
-       title: "React Axios - Todo walkthrough part 2"
+       title: "React Todo App - Connecting Backend with Axios Part 1"
        url: "https://github.com/ga-wdi-pvd/react_todo_walkthrough"
        lead: "Danny"
        support: ""
@@ -1092,12 +1092,12 @@
        lead: "Danny"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "React Lab - OMDB"
-       url: "https://github.com/ga-wdi-exercises/react-omdb"
+       title: "React Todo App - Connecting Backend with Axios Part 2"
+       url: "https://github.com/ga-wdi-pvd/react_todo_walkthrough"
        lead: "Josie"
        support: "Eric"
     - "1:30PM - 3:30PM":
-       title: "React Lab - OMDB"
+       title: "React Lab - Finish OMDB"
        url: "https://github.com/ga-wdi-exercises/react-omdb"
        lead: "Toni"
        support: "Danny"
