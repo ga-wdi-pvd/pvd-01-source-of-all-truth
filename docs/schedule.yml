@@ -1173,28 +1173,82 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 12:30PM":
+       title: "Workshop"
+       url: ""
        lead: ""
        support: ""
+    - "1:30PM - 5:00PM":
+       title: "Workshop"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 12:30PM":
+       title: "Unconference Study"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Unconference Study"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 12:30PM":
+       title: "Unconference Study"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Unconference Presentations"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "Whiteboarding"
+       url: ""
+       lead: "Leon"
+       support: ""
+  - day:
+    - "9:00AM - 12:30PM":
+       title: "Workshop"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "End of Course Celebration"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "No Class (President's Day)"
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "Linchpin + Office Hours"
+       lead: "Danny"
+       support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "Outcomes Day 1"
+       lead: "Julie"
+       support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "Outcomes Day 2"
+       lead: "Julie"
+       support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "Mock Interview"
+       lead: "Chris"
+       support: "Antony"
   - day:
     - "9:00AM - 5:00PM":
        title: "No Class"
        lead: ""
        support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-
