@@ -1151,24 +1151,19 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 12:30PM":
-       title: "Project4"
-       url: ""
-       lead: ""
-       support: ""
-    - "1:30PM - 5:00PM":
-       title: "Project4"
+    - "9:00AM - 5:00PM":
+       title: "No Class - Snow Day"
        url: ""
        lead: ""
        support: ""
   - day:
     - "9:00AM - 12:30PM":
-       title: "Presentations"
+       title: "Project4"
        url: ""
        lead: ""
        support: ""
     - "1:30PM - 5:00PM":
-       title: "Presentations"
+       title: "Project4"
        url: ""
        lead: ""
        support: ""
