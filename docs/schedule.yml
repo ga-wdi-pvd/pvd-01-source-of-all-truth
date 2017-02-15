@@ -1168,24 +1168,24 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM - 11:30PM":
+       title: "Delay - Start of Class"
+       url: ""
+       lead: ""
+       support: ""
+    - "12:00PM - 5:00PM":
+       title: "Project 4"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
     - "9:00AM - 12:30PM":
        title: "Project 4 Presentations - Science Fair Style"
        url: ""
        lead: ""
        support: ""
     - "1:30PM - 5:00PM":
-       title: "Workshop - fix up portfolios!"
-       url: ""
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 12:30PM":
        title: "Unconference Intro - Groups of 2: Pick Language / Framework to research & present!"
-       url: ""
-       lead: ""
-       support: ""
-    - "1:30PM - 5:00PM":
-       title: "Unconference Prep"
        url: ""
        lead: ""
        support: ""
