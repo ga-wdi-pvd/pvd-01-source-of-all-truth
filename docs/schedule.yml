@@ -1213,7 +1213,7 @@
        lead: ""
        support: ""
     - "1:30PM - 5:00PM":
-       title: "End of Course Celebration"
+       title: "End of Course Celebration - Trinity Brewing"
        url: ""
        lead: ""
        support: ""
@@ -1224,17 +1224,23 @@
        support: ""
   - day:
     - "9:00AM - 5:00PM":
-       title: "Linchpin + Office Hours"
+       title: "Employee Engagement + Office Hours"
        lead: "Danny"
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "Outcomes Day 1"
+    - "9:00AM - 12:30PM":
+       title: "Outcomes Day 1: Virtual workshop on Personal Branding"
        lead: "Julie"
        support: ""
+    - "1:30PM - 5:00PM":
+       title: "TechHire talk and Career Platform setup"
   - day:
-    - "9:00AM - 5:00PM":
-       title: "Outcomes Day 2"
+    - "9:00AM - 12:30PM":
+       title: "Outcomes Day 2: Job Search Workshop with Julie"
+       lead: "Julie"
+       support: ""
+    - "1:30PM - 5:00PM":
+       title: "Outcomes Workshop, Diane: Salary Negotiations and Mock Interviews"
        lead: "Julie"
        support: ""
   - day:
