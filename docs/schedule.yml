@@ -1223,8 +1223,16 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "Employee Engagement + Office Hours"
+    - "9:00AM - 12AM":
+       title: "Project and portfolio workshop + Danny Office Hours"
+       lead: "Danny"
+       support: ""
+    - "1PM - 2PM":
+       title: "Oomph developers visiting us: Stephan and Nichole"
+       lead: "Danny"
+       support: ""
+    - "2PM - 5PM":
+       title: "Project and portfolio workshop + Danny Office Hours"
        lead: "Danny"
        support: ""
   - day:
